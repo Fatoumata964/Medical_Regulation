@@ -37,7 +37,7 @@ class TextInput(BaseModel):
 
 
 
-def extract_regulation(drug, contries, eudract):
+def extract_regulation(drug, countries, eudract):
     '''Extraction de la réglementation du médicament donné'''
     drug = process(drug)
     print(df[0:1])
@@ -71,8 +71,21 @@ def extract_regulation(drug, contries, eudract):
     query_engine_ex = index_ex.as_query_engine()
     query_engine_ep = index_ep.as_query_engine()
 
-    response_po=query_engine_po.query("for EudraCT Number: 2004-000088-92, what is the Name of Sponsorl?")
-    return response_po
+    reponses = []
+    response_po=query_engine_po.query(f"for EudraCT Number: {eudract} and Member State Concerned: {countries}, what is the Main objective of the trial?")
+    reponses.append(response_po)
+    response_so=query_engine_so.query("for EudraCT Number: {eudract} and Member State Concerned: {countries}, what are the Secondary objectives of the trial?")
+    reponses.append(response_so)
+    response_in=query_engine_in.query("for EudraCT Number: {eudract} and Member State Concerned: {countries}, what is the Principal inclusion criteria?")
+    reponses.append(response_in)
+    response_ex=query_engine_ex.query("for EudraCT Number: {eudract} and Member State Concerned: {countries}, what is the Principal exclusion criteria?")
+    reponses.append(response_ex)
+    response_ep=query_engine_ep.query("for EudraCT Number: {eudract} and Member State Concerned: {countries}, what is the Primary end point(s)?")
+    reponses.append(response_ep)
+
+    titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
+    parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
+    return '\n\n'.join(parts)
     
 @app.get('/')
 def index():
