@@ -12,7 +12,7 @@ embed_model=LangchainEmbedding(
 
 
 def vector_index(df_final):
-    P_objectives = [
+    p_objectives = [
         Document(
             text= f"Main objective of the trial: " + str(row['E.2.1 Main objective of the trial']), 
             metadata={
@@ -24,7 +24,7 @@ def vector_index(df_final):
         )
         for _, row in df_final.iterrows()
     ]
-    S_objectives = [
+    s_objectives = [
         Document(
             text= f"Secondary objectives of the trial: " + str(row['E.2.2 Secondary objectives of the trial']), 
             metadata={
@@ -79,8 +79,8 @@ def vector_index(df_final):
         embed_model=embed_model
     )
 
-    index_po=VectorStoreIndex.from_documents(P_objectives,service_context=service_context)
-    index_so=VectorStoreIndex.from_documents(S_objectives,service_context=service_context)
+    index_po=VectorStoreIndex.from_documents(p_objectives,service_context=service_context)
+    index_so=VectorStoreIndex.from_documents(s_objectives,service_context=service_context)
     index_in=VectorStoreIndex.from_documents(inclusion,service_context=service_context)
     index_ex=VectorStoreIndex.from_documents(exclusion,service_context=service_context)
     index_ep=VectorStoreIndex.from_documents(endpoint,service_context=service_context)
