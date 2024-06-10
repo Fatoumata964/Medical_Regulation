@@ -27,11 +27,9 @@ except Exception as e:
 
 
 # Define a Pydantic model to validate the input
-class TextInput1(BaseModel):
+class TextInput(BaseModel):
     text: str = "ritonavir"
-class TextInput2(BaseModel):
-    contries: str= "Spain - AEMPS"
-class TextInput3(BaseModel):
+    countries: str = "Spain - AEMPS"
     eudract: str = "2008-001611-38"
 
 def extract_regulation(drug, countries, eudract):
@@ -94,11 +92,10 @@ def index():
 
 # Define a route that accepts POST requests with JSON data containing the text
 @app.post("/apiv1/regulation/get-regulation")
-async def get_regulation(drug: TextInput1, countries: TextInput2, eudract: TextInput3):
+async def get_regulation(drug: TextInput):
     # You can perform text processing here
     start_time = time.time()
-    print(drug)
-    regulation_text = extract_regulation(drug, countries, eudract)
+    regulation_text = extract_regulation(drug.text, drug.countries, drug.eudract)
     # stopping the timer
     stop_time = time.time()
     elapsed_time = stop_time - start_time
