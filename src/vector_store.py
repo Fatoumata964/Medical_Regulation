@@ -5,6 +5,8 @@ from llama_index.legacy.embeddings.langchain import LangchainEmbedding
 from llama_index.core import Document
 from llm import llm
 
+mixtral = llm()
+
 embed_model=LangchainEmbedding(
     HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2"))
 
@@ -12,7 +14,7 @@ embed_model=LangchainEmbedding(
 def vector_index(df_final):
     P_objectives = [
         Document(
-            text= f"Main objective of the trial: " + row['E.2.1 Main objective of the trial'], 
+            text= f"Main objective of the trial: " + str(row['E.2.1 Main objective of the trial']), 
             metadata={
                 'EudraCT Number': row['A.2 EudraCT number'],
                 'Member State Concerned:': row['A.1 Member State Concerned'],
@@ -24,7 +26,7 @@ def vector_index(df_final):
     ]
     S_objectives = [
         Document(
-            text= f"Secondary objectives of the trial: " + row['E.2.2 Secondary objectives of the trial'], 
+            text= f"Secondary objectives of the trial: " + str(row['E.2.2 Secondary objectives of the trial']), 
             metadata={
                 'EudraCT Number': row['A.2 EudraCT number'],
                 'Member State Concerned:': row['A.1 Member State Concerned'],
@@ -36,7 +38,7 @@ def vector_index(df_final):
     ]
     inclusion = [
         Document(
-            text= f"Principal inclusion criteria: " + row['E.3 Principal inclusion criteria'], 
+            text= f"Principal inclusion criteria: " + str(row['E.3 Principal inclusion criteria']), 
             metadata={
                 'EudraCT Number': row['A.2 EudraCT number'],
                 'Member State Concerned:': row['A.1 Member State Concerned'],
@@ -48,7 +50,7 @@ def vector_index(df_final):
     ]
     exclusion = [
         Document(
-            text= f"Principal exclusion criteria: " + row['E.4 Principal exclusion criteria'], 
+            text= f"Principal exclusion criteria: " + str(row['E.4 Principal exclusion criteria']), 
             metadata={
                 'EudraCT Number': row['A.2 EudraCT number'],
                 'Member State Concerned:': row['A.1 Member State Concerned'],
@@ -60,7 +62,7 @@ def vector_index(df_final):
     ]
     endpoint = [
         Document(
-            text= f"Primary end point: " + row['E.5.1 Primary end point'], 
+            text= f"Primary end point: " + str(row['E.5.1 Primary end point']), 
             metadata={
                 'EudraCT Number': row['A.2 EudraCT number'],
                 'Member State Concerned:': row['A.1 Member State Concerned'],
@@ -73,7 +75,7 @@ def vector_index(df_final):
 
     service_context=ServiceContext.from_defaults(
         chunk_size=1024,
-        llm=llm,
+        llm=mixtral,
         embed_model=embed_model
     )
 
