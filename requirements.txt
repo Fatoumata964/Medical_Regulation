@@ -16,3 +16,4 @@ llama_index==0.10.43
 langchain-community==0.0.38
 llama-index-llms-langchain==0.1.4
 llama_index.llms.fireworks==0.1.5
+./models/sent2vec/.
