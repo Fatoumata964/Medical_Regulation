@@ -3,9 +3,7 @@ import uvicorn
 from colabcode import ColabCode
 from fastapi import FastAPI
 from pydantic import BaseModel
-from faiss_M import faiss_search_similar_medications
 from llm import llm
-from utils import process
 import pickle
 import os
 import pandas as pd
@@ -16,31 +14,28 @@ from llama_index.core.prompts.prompts import SimpleInputPrompt
 
 app = FastAPI()
 cc =  ColabCode(port=8002, code=False)
-df = pd.read_csv("./data/processed/data_cluster.csv")
+df = pd.read_csv("./data/df_final.csv")
 
 # Initialisation du modèle Sent2Vec
 model = sent2vec.Sent2vecModel()
 try:
       # Chargement du modèle depuis le chemin spécifié
-        model.load_model("./models/biosentvec.crdownload")
+        model.load_model("/content/drive/MyDrive/stage/hh/Medical_Reglementation/models/biosentvec.crdownload")
 except Exception as e:
       # Gestion des erreurs lors du chargement du modèle
       print(e)
 
 
 # Define a Pydantic model to validate the input
-class TextInput(BaseModel):
-    # text: str = "Povidone, amidon prégélatinisé, carboxyméthylamidon sodique (type A), talc, stéarate de magnésium"
+class TextInput1(BaseModel):
     text: str = "ritonavir"
+class TextInput2(BaseModel):
     contries: str= "Spain - AEMPS"
+class TextInput3(BaseModel):
     eudract: str = "2008-001611-38"
-
-
 
 def extract_regulation(drug, countries, eudract):
     '''Extraction de la réglementation du médicament donné'''
-    drug = process(drug)
-    print(df[0:1])
     
     # Intégration du texte du médicament et d'une phrase représentative de la maladie
     embedded_drug = model.embed_sentence(drug)
@@ -99,11 +94,11 @@ def index():
 
 # Define a route that accepts POST requests with JSON data containing the text
 @app.post("/apiv1/regulation/get-regulation")
-async def get_regulation(drug: TextInput):
+async def get_regulation(drug: TextInput1, countries: TextInput2, eudract: TextInput3):
     # You can perform text processing here
     start_time = time.time()
     print(drug)
-    regulation_text = extract_regulation(drug.text.lower())
+    regulation_text = extract_regulation(drug, countries, eudract)
     # stopping the timer
     stop_time = time.time()
     elapsed_time = stop_time - start_time
@@ -112,7 +107,7 @@ async def get_regulation(drug: TextInput):
     elapsed_time = time.strftime("%H:%M:%S", time.gmtime(elapsed_time))
     print(regulation_text)
     # Return the processed text as a response
-    return {"regulation": regulation_text}
+    return {"Protocol d'essai clinique": regulation_text}
 
 
 if __name__ == '__main__':
