@@ -17,9 +17,7 @@ def vector_index(df_final):
             text= f"Main objective of the trial: " + str(row['E.2.1 Main objective of the trial']), 
             metadata={
                 'EudraCT Number': row['A.2 EudraCT number'],
-                'Member State Concerned:': row['A.1 Member State Concerned'],
-                'cluster': row['cluster_labels'],
-                'Substance active': row['Substance active']
+                'Member State Concerned:': row['A.1 Member State Concerned']
             }
         )
         for _, row in df_final.iterrows()
@@ -29,9 +27,7 @@ def vector_index(df_final):
             text= f"Secondary objectives of the trial: " + str(row['E.2.2 Secondary objectives of the trial']), 
             metadata={
                 'EudraCT Number': row['A.2 EudraCT number'],
-                'Member State Concerned:': row['A.1 Member State Concerned'],
-                'cluster': row['cluster_labels'],
-                'Substance active': row['Substance active']
+                'Member State Concerned:': row['A.1 Member State Concerned']
             }
         )
         for _, row in df_final.iterrows()
@@ -41,9 +37,7 @@ def vector_index(df_final):
             text= f"Principal inclusion criteria: " + str(row['E.3 Principal inclusion criteria']), 
             metadata={
                 'EudraCT Number': row['A.2 EudraCT number'],
-                'Member State Concerned:': row['A.1 Member State Concerned'],
-                'cluster': row['cluster_labels'],
-                'Substance active': row['Substance active']
+                'Member State Concerned:': row['A.1 Member State Concerned']
             }
         )
         for _, row in df_final.iterrows()
@@ -53,9 +47,7 @@ def vector_index(df_final):
             text= f"Principal exclusion criteria: " + str(row['E.4 Principal exclusion criteria']), 
             metadata={
                 'EudraCT Number': row['A.2 EudraCT number'],
-                'Member State Concerned:': row['A.1 Member State Concerned'],
-                'cluster': row['cluster_labels'],
-                'Substance active': row['Substance active']
+                'Member State Concerned:': row['A.1 Member State Concerned']
             }
         )
         for _, row in df_final.iterrows()
@@ -65,9 +57,7 @@ def vector_index(df_final):
             text= f"Primary end point: " + str(row['E.5.1 Primary end point']), 
             metadata={
                 'EudraCT Number': row['A.2 EudraCT number'],
-                'Member State Concerned:': row['A.1 Member State Concerned'],
-                'cluster': row['cluster_labels'],
-                'Substance active': row['Substance active']
+                'Member State Concerned:': row['A.1 Member State Concerned']
             }
         )
         for _, row in df_final.iterrows()
