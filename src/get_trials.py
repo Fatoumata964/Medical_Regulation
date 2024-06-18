@@ -28,33 +28,33 @@ except Exception as e:
 
 # Define a Pydantic model to validate the input
 class TextInput(BaseModel):
-    text: str = "abacavir"
-    countries: str = "Italy - Italian Medicines Agency"
-    eudract: str = "2016-002413-22"
+    text: str = "irbesartan, hydrochlorothiazide"
+    countries: str = "Belgium - FPS Health-DGM"
+    eudract: str = "2004-000020-32"
 
 def extract_regulation(drug, countries, eudract):
     '''Extraction de la réglementation du médicament donné'''
     
     # Intégration du texte du médicament et d'une phrase représentative de la maladie
-    embedded_drug = model.embed_sentence(drug)
-    disease = df["Diseases"][df["Substance active"] == drug].iloc[0]
-    embedded_disease = model.embed_sentence(str(disease))
+    #embedded_drug = model.embed_sentence(drug)
+    #disease = df["Diseases"][df["Substance active"] == drug].iloc[0]
+    #embedded_disease = model.embed_sentence(str(disease))
     
     # Création de la matrice d'embedding en concaténant les embeddings du médicament et de la maladie
-    embedding_mat = np.hstack((embedded_disease, embedded_drug))
+    #embedding_mat = np.hstack((embedded_disease, embedded_drug))
     
-    print("Drug embedded")
+    #print("Drug embedded")
     
     # Chargement du modèle de clustering à partir du fichier pickle
-    with open("./models/clustering_model.pkl", 'rb') as f:
-        kmeans = pickle.load(f)
+    #with open("./models/clustering_model.pkl", 'rb') as f:
+        #kmeans = pickle.load(f)
     
     # Prédiction du cluster auquel appartient le médicament
-    y = kmeans.predict(embedding_mat)
+    y = df["cluster_labels"][df["Substance active"] == drug].iloc[0]
     print(y)
     
     # Recherche de médicaments similaires dans le même cluster
-    df_clus = df[df['cluster_labels'] == y[0]]
+    df_clus = df[df['cluster_labels'] == y]
     
 
     index_po, index_so, index_in, index_ex, index_ep = vector_index(df_clus)
@@ -65,15 +65,15 @@ def extract_regulation(drug, countries, eudract):
     query_engine_ep = index_ep.as_query_engine()
 
     reponses = []
-    response_po=query_engine_po.query(f"for EudraCT Number: {eudract}, Substance active: {drug} and Member State Concerned: {countries}, what is the Main objective of the trial?")
+    response_po=query_engine_po.query(f"for EudraCT Number: {eudract} and Member State Concerned: {countries}, what is the Main objective of the trial?")
     reponses.append(response_po)
-    response_so=query_engine_so.query(f"for EudraCT Number: {eudract}, Substance active: {drug} and Member State Concerned: {countries}, what are the Secondary objectives of the trial?")
+    response_so=query_engine_so.query(f"for EudraCT Number: {eudract} and Member State Concerned: {countries}, what are the Secondary objectives of the trial?")
     reponses.append(response_so)
-    response_in=query_engine_in.query(f"for EudraCT Number: {eudract}, Substance active: {drug} and Member State Concerned: {countries}, what is the Principal inclusion criteria?")
+    response_in=query_engine_in.query(f"for EudraCT Number: {eudract} and Member State Concerned: {countries}, what is the Principal inclusion criteria?")
     reponses.append(response_in)
-    response_ex=query_engine_ex.query(f"for EudraCT Number: {eudract}, Substance active: {drug} and Member State Concerned: {countries}, what is the Principal exclusion criteria?")
+    response_ex=query_engine_ex.query(f"for EudraCT Number: {eudract} and Member State Concerned: {countries}, what is the Principal exclusion criteria?")
     reponses.append(response_ex)
-    response_ep=query_engine_ep.query(f"for EudraCT Number: {eudract}, Substance active: {drug} and Member State Concerned: {countries}, what is the Primary end point(s)?")
+    response_ep=query_engine_ep.query(f"for EudraCT Number: {eudract} and Member State Concerned: {countries}, what is the Primary end point(s)?")
     reponses.append(response_ep)
 
     titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
