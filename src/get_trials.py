@@ -28,9 +28,9 @@ except Exception as e:
 
 # Define a Pydantic model to validate the input
 class TextInput(BaseModel):
-    text: str = "ritonavir"
-    countries: str = "Spain - AEMPS"
-    eudract: str = "2008-001611-38"
+    text: str = "irbesartan, hydrochlorothiazide"
+    countries: str = "Belgium - FPS Health-DGM"
+    eudract: str = "2004-000020-32"
 
 def extract_regulation(drug, countries, eudract):
     '''Extraction de la réglementation du médicament donné'''
