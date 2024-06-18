@@ -65,15 +65,15 @@ def extract_regulation(drug, countries, eudract):
     query_engine_ep = index_ep.as_query_engine()
 
     reponses = []
-    response_po=query_engine_po.query(f"for EudraCT Number: {eudract} and Member State Concerned: {countries}, what is the Main objective of the trial?")
+    response_po=query_engine_po.query(f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Main objective of the trial?")
     reponses.append(response_po)
-    response_so=query_engine_so.query(f"for EudraCT Number: {eudract} and Member State Concerned: {countries}, what are the Secondary objectives of the trial?")
+    response_so=query_engine_so.query(f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what are the Secondary objectives of the trial?")
     reponses.append(response_so)
-    response_in=query_engine_in.query(f"for EudraCT Number: {eudract} and Member State Concerned: {countries}, what is the Principal inclusion criteria?")
+    response_in=query_engine_in.query(f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Principal inclusion criteria?")
     reponses.append(response_in)
-    response_ex=query_engine_ex.query(f"for EudraCT Number: {eudract} and Member State Concerned: {countries}, what is the Principal exclusion criteria?")
+    response_ex=query_engine_ex.query(f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Principal exclusion criteria?")
     reponses.append(response_ex)
-    response_ep=query_engine_ep.query(f"for EudraCT Number: {eudract} and Member State Concerned: {countries}, what is the Primary end point(s)?")
+    response_ep=query_engine_ep.query(f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Primary end point(s)?")
     reponses.append(response_ep)
 
     titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
