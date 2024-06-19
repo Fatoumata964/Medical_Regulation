@@ -20,7 +20,6 @@ def faiss_search_similar_medications(subs, disease, df, k):
     index.add(text_vectors)
 
     query = subs + ' ' + disease
-    query = query.astype(str)
 
     _vector = tfidf_vectorizer.transform([query]).toarray()
     _vector = _vector.astype('float32')
