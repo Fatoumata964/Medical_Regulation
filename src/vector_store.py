@@ -5,8 +5,6 @@ from llama_index.legacy.embeddings.langchain import LangchainEmbedding
 from llama_index.core import Document
 from llm import llm
 
-mixtral = llm()
-
 embed_model=LangchainEmbedding(
     HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2"))
 
@@ -67,10 +65,10 @@ def vector_index(df_final, prompt):
         )
         for _, row in df_final.iterrows()
     ]
-
+    mixtral = llm(prompt)
     service_context=ServiceContext.from_defaults(
         chunk_size=1024,
-        llm=mixtral(prompt),
+        llm=mixtral,
         embed_model=embed_model
     )
 
