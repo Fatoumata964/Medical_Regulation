@@ -8,7 +8,7 @@ from llama_index.llms.huggingface import HuggingFaceLLM
 # Définition de la fonction llm qui crée et retourne un modèle de langage mixte
 def llm(system_prompt):
     # Création d'une instance de la classe HuggingFaceHub avec les paramètres spécifiés
-    llm = HuggingFaceLLM(
+    llm_model = HuggingFaceLLM(
             context_window=4096,
             max_new_tokens=256,
             model_name="TheBloke/Mixtral-8x7B-v0.1-GPTQ",
