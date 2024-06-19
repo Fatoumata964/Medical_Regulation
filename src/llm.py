@@ -8,10 +8,13 @@ from langchain import HuggingFaceHub
 # Définition de la fonction llm qui crée et retourne un modèle de langage mixte
 def llm(system_prompt):
     # Création d'une instance de la classe HuggingFaceHub avec les paramètres spécifiés
-    llm_model = HuggingFaceHub(
-        repo_id='mistralai/Mixtral-8x7B-Instruct-v0.1',  # Identifiant du dépôt du modèle
-        model_kwargs={'max_length': 900, 'temperature': 0.1, 'return_full_text':False},  # Arguments du modèle (longueur maximale et température)
-        system_prompt=system_prompt
+    llm = HuggingFaceLLM(
+            context_window=4096,
+            max_new_tokens=256,
+            model_name="TheBloke/Mixtral-8x7B-v0.1-GPTQ",
+            tokenizer_name="TheBloke/Mixtral-8x7B-v0.1-GPTQ",  # Identifiant du dépôt du modèle
+            generate_kwargs={"temperature": 0.0, "do_sample": False},
+            system_prompt=system_prompt,
     )
     # Retour de l'instance du modèle de langage mixte créée
     return llm_model
