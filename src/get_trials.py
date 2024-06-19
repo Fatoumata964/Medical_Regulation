@@ -110,7 +110,7 @@ def index():
 async def get_regulation(drug: TextInput):
     # You can perform text processing here
     start_time = time.time()
-    regulation_text = extract_regulation(drug.text, drug.countries, drug.eudract, drug.disease)
+    regulation_text = extract_regulation(drug.text.lower(), drug.countries.lower(), drug.eudract.lower(), drug.disease.lower())
     # stopping the timer
     stop_time = time.time()
     elapsed_time = stop_time - start_time
