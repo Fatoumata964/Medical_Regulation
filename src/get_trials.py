@@ -31,31 +31,36 @@ class TextInput(BaseModel):
     text: str = "irbesartan, hydrochlorothiazide"
     countries: str = "Belgium - FPS Health-DGM"
     eudract: str = "2004-000020-32"
+    disease: str = None 
 
-def extract_regulation(drug, countries, eudract):
+def extract_regulation(drug, countries, eudract, disease):
     '''Extraction de la réglementation du médicament donné'''
     
-    # Intégration du texte du médicament et d'une phrase représentative de la maladie
-    #embedded_drug = model.embed_sentence(drug)
-    #disease = df["Diseases"][df["Substance active"] == drug].iloc[0]
-    #embedded_disease = model.embed_sentence(str(disease))
+    if drug in df["Substance active"].values:
     
-    # Création de la matrice d'embedding en concaténant les embeddings du médicament et de la maladie
-    #embedding_mat = np.hstack((embedded_disease, embedded_drug))
+      y = df["cluster_labels"][df["Substance active"] == drug].iloc[0]
+      print(y)
+      # Recherche de médicaments similaires dans le même cluster
+      df_clus = df[df['cluster_labels'] == y]
     
-    #print("Drug embedded")
-    
-    # Chargement du modèle de clustering à partir du fichier pickle
-    #with open("./models/clustering_model.pkl", 'rb') as f:
-        #kmeans = pickle.load(f)
-    
-    # Prédiction du cluster auquel appartient le médicament
-    y = df["cluster_labels"][df["Substance active"] == drug].iloc[0]
-    print(y)
-    
-    # Recherche de médicaments similaires dans le même cluster
-    df_clus = df[df['cluster_labels'] == y]
-    
+    else:
+        # Intégration du texte du médicament et d'une phrase représentative de la maladie
+        embedded_drug = model.embed_sentence(drug)
+        embedded_disease = model.embed_sentence(str(disease))
+        
+        # Création de la matrice d'embedding en concaténant les embeddings du médicament et de la maladie
+        embedding_mat = np.hstack((embedded_disease, embedded_drug))
+        
+        print("Drug embedded")
+        
+        # Chargement du modèle de clustering à partir du fichier pickle
+        with open("./models/clustering_model.pkl", 'rb') as f:
+            kmeans = pickle.load(f)
+        # Prédiction du cluster auquel appartient le médicament
+        y = kmeans.predict(embedding_mat)
+        print(y)
+        # Recherche de médicaments similaires dans le même cluster
+        df_clus = df[df['cluster_labels'] == y[0]]
 
     index_po, index_so, index_in, index_ex, index_ep = vector_index(df_clus)
     query_engine_po = index_po.as_query_engine()
@@ -78,6 +83,8 @@ def extract_regulation(drug, countries, eudract):
 
     titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
     parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
+    
+
     return '\n\n'.join(parts)
     
 @app.get('/')
@@ -95,7 +102,7 @@ def index():
 async def get_regulation(drug: TextInput):
     # You can perform text processing here
     start_time = time.time()
-    regulation_text = extract_regulation(drug.text, drug.countries, drug.eudract)
+    regulation_text = extract_regulation(drug.text, drug.countries, drug.eudract, drug.disease)
     # stopping the timer
     stop_time = time.time()
     elapsed_time = stop_time - start_time
