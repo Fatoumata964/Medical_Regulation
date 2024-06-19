@@ -35,7 +35,10 @@ class TextInput(BaseModel):
 
 def extract_regulation(drug, countries, eudract, disease):
     '''Extraction de la réglementation du médicament donné'''
-    
+
+    prompt = """Tu es un assistant médical utile. Ton objectif est de donner des informations sur les essais cliniques pharmaceutiques en étant le plus précis que possible 
+    en fonction des instructions et du contexte fournis."""
+      
     if drug in df["Substance active"].values:
     
       y = df["cluster_labels"][df["Substance active"] == drug].iloc[0]
@@ -63,9 +66,11 @@ def extract_regulation(drug, countries, eudract, disease):
         df_clus = df[df['cluster_labels'] == y[0]]
         similar_medications_in_cluster = faiss_search_similar_medications(drug, disease, df_clus, 1)
         print(similar_medications_in_cluster)
-        
 
-    index_po, index_so, index_in, index_ex, index_ep = vector_index(df_clus)
+        prompt += f"""Si l'information demandée n’est pas spécifié dans les informations contextuelles fournies, utilises les informations suivantes: {similar_medications_in_cluster}, et
+        Et précises avant de donner ces informations que "CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE"""
+
+    index_po, index_so, index_in, index_ex, index_ep = vector_index(df_clus, prompt)
     query_engine_po = index_po.as_query_engine()
     query_engine_so = index_so.as_query_engine()
     query_engine_in = index_in.as_query_engine()
