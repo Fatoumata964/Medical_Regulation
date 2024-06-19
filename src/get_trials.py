@@ -9,6 +9,7 @@ import os
 import pandas as pd
 import numpy as np
 import sent2vec
+from faiss_sim import faiss_search_similar_medications
 from vector_store import vector_index
 from llama_index.core.prompts.prompts import SimpleInputPrompt
 
