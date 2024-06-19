@@ -3,7 +3,7 @@ import locale
 locale.getpreferredencoding = lambda: "UTF-8"
 
 # Importation de la classe HuggingFaceHub depuis le module langchain
-from langchain import HuggingFaceHub
+from llama_index.llms.huggingface import HuggingFaceLLM
 
 # Définition de la fonction llm qui crée et retourne un modèle de langage mixte
 def llm(system_prompt):
