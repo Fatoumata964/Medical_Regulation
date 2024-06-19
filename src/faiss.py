@@ -6,8 +6,9 @@ import faiss
 
 # Fonction pour rechercher des médicaments similaires à un médicament donné à l'aide de l'index FAISS
 def faiss_search_similar_medications(subs, disease, df, k):
-    
-    df['combined_text'] = df['Substance active'] + ' ' + df['Diseases']
+
+    df['Diseases_str'] = df['Diseases'].apply(lambda x: ' '.join(x))
+    df['combined_text'] = df['Substance active'] + ' ' + df['Diseases_str']
     df['combined_text'] = df['combined_text'].astype(str)
 
     tfidf_vectorizer = TfidfVectorizer()
