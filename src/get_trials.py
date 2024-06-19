@@ -61,6 +61,9 @@ def extract_regulation(drug, countries, eudract, disease):
         print(y)
         # Recherche de médicaments similaires dans le même cluster
         df_clus = df[df['cluster_labels'] == y[0]]
+        similar_medications_in_cluster = faiss_search_similar_medications(drug, disease, df_clus, 1)
+        print(similar_medications_in_cluster)
+        
 
     index_po, index_so, index_in, index_ex, index_ep = vector_index(df_clus)
     query_engine_po = index_po.as_query_engine()
