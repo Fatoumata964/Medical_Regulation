@@ -19,5 +19,3 @@ llama-index-llms-langchain==0.1.4
 llama_index.llms.fireworks==0.1.5
 ./models/sent2vec/.
 faiss-cpu==1.8.0
-llama-index-llms-huggingface==0.2.3
--e .
