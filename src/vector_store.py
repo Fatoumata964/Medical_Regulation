@@ -7,9 +7,9 @@ from llm import llm
 
 embed_model=LangchainEmbedding(
     HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2"))
+mixtral = llm()
 
-
-def vector_index(df_final, prompt):
+def vector_index(df_final):
     p_objectives = [
         Document(
             text= f"Main objective of the trial: " + str(row['E.2.1 Main objective of the trial']), 
@@ -65,7 +65,7 @@ def vector_index(df_final, prompt):
         )
         for _, row in df_final.iterrows()
     ]
-    mixtral = llm(prompt)
+    
     service_context=ServiceContext.from_defaults(
         chunk_size=1024,
         llm=mixtral,
