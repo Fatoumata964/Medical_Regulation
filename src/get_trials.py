@@ -34,6 +34,28 @@ class TextInput(BaseModel):
     eudract: str = "2004-000020-32"
     disease: str = None 
 
+def get_llm(df_clus, prompt, eudract, drug, countries):
+    index_po, index_so, index_in, index_ex, index_ep = vector_index(df_clus)
+    query_engine_po = index_po.as_query_engine()
+    query_engine_so = index_so.as_query_engine()
+    query_engine_in = index_in.as_query_engine()
+    query_engine_ex = index_ex.as_query_engine()
+    query_engine_ep = index_ep.as_query_engine()
+
+    reponses = []
+    response_po=query_engine_po.query(prompt + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Main objective of the trial?")
+    reponses.append(response_po)
+    response_so=query_engine_so.query(prompt + ' ' +  f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what are the Secondary objectives of the trial?")
+    reponses.append(response_so)
+    response_in=query_engine_in.query(prompt + ' ' +  f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Principal inclusion criteria?")
+    reponses.append(response_in)
+    response_ex=query_engine_ex.query(prompt + ' ' +  f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Principal exclusion criteria?")
+    reponses.append(response_ex)
+    response_ep=query_engine_ep.query(prompt + ' ' +  f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Primary end point(s)?")
+    reponses.append(response_ep)
+
+    return reponses
+
 def extract_regulation(drug, countries, eudract, disease):
     '''Extraction de la réglementation du médicament donné'''
 
@@ -46,6 +68,8 @@ def extract_regulation(drug, countries, eudract, disease):
       print(y)
       # Recherche de médicaments similaires dans le même cluster
       df_clus = df[df['cluster_labels'] == y]
+
+      reponses = get_llm(df_clus, prompt, eudract, drug, countries)
     
     else:
         # Intégration du texte du médicament et d'une phrase représentative de la maladie
@@ -71,24 +95,8 @@ def extract_regulation(drug, countries, eudract, disease):
         prompt += f"""Si l'information demandée n’est pas spécifié dans les informations contextuelles fournies, utilises les informations suivantes: {similar_medications_in_cluster}, et
         Et précises avant de donner ces informations que "CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE"""
 
-    index_po, index_so, index_in, index_ex, index_ep = vector_index(df_clus)
-    query_engine_po = index_po.as_query_engine()
-    query_engine_so = index_so.as_query_engine()
-    query_engine_in = index_in.as_query_engine()
-    query_engine_ex = index_ex.as_query_engine()
-    query_engine_ep = index_ep.as_query_engine()
-
-    reponses = []
-    response_po=query_engine_po.query(prompt + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Main objective of the trial?")
-    reponses.append(response_po)
-    response_so=query_engine_so.query(prompt + ' ' +  f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what are the Secondary objectives of the trial?")
-    reponses.append(response_so)
-    response_in=query_engine_in.query(prompt + ' ' +  f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Principal inclusion criteria?")
-    reponses.append(response_in)
-    response_ex=query_engine_ex.query(prompt + ' ' +  f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Principal exclusion criteria?")
-    reponses.append(response_ex)
-    response_ep=query_engine_ep.query(prompt + ' ' +  f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Primary end point(s)?")
-    reponses.append(response_ep)
+        reponses = get_llm(similar_medications_in_cluster, prompt, similar_medications_in_cluster['A.2 EudraCT number'], similar_medications_in_cluster['Substance active'], similar_medications_in_cluster['A.1 Member State Concerned'])
+    
 
     titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
     parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
