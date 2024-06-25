@@ -107,15 +107,22 @@ def extract_regulation(drug, countries, eudract, disease):
         similar_medications_in_cluster = faiss_search_similar_medications(drug, disease, df_clus, 1)
         print(similar_medications_in_cluster)
 
-        prompt += f"""Si l'information demandée n’est pas spécifié dans les informations contextuelles fournies, utilises les informations suivantes: {similar_medications_in_cluster}."""
+        prompt += f"""Si l'information demandée n’est pas spécifié dans les informations contextuelles fournies, utilises les informations suivantes: {similar_medications_in_cluster}. 
+                    Et précises avant de donner le texte reformulé que CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE."""
 
         reponses = get_llm(similar_medications_in_cluster, prompt, similar_medications_in_cluster['A.2 EudraCT number'].iloc[0], similar_medications_in_cluster['Substance active'].iloc[0], similar_medications_in_cluster['A.1 Member State Concerned'].iloc[0])
         
         titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
         parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
         response = '\n\n'.join(parts)
-        responses = llm(f"""Reformule en remplaçant tous les 'for EudraCT Number: {similar_medications_in_cluster['A.2 EudraCT number'].iloc[0]}, 'Substance active': {similar_medications_in_cluster['Substance active'].iloc[0]} and Member State Concerned:
-        {similar_medications_in_cluster['A.1 Member State Concerned'].iloc[0]}' par 'for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}' dans le texte suivant : {response}. Et précises avant de donner le texte reformulé que CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE""")  
+        replacement_text = f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}"
+
+        specific_text = f"for EudraCT Number: {similar_medications_in_cluster['A.2 EudraCT number'].iloc[0]}, 'Substance active': {similar_medications_in_cluster['Substance active'].iloc[0]} and Member State Concerned:
+        {similar_medications_in_cluster['A.1 Member State Concerned'].iloc[0]}"
+
+        reformulated_response = response.replace(specific_text, replacement_text) 
+        pattern = r"CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE"
+        responses = re.sub(pattern, "", reformulated_response, count=reformulated_response.count(pattern) - 1)
 
     return responses
     
