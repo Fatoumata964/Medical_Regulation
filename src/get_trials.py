@@ -117,8 +117,7 @@ def extract_regulation(drug, countries, eudract, disease):
         response = '\n\n'.join(parts)
         replacement_text = f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}"
 
-        specific_text = f"for EudraCT Number: {similar_medications_in_cluster['A.2 EudraCT number'].iloc[0]}, 'Substance active': {similar_medications_in_cluster['Substance active'].iloc[0]} and Member State Concerned:
-        {similar_medications_in_cluster['A.1 Member State Concerned'].iloc[0]}"
+        specific_text = f"for EudraCT Number: {similar_medications_in_cluster['A.2 EudraCT number'].iloc[0]}, 'Substance active': {similar_medications_in_cluster['Substance active'].iloc[0]} and Member State Concerned: {similar_medications_in_cluster['A.1 Member State Concerned'].iloc[0]}"
 
         reformulated_response = response.replace(specific_text, replacement_text) 
         pattern = r"CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE"
