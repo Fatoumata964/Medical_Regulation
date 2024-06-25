@@ -112,8 +112,7 @@ def extract_regulation(drug, countries, eudract, disease):
     titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
     parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
     responses = '\n\n'.join(parts)
-    reponse_formated = llm(f" Reformule ce texte en ne gardant qu'une seule 'CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE' au debut, le reste supprime tout,
-        supprime aussi tous les 'for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}' dans le texte suivant : {responses}")  
+    reponse_formated = llm(f" Reformule ce texte en ne gardant qu'une seule 'CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE' au debut, le reste supprime tout, supprime aussi tous les 'for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}' dans le texte suivant : {responses}")  
 
     return 
     
