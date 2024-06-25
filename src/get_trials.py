@@ -107,15 +107,15 @@ def extract_regulation(drug, countries, eudract, disease):
         similar_medications_in_cluster = faiss_search_similar_medications(drug, disease, df_clus, 1)
         print(similar_medications_in_cluster)
 
-        prompt += f"""Si l'information demandée n’est pas spécifié dans les informations contextuelles fournies, utilises les informations suivantes: {similar_medications_in_cluster}, et
-        Et précises avant de donner ces informations que "CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE"""
+        prompt += f"""Si l'information demandée n’est pas spécifié dans les informations contextuelles fournies, utilises les informations suivantes: {similar_medications_in_cluster}."""
 
         reponses = get_llm(similar_medications_in_cluster, prompt, similar_medications_in_cluster['A.2 EudraCT number'].iloc[0], similar_medications_in_cluster['Substance active'].iloc[0], similar_medications_in_cluster['A.1 Member State Concerned'].iloc[0])
         
         titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
         parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
         response = '\n\n'.join(parts)
-        responses = llm(f" Reformule ce texte en ne gardant qu'une seule 'CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE' au debut, le reste supprime tout, supprime aussi tous les 'for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}' dans le texte suivant : {response}")  
+        responses = llm(f"""Reformule en remplaçant tous les 'for EudraCT Number: {similar_medications_in_cluster['A.2 EudraCT number'].iloc[0]}, 'Substance active': {similar_medications_in_cluster['Substance active'].iloc[0]} and Member State Concerned:
+        {similar_medications_in_cluster['A.1 Member State Concerned'].iloc[0]}' par 'for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}' dans le texte suivant : {response}. Et précises avant de donner le texte reformulé que CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE""")  
 
     return responses
     
