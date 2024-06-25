@@ -16,6 +16,7 @@ from llama_index.core.prompts.prompts import SimpleInputPrompt
 app = FastAPI()
 cc =  ColabCode(port=8002, code=False)
 df = pd.read_csv("./data/df_final.csv")
+llm = llm()
 
 # Initialisation du modèle Sent2Vec
 model = sent2vec.Sent2vecModel()
@@ -107,13 +108,14 @@ def extract_regulation(drug, countries, eudract, disease):
         Et précises avant de donner ces informations que "CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE"""
 
         reponses = get_llm(similar_medications_in_cluster, prompt, similar_medications_in_cluster['A.2 EudraCT number'].iloc[0], similar_medications_in_cluster['Substance active'].iloc[0], similar_medications_in_cluster['A.1 Member State Concerned'].iloc[0])
-    
-
+        
     titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
     parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
-    
+    responses = '\n\n'.join(parts)
+    reponse_formated = llm(f" Reformule ce texte en ne gardant qu'une seule 'CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE' au debut, le reste supprime tout,
+        supprime aussi tous les 'for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}' dans le texte suivant : {responses}")  
 
-    return '\n\n'.join(parts)
+    return 
     
 @app.get('/')
 def index():
