@@ -82,6 +82,9 @@ def extract_regulation(drug, countries, eudract, disease):
       df_clus = df[df['cluster_labels'] == y]
 
       reponses = get_llm(df_clus, prompt, eudract, drug, countries)
+      titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
+      parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
+      responses = '\n\n'.join(parts)
     
     else:
         # Intégration du texte du médicament et d'une phrase représentative de la maladie
@@ -109,12 +112,12 @@ def extract_regulation(drug, countries, eudract, disease):
 
         reponses = get_llm(similar_medications_in_cluster, prompt, similar_medications_in_cluster['A.2 EudraCT number'].iloc[0], similar_medications_in_cluster['Substance active'].iloc[0], similar_medications_in_cluster['A.1 Member State Concerned'].iloc[0])
         
-    titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
-    parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
-    responses = '\n\n'.join(parts)
-    reponse_formated = llm(f" Reformule ce texte en ne gardant qu'une seule 'CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE' au debut, le reste supprime tout, supprime aussi tous les 'for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}' dans le texte suivant : {responses}")  
+        titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
+        parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
+        response = '\n\n'.join(parts)
+        responses = llm(f" Reformule ce texte en ne gardant qu'une seule 'CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE' au debut, le reste supprime tout, supprime aussi tous les 'for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}' dans le texte suivant : {response}")  
 
-    return reponse_formated
+    return responses
     
 @app.get('/')
 def index():
