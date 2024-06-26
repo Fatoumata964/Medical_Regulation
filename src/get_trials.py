@@ -72,7 +72,10 @@ def extract_regulation(drug, countries, eudract, disease):
     '''Extraction de la réglementation du médicament donné'''
 
     prompt = """Tu es un assistant médical utile. Ton objectif est de donner des informations sur les essais cliniques pharmaceutiques en étant le plus précis que possible 
-    en fonction des instructions et du contexte fournis."""
+    en fonction des instructions et du contexte fournis. Le format de sortie doit être en Markdown :
+     Le titre principal doit commencer par #.
+     Les sous-titres doivent commencer par ##.
+     Les listes doivent commencer par *."""
 
     if drug in df["Substance active"].values:
     
