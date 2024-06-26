@@ -71,11 +71,8 @@ def get_llm(df_clus, prompt, eudract, drug, countries):
 def extract_regulation(drug, countries, eudract, disease):
     '''Extraction de la réglementation du médicament donné'''
 
-    prompt = """Tu es un assistant médical utile. Ton objectif est de donner des informations sur les essais cliniques pharmaceutiques en étant le plus précis que possible 
-    en fonction des instructions et du contexte fournis. Le format de sortie doit être en Markdown :
-     Le titre principal doit commencer par #.
-     Les sous-titres doivent commencer par ##.
-     Les listes doivent commencer par *."""
+    prompt = """Tu es un assistant médical utile. Ton objectif est de donner des informations complétes sur les essais cliniques pharmaceutiques en étant le plus précis que possible 
+    en fonction des instructions et du contexte fournis. La sortie doit contenir toute la réponse et chaque phrase doit commencer par une letter majuscule et terminer par un point."""
 
     if drug in df["Substance active"].values:
     
