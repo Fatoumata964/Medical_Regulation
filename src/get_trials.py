@@ -81,9 +81,6 @@ def extract_regulation(drug, countries, eudract, disease):
       # Recherche de médicaments similaires dans le même cluster
       df_clus = df[df['cluster_labels'] == y]
 
-      similar_medication = df[df["Substance active"] == drug]
-      prompt += f""" Utilises les informations suivantes pour donner des réponses plus complétes: {similar_medication}."""
-
       reponses = get_llm(df_clus, prompt, eudract, drug, countries)
       titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
       parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
