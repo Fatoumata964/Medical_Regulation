@@ -76,7 +76,7 @@ def extract_regulation(drug, countries, eudract, disease):
 
     if drug in df["Substance active"].values:
     
-      main = f"Main objective of the trial \n\n" + str(df["'E.2.1 Main objective of the trial'"][df["Substance active"] == drug].iloc[0])
+      main = f"Main objective of the trial \n\n" + str(df['E.2.1 Main objective of the trial'][df["Substance active"] == drug].iloc[0])
       second = f"Secondary objectives of the trial \n\n" + str(df['E.2.2 Secondary objectives of the trial'][df["Substance active"] == drug].iloc[0])
       inclusion = f"Principal inclusion criteria \n\n" + str(df['E.3 Principal inclusion criteria'][df["Substance active"] == drug].iloc[0])
       exclusion = f"Principal exclusion criteria \n\n" + str(df['E.4 Principal exclusion criteria'][df["Substance active"] == drug].iloc[0])
