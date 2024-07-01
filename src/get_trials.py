@@ -76,15 +76,13 @@ def extract_regulation(drug, countries, eudract, disease):
 
     if drug in df["Substance active"].values:
     
-      y = df["cluster_labels"][df["Substance active"] == drug].iloc[0]
-      print(y)
-      # Recherche de médicaments similaires dans le même cluster
-      df_clus = df[df['cluster_labels'] == y]
+      main = f"Main objective of the trial \n\n" + str(df["'E.2.1 Main objective of the trial'"][df["Substance active"] == drug].iloc[0])
+      second = f"Secondary objectives of the trial \n\n" + str(df['E.2.2 Secondary objectives of the trial'][df["Substance active"] == drug].iloc[0])
+      inclusion = f"Principal inclusion criteria \n\n" + str(df['E.3 Principal inclusion criteria'][df["Substance active"] == drug].iloc[0])
+      exclusion = f"Principal exclusion criteria \n\n" + str(df['E.4 Principal exclusion criteria'][df["Substance active"] == drug].iloc[0])
+      endpoint = f"Primary end point \n\n" + str(df['E.5.1 Primary end point'][df["Substance active"] == drug].iloc[0])
 
-      reponses = get_llm(df_clus, prompt, eudract, drug, countries)
-      titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
-      parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
-      responses = '\n\n'.join(parts)
+      responses = main + '' + second + '' + inclusion + '' + exclusion + '' + endpoint
     
     else:
         # Intégration du texte du médicament et d'une phrase représentative de la maladie
