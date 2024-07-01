@@ -67,7 +67,7 @@ def vector_index(df_final):
     ]
     
     service_context=ServiceContext.from_defaults(
-        chunk_size=1024,
+        chunk_size=512,
         llm=mixtral,
         embed_model=embed_model
     )
