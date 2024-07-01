@@ -82,7 +82,7 @@ def extract_regulation(drug, countries, eudract, disease):
       exclusion = f"Principal exclusion criteria \n\n" + str(df['E.4 Principal exclusion criteria'][df["Substance active"] == drug].iloc[0])
       endpoint = f"Primary end point \n\n" + str(df['E.5.1 Primary end point'][df["Substance active"] == drug].iloc[0])
 
-      responses = main + '' + second + '' + inclusion + '' + exclusion + '' + endpoint
+      responses = main + '\n\n' + second + '\n\n' + inclusion + '\n\n' + exclusion + '\n\n' + endpoint
     
     else:
         # Intégration du texte du médicament et d'une phrase représentative de la maladie
