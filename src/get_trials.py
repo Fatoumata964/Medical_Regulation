@@ -105,17 +105,20 @@ def extract_regulation(drug, countries, eudract, disease):
         similar_medications_in_cluster = faiss_search_similar_medications(drug, disease, df_clus, 1)
         print(similar_medications_in_cluster)
 
-        prompt += f"""Si l'information demandée n’est pas spécifié dans les informations contextuelles fournies, utilises les informations suivantes: {similar_medications_in_cluster}."""
+        prompt += f"""
+            Si l'information demandée n’est pas spécifiée dans les informations contextuelles fournies, utilise l'exemple suivant pour répondre à la question :
+            
+            Exemple : {similar_medications_in_cluster['E.2.1 Main objective of the trial'].iloc[0]}
+            
+            Réponds de manière complète et détaillée en utilisant l'exemple si nécessaire.
+            """
 
-        reponses = get_llm(similar_medications_in_cluster, prompt, similar_medications_in_cluster['A.2 EudraCT number'].iloc[0], similar_medications_in_cluster['Substance active'].iloc[0], similar_medications_in_cluster['A.1 Member State Concerned'].iloc[0])
+        reponses = get_llm(similar_medications_in_cluster, prompt, eudract, drug, countries)
         
         titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
         parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
         response = '\n\n'.join(parts)
         
-        response = response.replace(similar_medications_in_cluster['A.2 EudraCT number'].iloc[0], eudract)
-        response = response.replace(similar_medications_in_cluster['Substance active'].iloc[0], drug)
-        response = response.replace(similar_medications_in_cluster['A.1 Member State Concerned'].iloc[0], countries)
         responses = f"CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE.\n\n{response}"
 
     return responses
