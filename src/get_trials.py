@@ -122,7 +122,7 @@ def extract_regulation(drug, countries, eudract, disease):
             Réponds de manière complète et détaillée en utilisant l'exemple si nécessaire.
             """
 
-        reponses = get_llm(similar_medications_in_cluster, prompt, eudract, drug, countries)
+        reponses = get_llm(sim, prompt, eudract, drug, countries)
         
         titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
         parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
