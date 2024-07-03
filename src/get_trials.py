@@ -105,9 +105,14 @@ def extract_regulation(drug, countries, eudract, disease):
         sim = faiss_search_similar_medications(drug, disease, df_clus, 1)
         print(sim)
 
-        similar_medications_in_cluster = f"Main objective of the trial: " + str(sim['E.2.1 Main objective of the trial'][sim["Substance active"] == drug].iloc[0]) + '. ' + f"Secondary objectives of the trial \n\n" + str(sim['E.2.2 Secondary objectives of the trial'][sim["Substance active"] == drug].iloc[0])
-             + '. ' + f"Principal inclusion criteria: " + str(sim['E.3 Principal inclusion criteria'][sim["Substance active"] == drug].iloc[0]) + '. ' + f"Principal exclusion criteria \n\n" + str(sim['E.4 Principal exclusion criteria'][sim["Substance active"] == drug].iloc[0])
-             + '. ' +  f"Primary end point: " + str(sim['E.5.1 Primary end point'][sim["Substance active"] == drug].iloc[0])
+        similar_medications_in_cluster = (
+          f"Main objective of the trial: " + sim['E.2.1 Main objective of the trial'].iloc[0] + '. ' 
+          + f"Secondary objectives of the trial \n\n" + sim['E.2.2 Secondary objectives of the trial'].iloc[0] + '. ' 
+          + f"Principal inclusion criteria: " + sim['E.3 Principal inclusion criteria'].iloc[0] + '. ' 
+          + f"Principal exclusion criteria \n\n" + sim['E.4 Principal exclusion criteria'].iloc[0] + '. ' 
+          + f"Primary end point: " + sim['E.5.1 Primary end point'].iloc[0]
+            )
+        print(similar_medications_in_cluster)
 
         prompt += f"""
             Si l'information demandée n’est pas spécifiée dans les informations contextuelles fournies, utilise l'exemple suivant pour répondre à la question :
