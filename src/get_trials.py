@@ -76,13 +76,21 @@ def extract_regulation(drug, countries, eudract, disease):
 
     if drug in df["Substance active"].values:
     
-      main = f"Main objective of the trial \n\n" + str(df['E.2.1 Main objective of the trial'][df["Substance active"] == drug].iloc[0])
-      second = f"Secondary objectives of the trial \n\n" + str(df['E.2.2 Secondary objectives of the trial'][df["Substance active"] == drug].iloc[0])
-      inclusion = f"Principal inclusion criteria \n\n" + str(df['E.3 Principal inclusion criteria'][df["Substance active"] == drug].iloc[0])
-      exclusion = f"Principal exclusion criteria \n\n" + str(df['E.4 Principal exclusion criteria'][df["Substance active"] == drug].iloc[0])
-      endpoint = f"Primary end point \n\n" + str(df['E.5.1 Primary end point'][df["Substance active"] == drug].iloc[0])
-
-      responses = main + '\n\n' + second + '\n\n' + inclusion + '\n\n' + exclusion + '\n\n' + endpoint
+          pattern = re.compile(r'^[A-Z]\..*')
+          columns = [col for col in df.columns if pattern.match(col)]
+      
+          reponses = []
+      
+          for col in columns:
+              # Extraire la description en supprimant la première partie avant le premier espace
+              desc = ' '.join(col.split(' ')[1:])
+              try:
+                  # Récupérer la valeur pour la substance active donnée
+                  text = f"{desc} \n\n{str(df[col][df['Substance active'] == drug].iloc[0])}"
+              except IndexError:
+                  text = f"{desc} \n\nNot Available"
+              reponses.append(text)
+           responses = '\n\n'.join(responses)
     
     else:
         # Intégration du texte du médicament et d'une phrase représentative de la maladie
