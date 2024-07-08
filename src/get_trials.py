@@ -6,6 +6,7 @@ from pydantic import BaseModel
 from llm import llm
 import pickle
 import os
+import re
 import pandas as pd
 import numpy as np
 import sent2vec
@@ -78,10 +79,11 @@ def extract_regulation(drug, countries, eudract, disease):
     
           pattern = re.compile(r'^[A-Z]\..*')
           columns = [col for col in df.columns if pattern.match(col)]
-      
           reponses = []
       
           for col in columns:
+
+              df[col] = df[col].apply(lambda x: ', '.join(x) if isinstance(x, list) else x)
               # Extraire la description en supprimant la première partie avant le premier espace
               desc = ' '.join(col.split(' ')[1:])
               try:
@@ -90,7 +92,7 @@ def extract_regulation(drug, countries, eudract, disease):
               except IndexError:
                   text = f"{desc} \n\nNot Available"
               reponses.append(text)
-           responses = '\n\n'.join(responses)
+          responses = '\n\n'.join(reponses)
     
     else:
         # Intégration du texte du médicament et d'une phrase représentative de la maladie
