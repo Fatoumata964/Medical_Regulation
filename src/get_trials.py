@@ -91,9 +91,9 @@ def extract_regulation(drug, countries, eudract, disease):
                   # Vérifier et traiter si c'est une liste même après transformation
                   if isinstance(value, list):
                      value = ', '.join(value)
-                  text = f"{desc} \n\n{str(value)}"
+                  text = f"{desc}: {str(value)}"
               except IndexError:
-                  text = f"{desc} \n\nNot Available"
+                  text = f"{desc}: Not Available"
               reponses.append(text)
           responses = '\n\n'.join(reponses)
     
