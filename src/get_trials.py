@@ -82,13 +82,15 @@ def extract_regulation(drug, countries, eudract, disease):
           reponses = []
       
           for col in columns:
-
-              df[col] = df[col].apply(lambda x: ', '.join(x) if isinstance(x, list) else x)
               # Extraire la description en supprimant la première partie avant le premier espace
               desc = ' '.join(col.split(' ')[1:])
               try:
                   # Récupérer la valeur pour la substance active donnée
-                  text = f"{desc} \n\n{str(df[col][df['Substance active'] == drug].iloc[0])}"
+                  value = df[col][df['Substance active'] == drug].iloc[0]
+                  # Vérifier et traiter si c'est une liste même après transformation
+                  if isinstance(value, list):
+                     value = ', '.join(value)
+                  text = f"{desc} \n\n{str(value)}"
               except IndexError:
                   text = f"{desc} \n\nNot Available"
               reponses.append(text)
