@@ -82,6 +82,7 @@ def extract_regulation(drug, countries, eudract, disease):
           reponses = []
       
           for col in columns:
+              df[col] = df[col].str.strip("['']")
               # Extraire la description en supprimant la première partie avant le premier espace
               desc = ' '.join(col.split(' ')[1:])
               try:
