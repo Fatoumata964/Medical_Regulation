@@ -37,7 +37,7 @@ class TextInput(BaseModel):
     disease: str = None 
 
 def get_llm(df_clus, prompt, eudract, drug, countries):
-    index_po, index_so, index_in, index_ex, index_ep = vector_index(df_clus)
+    index_po, index_so, index_in, index_ex, index_ep, index_rst = vector_index(df_clus)
     query_engine_po = index_po.as_query_engine()
     query_engine_so = index_so.as_query_engine()
     query_engine_in = index_in.as_query_engine()
