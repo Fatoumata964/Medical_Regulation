@@ -65,17 +65,18 @@ def vector_index(df_final):
         )
         for _, row in df_final.iterrows()
     ]
-    reste = [
-        Document(
-            text= f"{str(col)}: " + str(row[col]), 
-            metadata={
-                'EudraCT Number': row['A.2 EudraCT number'],
-                'Member State Concerned:': row['A.1 Member State Concerned'],
-                'Substance active': row['Substance active']
-            }
-        )
-        for col, row in df_final.iterrows()
-    ]
+    reste = []
+    for idx, row in df_final.iterrows():
+        for col in df_final.columns:
+            doc = Document(
+                text=f"{col}: {row[col]}",
+                metadata={
+                    'EudraCT Number': row['A.2 EudraCT number'],
+                    'Member State Concerned': row['A.1 Member State Concerned'],
+                    'Substance active': row['Substance active']
+                }
+            )
+            reste.append(doc)
     service_context=ServiceContext.from_defaults(
         chunk_size=512,
         llm=mixtral,
