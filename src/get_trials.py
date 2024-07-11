@@ -43,6 +43,7 @@ def get_llm(df_clus, prompt, eudract, drug, countries):
     query_engine_in = index_in.as_query_engine()
     query_engine_ex = index_ex.as_query_engine()
     query_engine_ep = index_ep.as_query_engine()
+    query_engine_rst = index_rst.as_query_engine()
 
     description_po = """L'objectif principal est l'objectif central de l'essai clinique. Il est souvent formulé comme une question de recherche claire et précise que l'essai vise à répondre. 
     Par exemple, dans un essai clinique sur un nouveau médicament pour le traitement du diabète, l'objectif principal pourrait être de démontrer que le médicament réduit significativement
@@ -54,6 +55,7 @@ def get_llm(df_clus, prompt, eudract, drug, countries):
     description_ex = """Les critères d'exclusion spécifient les caractéristiques qui disqualifient des participants potentiels de l'essai clinique."""
     description_ep = """Les "primary endpoints" (points finaux primaires) sont les principales mesures de résultat d'un essai clinique.
     Ils sont utilisés pour évaluer directement l'objectif principal de l'étude. Ces points finaux sont définis avant le début de l'essai et jouent un rôle crucial dans la détermination de l'efficacité et/ou de la sécurité de l'intervention étudiée."""
+    description_rst = """Tu dois générer le prototocole d'essai clinique associé aux informations données"""
       
     reponses = []
     response_po=query_engine_po.query(prompt + ' ' + description_po + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Main objective of the trial?")
@@ -66,6 +68,8 @@ def get_llm(df_clus, prompt, eudract, drug, countries):
     reponses.append(response_ex)
     response_ep=query_engine_ep.query(prompt + ' ' +  description_ep + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Primary end point(s)?")
     reponses.append(response_ep)
+    response_rst=query_engine_rst.query(prompt + ' ' +  description_rst + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}")
+    reponses.append(response_rst)
 
     return reponses
 
@@ -118,28 +122,28 @@ def extract_regulation(drug, countries, eudract, disease):
         sim = faiss_search_similar_medications(drug, disease, df_clus, 1)
         print(sim)
 
-        similar_medications_in_cluster = (
-          f"Main objective of the trial: " + sim['E.2.1 Main objective of the trial'].iloc[0] + '. ' 
-          + f"Secondary objectives of the trial \n\n" + sim['E.2.2 Secondary objectives of the trial'].iloc[0] + '. ' 
-          + f"Principal inclusion criteria: " + sim['E.3 Principal inclusion criteria'].iloc[0] + '. ' 
-          + f"Principal exclusion criteria \n\n" + sim['E.4 Principal exclusion criteria'].iloc[0] + '. ' 
-          + f"Primary end point: " + sim['E.5.1 Primary end point'].iloc[0]
-            )
-        print(similar_medications_in_cluster)
+        #similar_medications_in_cluster = (
+          #f"Main objective of the trial: " + sim['E.2.1 Main objective of the trial'].iloc[0] + '. ' 
+          #+ f"Secondary objectives of the trial \n\n" + sim['E.2.2 Secondary objectives of the trial'].iloc[0] + '. ' 
+          #+ f"Principal inclusion criteria: " + sim['E.3 Principal inclusion criteria'].iloc[0] + '. ' 
+         # + f"Principal exclusion criteria \n\n" + sim['E.4 Principal exclusion criteria'].iloc[0] + '. ' 
+         # + f"Primary end point: " + sim['E.5.1 Primary end point'].iloc[0]
+           # )
+        #print(similar_medications_in_cluster)
 
         prompt += f"""
             Si l'information demandée n’est pas spécifiée dans les informations contextuelles fournies, utilise l'exemple suivant pour répondre à la question :
             
-            Exemple : {similar_medications_in_cluster}
+            Exemple : {sim}
             
             Réponds de manière complète et détaillée en utilisant l'exemple si nécessaire.
             """
 
         reponses = get_llm(sim, prompt, eudract, drug, countries)
         
-        titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
-        parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
-        response = '\n\n'.join(parts)
+        #titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
+        #parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
+        response = '\n\n'.join(reponses)
         
         responses = f"CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE.\n\n{response}"
 
