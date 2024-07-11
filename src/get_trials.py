@@ -122,29 +122,25 @@ def extract_regulation(drug, countries, eudract, disease):
         sim = faiss_search_similar_medications(drug, disease, df_clus, 1)
         print(sim)
 
-        #similar_medications_in_cluster = (
-          #f"Main objective of the trial: " + sim['E.2.1 Main objective of the trial'].iloc[0] + '. ' 
-          #+ f"Secondary objectives of the trial \n\n" + sim['E.2.2 Secondary objectives of the trial'].iloc[0] + '. ' 
-          #+ f"Principal inclusion criteria: " + sim['E.3 Principal inclusion criteria'].iloc[0] + '. ' 
-         # + f"Principal exclusion criteria \n\n" + sim['E.4 Principal exclusion criteria'].iloc[0] + '. ' 
-         # + f"Primary end point: " + sim['E.5.1 Primary end point'].iloc[0]
-           # )
-        #print(similar_medications_in_cluster)
-
-        prompt += f"""
-            Si l'information demandée n’est pas spécifiée dans les informations contextuelles fournies, utilise l'exemple suivant pour répondre à la question :
-            
-            Exemple : {sim}
-            
-            Réponds de manière complète et détaillée en utilisant l'exemple si nécessaire.
-            """
-
+        similar_medications_in_cluster = ""
+        for col in df_clus.columns:
+              column_title = col.replace('_', ' ').capitalize()
+              column_value = sim[col].iloc[0]
+              similar_medications_in_cluster += f"{column_title}: {column_value}. "
+          
+        prompt = f"""
+              Si l'information demandée n’est pas spécifiée dans les informations contextuelles fournies, utilise l'exemple suivant pour répondre à la question :
+              
+              Exemple : {similar_medications_in_cluster}
+              
+              Réponds de manière complète et détaillée en utilisant l'exemple si nécessaire.
+          """
+      
         reponses = get_llm(sim, prompt, eudract, drug, countries)
-        
-        #titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
-        #parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
-        response = '\n\n'.join(reponses)
-        
+          
+        parts = [f"{col.replace('_', ' ').capitalize()}\n\n{response}" for col, response in zip(df_clus.columns, reponses)]
+        response = '\n\n'.join(parts)
+          
         responses = f"CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE.\n\n{response}"
 
     return responses
