@@ -65,18 +65,18 @@ def vector_index(df_final):
         )
         for _, row in df_final.iterrows()
     ]
-    reste = []
-    for idx, row in df_final.iterrows():
-        for col in df_final.columns:
-            doc = Document(
-                text=f"{col}: {row[col]}",
-                metadata={
-                    'EudraCT Number': row['A.2 EudraCT number'],
-                    'Member State Concerned': row['A.1 Member State Concerned'],
-                    'Substance active': row['Substance active']
-                }
-            )
-            reste.append(doc)
+    #reste = []
+    #for idx, row in df_final.iterrows():
+        #for col in df_final.columns:
+            #doc = Document(
+                #text=f"{col}: {row[col]}",
+               # metadata={
+                  #  'EudraCT Number': row['A.2 EudraCT number'],
+                   # 'Member State Concerned': row['A.1 Member State Concerned'],
+                   # 'Substance active': row['Substance active']
+              #  }
+            #)
+            #reste.append(doc)
     service_context=ServiceContext.from_defaults(
         chunk_size=512,
         llm=mixtral,
@@ -88,6 +88,6 @@ def vector_index(df_final):
     index_in=VectorStoreIndex.from_documents(inclusion,service_context=service_context)
     index_ex=VectorStoreIndex.from_documents(exclusion,service_context=service_context)
     index_ep=VectorStoreIndex.from_documents(endpoint,service_context=service_context)
-    index_rst=VectorStoreIndex.from_documents(reste,service_context=service_context)
+    #index_rst=VectorStoreIndex.from_documents(reste,service_context=service_context)
     
-    return index_po, index_so, index_in, index_ex, index_ep, index_rst
+    return index_po, index_so, index_in, index_ex, index_ep
