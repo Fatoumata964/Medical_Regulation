@@ -87,5 +87,6 @@ def vector_index(df_final):
     index_in=VectorStoreIndex.from_documents(inclusion,service_context=service_context)
     index_ex=VectorStoreIndex.from_documents(exclusion,service_context=service_context)
     index_ep=VectorStoreIndex.from_documents(endpoint,service_context=service_context)
+    index_rst=VectorStoreIndex.from_documents(reste,service_context=service_context)
     
-    return index_po, index_so, index_in, index_ex, index_ep
+    return index_po, index_so, index_in, index_ex, index_ep, index_rst
