@@ -37,13 +37,13 @@ class TextInput(BaseModel):
     disease: str = None 
 
 def get_llm(df_clus, prompt, eudract, drug, countries):
-    index_po, index_so, index_in, index_ex, index_ep, index_rst = vector_index(df_clus)
+    index_po, index_so, index_in, index_ex, index_ep = vector_index(df_clus)
     query_engine_po = index_po.as_query_engine()
     query_engine_so = index_so.as_query_engine()
     query_engine_in = index_in.as_query_engine()
     query_engine_ex = index_ex.as_query_engine()
     query_engine_ep = index_ep.as_query_engine()
-    query_engine_rst = index_rst.as_query_engine()
+    #query_engine_rst = index_rst.as_query_engine()
 
     description_po = """L'objectif principal est l'objectif central de l'essai clinique. Il est souvent formulé comme une question de recherche claire et précise que l'essai vise à répondre. 
     Par exemple, dans un essai clinique sur un nouveau médicament pour le traitement du diabète, l'objectif principal pourrait être de démontrer que le médicament réduit significativement
@@ -68,8 +68,8 @@ def get_llm(df_clus, prompt, eudract, drug, countries):
     reponses.append(response_ex)
     response_ep=query_engine_ep.query(prompt + ' ' +  description_ep + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Primary end point(s)?")
     reponses.append(response_ep)
-    response_rst=query_engine_rst.query(prompt + ' ' +  description_rst + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}")
-    reponses.append(response_rst)
+    #response_rst=query_engine_rst.query(prompt + ' ' +  description_rst + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}")
+    #reponses.append(response_rst)
 
     return reponses
 
@@ -122,25 +122,44 @@ def extract_regulation(drug, countries, eudract, disease):
         sim = faiss_search_similar_medications(drug, disease, df_clus, 1)
         print(sim)
 
-        similar_medications_in_cluster = ""
-        for col in df_clus.columns:
-              column_title = col.replace('_', ' ').capitalize()
-              column_value = sim[col].iloc[0]
-              similar_medications_in_cluster += f"{column_title}: {column_value}. "
-          
-        prompt = f"""
-              Si l'information demandée n’est pas spécifiée dans les informations contextuelles fournies, utilise l'exemple suivant pour répondre à la question :
-              
-              Exemple : {similar_medications_in_cluster}
-              
-              Réponds de manière complète et détaillée en utilisant l'exemple si nécessaire.
-          """
-      
+        similar_medications_in_cluster = (
+          f"Main objective of the trial: " + sim['E.2.1 Main objective of the trial'].iloc[0] + '. ' 
+          + f"Secondary objectives of the trial \n\n" + sim['E.2.2 Secondary objectives of the trial'].iloc[0] + '. ' 
+          + f"Principal inclusion criteria: " + sim['E.3 Principal inclusion criteria'].iloc[0] + '. ' 
+          + f"Principal exclusion criteria \n\n" + sim['E.4 Principal exclusion criteria'].iloc[0] + '. ' 
+          + f"Primary end point: " + sim['E.5.1 Primary end point'].iloc[0]
+            )
+        print(similar_medications_in_cluster)
+
+        prompt += f"""
+            Si l'information demandée n’est pas spécifiée dans les informations contextuelles fournies, utilise l'exemple suivant pour répondre à la question :
+            
+            Exemple : {similar_medications_in_cluster}
+            
+            Réponds de manière complète et détaillée en utilisant l'exemple si nécessaire.
+            """
+
         reponses = get_llm(sim, prompt, eudract, drug, countries)
-          
-        parts = [f"{col.replace('_', ' ').capitalize()}\n\n{response}" for col, response in zip(df_clus.columns, reponses)]
-        response = '\n\n'.join(parts)
-          
+
+        pattern = re.compile(r'^[A-Z]\..*')
+        columns = [col for col in df.columns if pattern.match(col)]
+        reponses1 = []
+      
+        for col in columns:
+              df[col] = df[col].str.strip("['']")
+              # Extraire la description en supprimant la première partie avant le premier espace
+              desc = ' '.join(col.split(' ')[1:])
+              try:
+                  text = f"{desc}: " " "
+              except IndexError:
+                  text = f"{desc}: Not Available"
+              reponses1.append(text)
+        responses = '\n\n'.join(reponses)
+        
+        titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
+        parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
+        response = responses + '\n\n'.join(parts)
+        
         responses = f"CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE.\n\n{response}"
 
     return responses
