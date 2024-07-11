@@ -154,11 +154,11 @@ def extract_regulation(drug, countries, eudract, disease):
               except IndexError:
                   text = f"{desc}: Not Available"
               reponses1.append(text)
-        responses = '\n\n'.join(reponses)
+        responses1 = '\n\n'.join(reponses1)
         
         titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
         parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
-        response = responses + '\n\n'.join(parts)
+        response = responses1 + '\n\n' + '\n\n'.join(parts)
         
         responses = f"CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE.\n\n{response}"
 
