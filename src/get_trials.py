@@ -129,7 +129,7 @@ def extract_regulation(drug, countries, eudract, disease):
           + f"Principal exclusion criteria \n\n" + sim['E.4 Principal exclusion criteria'].iloc[0] + '. ' 
           + f"Primary end point: " + sim['E.5.1 Primary end point'].iloc[0]
             )
-        print(similar_medications_in_cluster['A.7 Trial is part of a Paediatric Investigation Plan'])
+        print(similar_medications_in_cluster)
 
         prompt += f"""
             Si l'information demandée n’est pas spécifiée dans les informations contextuelles fournies, utilise l'exemple suivant pour répondre à la question :
