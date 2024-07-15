@@ -86,15 +86,12 @@ def extract_regulation(drug, countries, eudract, disease):
           reponses = []
       
           for col in columns:
-              df[col] = df[col].str.strip("['']")
               # Extraire la description en supprimant la première partie avant le premier espace
               desc = ' '.join(col.split(' ')[1:])
               try:
                   # Récupérer la valeur pour la substance active donnée
                   value = df[col][df['Substance active'] == drug].iloc[0]
-                  # Vérifier et traiter si c'est une liste même après transformation
-                  if isinstance(value, list):
-                     value = ', '.join(value)
+                  
                   text = f"{desc}: {str(value)}"
               except IndexError:
                   text = f"{desc}: Not Available"
@@ -155,8 +152,6 @@ def extract_regulation(drug, countries, eudract, disease):
         generative_dict = dict(zip(generative_titles, generative_responses))
       
         for col in columns:
-            df[col] = df[col].str.strip("['']")
-          
           # Extraire la description en supprimant la première partie avant le premier espace
             desc = ' '.join(col.split(' ')[1:])
           
