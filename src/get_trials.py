@@ -139,26 +139,45 @@ def extract_regulation(drug, countries, eudract, disease):
             Réponds de manière complète et détaillée en utilisant l'exemple si nécessaire.
             """
 
-        reponses = get_llm(sim, prompt, eudract, drug, countries)
+        generative_titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
 
+      # Pattern pour les colonnes
         pattern = re.compile(r'^[A-Z]\..*')
         columns = [col for col in df.columns if pattern.match(col)]
-        reponses1 = []
+      
+      # Stockage des réponses
+        responses1 = []
+      
+      # Initialisation de la partie générative
+        generative_responses = get_llm(sim, prompt, eudract, drug, countries)
+      
+      # Dictionnaire pour stocker les réponses génératives
+        generative_dict = dict(zip(generative_titles, generative_responses))
       
         for col in columns:
-              df[col] = df[col].str.strip("['']")
-              # Extraire la description en supprimant la première partie avant le premier espace
-              desc = ' '.join(col.split(' ')[1:])
-              try:
-                  text = f"{desc}: " " "
-              except IndexError:
-                  text = f"{desc}: Not Available"
-              reponses1.append(text)
-        responses1 = '\n\n'.join(reponses1)
-        
-        titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
-        parts = [f"{title}\n\n{paragraph}" for title, paragraph in zip(titles, reponses)]
-        response = responses1 + '\n\n' + '\n\n'.join(parts)
+            df[col] = df[col].str.strip("['']")
+          
+          # Extraire la description en supprimant la première partie avant le premier espace
+            desc = ' '.join(col.split(' ')[1:])
+          
+          # Vérifier si la colonne est dans la liste des titres pour utiliser l'IA générative
+            if desc in generative_titles:
+                value = generative_dict[desc]
+            else:
+                try:
+                    value = sim[col][sim['Substance active'] == drug].iloc[0]
+                  # Vérifier et traiter si c'est une liste même après transformation
+                    if isinstance(value, list):
+                        value = ', '.join(value)
+                except IndexError:
+                    value = "Not Available"
+          
+          # Ajouter la réponse formatée à la liste des réponses
+            text = f"{desc}: {str(value)}"
+            responses1.append(text)
+      
+      # Joindre les réponses
+        response = '\n\n'.join(responses1)
         
         responses = f"CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE.\n\n{response}"
 
