@@ -129,7 +129,7 @@ def extract_regulation(drug, countries, eudract, disease):
           + f"Principal exclusion criteria \n\n" + sim['E.4 Principal exclusion criteria'].iloc[0] + '. ' 
           + f"Primary end point: " + sim['E.5.1 Primary end point'].iloc[0]
             )
-        print(similar_medications_in_cluster)
+        print(similar_medications_in_cluster['A.7 Trial is part of a Paediatric Investigation Plan'])
 
         prompt += f"""
             Si l'information demandée n’est pas spécifiée dans les informations contextuelles fournies, utilise l'exemple suivant pour répondre à la question :
@@ -165,7 +165,7 @@ def extract_regulation(drug, countries, eudract, disease):
                 value = generative_dict[desc]
             else:
                 try:
-                    value = sim[col][sim['Substance active'] == drug].iloc[0]
+                    value = sim[col].iloc[0]
                   # Vérifier et traiter si c'est une liste même après transformation
                     if isinstance(value, list):
                         value = ', '.join(value)
