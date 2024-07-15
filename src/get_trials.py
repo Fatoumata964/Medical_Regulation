@@ -173,10 +173,9 @@ def extract_regulation(drug, countries, eudract, disease):
       
       # Joindre les réponses
         response = '\n\n'.join(responses1)
-
         for el in [sim['Substance active'].iloc[0], sim['Nom du médicament'].iloc[0]]:
-              if el in response:
-                  response = response.replace(el, drug)
+              pattern = re.compile(re.escape(el), re.IGNORECASE)
+              response = pattern.sub(drug, response)
                     
         responses = f"CECI EST UN EXEMPLE D'ESSAI CLINIQUE PROCHE DE CELUI DEMANDE.\n\n{response}"
         
