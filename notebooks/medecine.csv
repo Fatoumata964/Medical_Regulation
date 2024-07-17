@@ -1,0 +1,891 @@
+,ProductName
+0,Leflunomide medac
+1,Filgrastim Hexal
+2,Qutenza
+3,Levitra
+4,Rilutek
+5,Clopidogrel Krka
+6,Hycamtin
+7,Pylobactell
+8,Semglee
+9,Adcetris
+10,Otezla
+11,Plavix
+12,Cialis
+13,Ocaliva
+14,Praluent
+15,Xelevia
+16,Rubraca
+17,Kalydeco
+18,Ventavis
+19,Soliris
+20,Thalidomide BMS (previously Thalidomide Celgene)
+21,Neuraceq
+22,Xolair
+23,Omidria
+24,Trumenba
+25,Riximyo
+26,Blitzima
+27,Rixathon
+28,Trizivir
+29,Truxima
+30,Advate
+31,MabThera
+32,Zessly
+33,Cyramza
+34,Pravafenix
+35,Triumeq
+36,Kivexa
+37,Tasigna
+38,Somavert
+39,Holoclar
+40,Betaferon
+41,Pradaxa
+42,Blincyto
+43,Carmustine medac (previously Carmustine Obvius)
+44,Toujeo (previously Optisulin)
+45,Pregabalin Sandoz
+46,Epoetin Alfa Hexal
+47,Binocrit
+48,Prometax
+49,Respreeza
+50,Olumiant
+51,Rezolsta
+52,Ninlaro
+53,Exjade
+54,Kisqali
+55,Spectrila
+56,Obizur
+57,Tysabri
+58,Nordimet
+59,Pegasys
+60,Ozurdex
+61,Vimizim
+62,Tagrisso
+63,Darzalex
+64,Revatio
+65,Suboxone
+66,Gazyvaro
+67,Wakix
+68,Mylotarg
+69,Enbrel
+70,Glivec
+71,Tecentriq
+72,Vargatef
+73,Simponi
+74,Moventig
+75,Sildenafil Actavis
+76,Cresemba
+77,Xeljanz
+78,Ocrevus
+79,Entyvio
+80,Lonquex
+81,Velmetia
+82,Talmanco (previously Tadalafil Generics)
+83,Vfend
+84,Relvar Ellipta
+85,Fasenra
+86,Vimpat
+87,Zejula
+88,Opsumit
+89,Zutectra
+90,Refixia
+91,Imnovid (previously Pomalidomide Celgene)
+92,Lojuxta
+93,Flebogamma DIF (previously Flebogammadif)
+94,Mozobil
+95,CoAprovel
+96,Champix
+97,Venclyxto
+98,Fycompa
+99,Benlysta
+100,Keytruda
+101,Karvezide
+102,Yescarta
+103,Sprycel
+104,Xofigo
+105,Trelegy Ellipta
+106,Raxone
+107,Opdivo
+108,Elebrato Ellipta
+109,Advagraf
+110,Lemtrada
+111,Emselex
+112,Qarziba (previously Dinutuximab beta EUSA and Dinutuximab beta Apeiron)
+113,Simulect
+114,Xadago
+115,Defitelio
+116,Norvir
+117,Telmisartan Actavis
+118,Prolia
+119,Brintellix
+120,Halaven
+121,Prialt
+122,Neulasta
+123,Revlimid
+124,Mavenclad
+125,Instanyl
+126,Kaletra
+127,Cancidas (previously Caspofungin MSD)
+128,Modigraf
+129,Myalepta
+130,Armisarte (previously Pemetrexed Actavis)
+131,Xeplion
+132,RoActemra
+133,Yervoy
+134,Farydak
+135,Plenadren
+136,Spinraza
+137,Cometriq
+138,Alofisel
+139,Synagis
+140,Zubsolv
+141,Dupixent
+142,Bortezomib Hospira
+143,Lucentis
+144,GONAL-f
+145,Aldurazyme
+146,Remsima
+147,Saxenda
+148,Colobreathe
+149,"Vantavo (previously Alendronate sodium and colecalciferol, MSD)"
+150,Fosavance
+151,Cholib
+152,Zarzio
+153,Adrovance
+154,Ovitrelle
+155,CellCept
+156,Lixiana
+157,Roteas
+158,Rekovelle
+159,Adynovi
+160,Foclivia
+161,Docetaxel Kabi
+162,Exforge HCT
+163,Imatinib Teva
+164,Ziagen
+165,Zavicefta
+166,Synjardy
+167,Glyxambi
+168,Eporatio
+169,Dafiro HCT
+170,Biopoin
+171,Copalia HCT
+172,Sovaldi
+173,Vosevi
+174,Harvoni
+175,Epclusa
+176,Myfenax
+177,Brimica Genuair
+178,ellaOne
+179,Olanzapine Teva
+180,Amglidia
+181,Orphacol
+182,Bridion
+183,Rivastigmine Sandoz
+184,Imbruvica
+185,Vyndaqel
+186,Levetiracetam Sun
+187,Lutathera
+188,Procysbi
+189,Fortacin
+190,Tenkasi (previously Orbactiv)
+191,Tadalafil Lilly
+192,Lynparza
+193,Infanrix Hexa
+194,Ristaben
+195,Herzuma
+196,Vizamyl
+197,Hefiya
+198,Hyrimoz
+199,Tecfidera
+200,Omnitrope
+201,Strimvelis
+202,Steglujan
+203,Tesavel
+204,Veyvondi
+205,Januvia
+206,Lyrica
+207,Jinarc
+208,Viagra
+209,Idelvion
+210,Gilenya
+211,Mepsevii
+212,Docetaxel Accord
+213,Benepali
+214,Jardiance
+215,Victoza
+216,Eylea
+217,Neparvis
+218,Tandemact
+219,Entresto
+220,Ledaga
+221,Lonsurf
+222,Aripiprazole Mylan Pharma (previously Aripiprazole Pharmathen)
+223,Natpar
+224,Akynzeo
+225,Esbriet
+226,Revinty Ellipta
+227,Revolade
+228,Tafinlar
+229,Adempas
+230,Eurartesim
+231,Reyataz
+232,Bavencio
+233,Cosentyx
+234,Perjeta
+235,NovoMix
+236,Actos
+237,Cerdelga
+238,Ilaris
+239,Kanuma
+240,Xultophy
+241,Arava
+242,Duloxetine Mylan
+243,Ecansya (previously Capecitabine Krka)
+244,Diacomit
+245,Tolucombi
+246,Aubagio
+247,Abseamed
+248,Ovaleap
+249,Azilect
+250,Jalra
+251,Galvus
+252,Xiliarx
+253,Nemdatine
+254,Competact
+255,Caprelsa
+256,Lacosamide Accord
+257,Tivicay
+258,Aimovig
+259,Deltyba
+260,Mircera
+261,Bonviva
+262,Lantus
+263,Vpriv
+264,Fluenz Tetra
+265,Renagel
+266,Ruconest
+267,Erelzi
+268,Ristfor
+269,Efficib
+270,Janumet
+271,Brilique
+272,Ebymect
+273,Capecitabine Accord
+274,Neoclarityn
+275,Aerius
+276,Azomyr
+277,Xarelto
+278,Xydalba
+279,Ofev
+280,Bydureon
+281,Siklos
+282,Jakavi
+283,Buccolam
+284,Oprymea
+285,Rotarix
+286,Terrosa
+287,Vokanamet
+288,Orkambi
+289,Invokana
+290,Revestive
+291,Inhixa
+292,Retacrit
+293,Kovaltry
+294,Rydapt
+295,Kisplyx
+296,Lenvima
+297,Sifrol
+298,Mirapexin
+299,Accofil
+300,Vipidia
+301,Mysimba
+302,Abilify Maintena
+303,NutropinAq
+304,Carbaglu
+305,Bexsero
+306,Ceprotin
+307,Zinplava
+308,Suliqua
+309,Zelboraf
+310,Stelara
+311,Sylvant
+312,Fotivda
+313,HyQvia
+314,Iressa
+315,Nimenrix
+316,Plegridy
+317,Kineret
+318,Xgeva
+319,Fareston
+320,Tevagrastim
+321,Olanzapine Mylan
+322,Bondronat
+323,Mepact
+324,Arixtra
+325,Ivabradine Zentiva
+326,Insuman
+327,Twynsta
+328,Ifirmacombi
+329,Praxbind
+330,Vipdomet
+331,Efient
+332,Methylthioninium chloride Proveblue
+333,Karvea
+334,Insulin lispro Sanofi
+335,Levetiracetam Hospira
+336,Nexavar
+337,Iscover
+338,Aprovel
+339,Crysvita
+340,Byetta
+341,Menveo
+342,Zyclara
+343,Aldara
+344,Jevtana
+345,Xyrem
+346,Rivastigmine Actavis
+347,Trydonis
+348,Trimbow
+349,Mysildecard
+350,Matever
+351,Luminity
+352,Forxiga
+353,Renvela
+354,Multaq
+355,Fasturtec
+356,Orencia
+357,Temozolomide Accord
+358,Apidra
+359,Ecalta
+360,Clopidogrel Zentiva (previously Clopidogrel Winthrop)
+361,Cymbalta
+362,Levetiracetam ratiopharm
+363,Hexyon
+364,Hexacima
+365,Zydelig
+366,Eliquis
+367,Trevicta (previously Paliperidone Janssen)
+368,Levetiracetam Actavis
+369,Levetiracetam Actavis Group
+370,Rivastigmine Hexal
+371,Levetiracetam Teva
+372,Giotrif
+373,Levetiracetam Accord
+374,Noxafil
+375,Temodal
+376,Prevymis
+377,Dexdor
+378,Duavive
+379,Sialanar
+380,Vidaza
+381,Nerlynx
+382,Privigen
+383,Grepid
+384,Voriconazole Accord
+385,Maviret
+386,Exelon
+387,Zonisamide Mylan
+388,Jentadueto
+389,Myozyme
+390,Segluromet
+391,Ibrance
+392,SonoVue
+393,Nityr
+394,Oxervate
+395,Tadalafil Mylan
+396,Desloratadine Actavis
+397,Kentera (previously Oxybutynin Nicobrand)
+398,Empliciti
+399,Pioglitazone Actavis
+400,Ebilfumin
+401,Rebif
+402,Rapilysin
+403,Potactasol
+404,Vemlidy
+405,Pergoveris
+406,Edistride
+407,Xigduo
+408,Qtern
+409,Komboglyze
+410,Ratiograstim
+411,Cinqaero
+412,Ixiaro
+413,Galafold
+414,Xaluprine (previously Mercaptopurine Nova Laboratories)
+415,Sustiva
+416,Pantozol Control
+417,Trisenox
+418,Evoltra
+419,Controloc Control
+420,Rapiscan
+421,Somac Control
+422,Twinrix Adult
+423,Synflorix
+424,Fendrix
+425,Ambirix
+426,Volibris
+427,Constella
+428,Nivestim
+429,Darunavir Mylan
+430,Cervarix
+431,Circadin
+432,Neofordex
+433,Trajenta
+434,Hemlibra
+435,Ritonavir Mylan
+436,Atazanavir Mylan
+437,Bosulif
+438,Tarceva
+439,Sirturo
+440,Votrient
+441,BiResp Spiromax
+442,Cablivi
+443,Darunavir Krka
+444,TachoSil
+445,Evicel
+446,Tyverb
+447,Xenical
+448,Kymriah
+449,Ozempic
+450,Tegsedi
+451,Gliolan
+452,Biktarvy
+453,Emend
+454,Cimzia
+455,Repatha
+456,Firazyr
+457,Granupas (previously Para-aminosalicylic acid Lucane)
+458,Axura
+459,Cinacalcet Mylan
+460,Lokelma
+461,Ravicti
+462,NexoBrid
+463,Verkazia
+464,Stocrin
+465,Translarna
+466,Evotaz
+467,Nexium Control
+468,Lamivudine Teva Pharma B.V.
+469,Onglyza
+470,Viramune
+471,Eptifibatide Accord
+472,INOmax
+473,Adenuric
+474,Mirvaso
+475,Ceplene
+476,Emtriva
+477,RotaTeq
+478,Zerbaxa
+479,Orfadin
+480,Exviera
+481,Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop)
+482,Cetrotide
+483,Viekirax
+484,Granpidam
+485,Elonva
+486,Orgalutran
+487,Fuzeon
+488,Thyrogen
+489,Jylamvo
+490,Cerezyme
+491,Fabrazyme
+492,Veltassa
+493,Dzuveo
+494,Mycamine
+495,Tepadina
+496,Imvanex
+497,Alecensa
+498,Sancuso
+499,Puregon
+500,Azopt
+501,Sivextro
+502,Eucreas
+503,Memantine Mylan
+504,Mimpara
+505,Imraldi
+506,Kanjinti
+507,Taxotere
+508,Tamiflu
+509,Kadcyla
+510,NovoRapid
+511,Keppra
+512,Vihuma
+513,Nuwiq
+514,Elocta
+515,Symtuza
+516,Alkindi
+517,Zomarist
+518,Erivedge
+519,Pregabalin Pfizer
+520,Herceptin
+521,Avastin
+522,Miglustat Gen.Orph
+523,Trulicity
+524,NeoRecormon
+525,Olanzapine Apotex
+526,Stivarga
+527,Senshio
+528,Cotellic
+529,Cayston
+530,Prezista
+531,Efavirenz Teva
+532,Ivabradine Anpharm
+533,Mekinist
+534,Ferriprox
+535,Ikervis
+536,NovoSeven
+537,Nyxoid
+538,Aloxi
+539,Ulunar Breezhaler
+540,Fulvestrant Mylan
+541,Vizarsin
+542,Rasilez
+543,Rasagiline Mylan
+544,Zonegran
+545,Stalevo
+546,Inovelon
+547,Zalasta
+548,Pemetrexed Krka
+549,Lamzede
+550,Nimvastid
+551,Tolura
+552,Yargesa
+553,Taltz
+554,Cuprior
+555,Vaxelis
+556,Odefsey
+557,Spherox
+558,Xagrid
+559,Descovy
+560,Intuniv
+561,Zoely
+562,Strensiq
+563,Tybost
+564,Nulojix
+565,Tracleer
+566,Stayveer
+567,Hemangiol
+568,Pregabalin Zentiva
+569,Flixabi
+570,Truvada
+571,Stribild
+572,Juluca
+573,Helicobacter Test INFAI
+574,Liprolog
+575,Optruma
+576,Coagadex
+577,Oncaspar
+578,Envarsus
+579,Metalyse
+580,Amgevita
+581,Lysodren
+582,Avonex
+583,Kengrexal
+584,Atriance
+585,Aclasta
+586,Extavia
+587,Pregabalin Mylan
+588,VeraSeal
+589,Duaklir Genuair
+590,Eklira Genuair
+591,Toviaz
+592,Protopic
+593,Tacforius
+594,Kyntheum
+595,Pregabalin Accord
+596,Mvasi
+597,Bretaris Genuair
+598,Viread
+599,Quinsair
+600,Dificlir
+601,Zaltrap
+602,Olanzapine Glenmark Europe
+603,Olanzapine Glenmark
+604,Bemfola
+605,Simbrinza
+606,Axumin
+607,Shingrix
+608,Humira
+609,Ammonaps
+610,Cubicin
+611,Resolor
+612,Elaprase
+613,Imlygic
+614,Imatinib Accord
+615,Repaglinide Krka
+616,Enyglid
+617,Eviplera
+618,Scintimun
+619,Xermelo
+620,Feraccru
+621,Velphoro
+622,Aerinaze
+623,Sycrest
+624,Tookad
+625,Jorveza
+626,Zytiga
+627,Steglatro
+628,Xalkori
+629,Iclusig
+630,Kevzara
+631,Intelence
+632,Genvoya
+633,Tasmar
+634,Javlor
+635,Ibandronic Acid Teva
+636,Riluzole Zentiva
+637,Rolufta Ellipta (previously Rolufta)
+638,Laventair Ellipta (previously Laventair)
+639,Zepatier
+640,Lamivudine Teva
+641,Clopidogrel ratiopharm
+642,Incruse Ellipta (previously Incruse)
+643,Iasibon
+644,Adasuve
+645,Aranesp
+646,Exforge
+647,Dafiro
+648,Copalia
+649,Effentora
+650,Evra
+651,ReFacto AF
+652,Gardasil
+653,Pedea
+654,PecFent
+655,Scenesse
+656,Intrarosa
+657,Micardis
+658,Relistor
+659,Edurant
+660,Xeloda
+661,Invanz
+662,Isentress
+663,Trazimera
+664,BeneFIX
+665,Nplate
+666,Azarga
+667,Nucala
+668,Tygacil
+669,Hetlioz
+670,Silodyx
+671,Cinryze
+672,Firmagon
+673,Aflunov
+674,Irbesartan Zentiva (previously Irbesartan Winthrop)
+675,Skilarence
+676,Vaniqa
+677,Rixubis
+678,Remicade
+679,Ontruzant
+680,Replagal
+681,Yellox
+682,Kinzalkomb
+683,Incresync
+684,Luveris
+685,Aripiprazole Sandoz
+686,Faslodex
+687,Epivir
+688,Combivir
+689,Ivemend
+690,Aripiprazole Zentiva
+691,Daxas
+692,Opatanol
+693,Telzir
+694,Aptivus
+695,Celsentri
+696,Dynastat
+697,Ciambra
+698,Duloxetine Zentiva
+699,Brineura
+700,HBVaxPro
+701,Ranexa (previously Latixa)
+702,Pemetrexed medac
+703,Signifor
+704,Valdoxan
+705,Myclausen
+706,Topotecan Hospira
+707,Entecavir Accord
+708,Afstyla
+709,Rapamune
+710,Tremfya
+711,ProQuad
+712,Zinforo
+713,Ganfort
+714,Lumigan
+715,Zeffix
+716,Elmiron
+717,Aripiprazole Accord
+718,Naglazyme
+719,Emadine
+720,Clopidogrel TAD
+721,Ibandronic Acid Sandoz
+722,Ucedane
+723,Vectibix
+724,Sildenafil Teva
+725,Uptravi
+726,Cuprymina
+727,Zostavax
+728,Clopidogrel Taw Pharma (previously Clopidogrel Mylan)
+729,Samsca
+730,Memantine ratiopharm
+731,Bronchitol
+732,Optison
+733,Kiovig
+734,Votubia
+735,Afinitor
+736,Desloratadine ratiopharm
+737,Sildenafil ratiopharm
+738,Torisel
+739,Xtandi
+740,Kyprolis
+741,Zyllt
+742,Desloratadine Teva
+743,Dasselta
+744,Travatan
+745,Evista
+746,Reagila
+747,Erbitux
+748,Firdapse (previously Zenas)
+749,Selincro
+750,Leflunomide Zentiva (previously Leflunomide Winthrop)
+751,Leflunomide ratiopharm
+752,Ongentys
+753,Voncento
+754,Abraxane
+755,Inflectra
+756,Fampyra
+757,Alimta
+758,Memantine Merz
+759,Abilify
+760,Daptomycin Hospira
+761,Dukoral
+762,Urorec
+763,Tresiba
+764,Teysuno
+765,Tractocile
+766,Avamys
+767,Temomedac
+768,Bortezomib Accord
+769,Yondelis
+770,Ameluz
+771,NovoThirteen
+772,Integrilin
+773,Edarbi
+774,Latuda
+775,Temozolomide Sun
+776,Besponsa
+777,Zebinix
+778,Brinavess
+779,Zavesca
+780,Ivabradine Accord
+781,Zykadia
+782,Temozolomide Teva
+783,Zyprexa Velotab
+784,Zypadhera
+785,Baraclude
+786,DaTSCAN
+787,Atosiban SUN
+788,Targretin
+789,Zoledronic Acid Accord
+790,Repaglinide Accord
+791,Movymia
+792,Forsteo
+793,Twinrix Paediatric
+794,Hizentra
+795,Pioglitazone Accord
+796,Memantine Accord
+797,Increlex
+798,Beromun
+799,Zyprexa
+800,Grastofil
+801,Ebixa
+802,Peyona (previously Nymusa)
+803,Yentreve
+804,Duloxetine Lilly
+805,Corlentor
+806,Procoralan
+807,Repaglinide Teva
+808,Seebri Breezhaler
+809,Pheburane
+810,Neupro
+811,Marixino (previously Maruxa)
+812,Pixuvri
+813,Izba
+814,Spedra
+815,Pramipexole Teva
+816,Nevanac
+817,Enurev Breezhaler
+818,Entacapone Orion
+819,Zoledronic Acid Hospira
+820,Tovanor Breezhaler
+821,Comtess
+822,Betmiga
+823,Cystagon
+824,Rasagiline ratiopharm
+825,Alprolix
+826,Telmisartan Teva Pharma
+827,Comtan
+828,Inductos
+829,DuoTrav
+830,Humalog
+831,Entacapone Teva
+832,Inlyta
+833,Raloxifene Teva
+834,Fiasp
+835,Parsabiv
+836,Cystadane
+837,Onbrez Breezhaler
+838,Ryzodeg
+839,Cystadrops
+840,Bortezomib Sun
+841,Capecitabine Teva
+842,Oslif Breezhaler
+843,Hirobriz Breezhaler
+844,Xoterna Breezhaler
+845,Ultibro Breezhaler
+846,Sutent
+847,Ifirmasta (previously Irbesartan Krka)
+848,Dacogen
+849,Levemir
+850,Zometa
+851,Zevalin
+852,Ketoconazole HRA
+853,Velcade
+854,Cholestagel
+855,NovoEight
+856,Busulfan Fresenius Kabi
+857,Odomzo
+858,Amyvid
+859,Conbriza
+860,Esmya
+861,Yttriga
+862,Jetrea
+863,Kinzalmono (previously Telmisartan Boehringer Ingelheim Pharma KG)
+864,Pramipexole Accord
+865,Pritor
+866,Silapo
+867,Insulatard
+868,Memantine LEK
+869,Lymphoseek
+870,Protaphane
+871,Actrapid
+872,Actraphane
+873,Mixtard
+874,Lumark
+875,Visudyne
+876,Olazax
+877,Olazax Disperzi
+878,Invega
+879,Kuvan
+880,Savene
+881,Vedrop
+882,Wilzin
+883,Cyanokit
+884,Clopidogrel HCS
+885,Prandin
+886,Litak
+887,NovoNorm
+888,Foscan
+889,Quadramet
