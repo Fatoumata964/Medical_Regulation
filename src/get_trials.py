@@ -206,7 +206,7 @@ def index():
 async def get_protocol(drug: TextInput):
     # You can perform text processing here
     start_time = time.time()
-    regulation_text = extract_prorocol(drug.text.lower(), drug.countries.lower(), drug.eudract.lower(), drug.disease.lower())
+    regulation_text = extract_protocol(drug.text.lower(), drug.countries.lower(), drug.eudract.lower(), drug.disease.lower())
     # stopping the timer
     stop_time = time.time()
     elapsed_time = stop_time - start_time
