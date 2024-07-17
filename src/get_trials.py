@@ -29,22 +29,27 @@ except Exception as e:
       print(e)
 
 
-# Define a Pydantic model to validate the input
+
+# Définition d'une classe TextInput héritant de BaseModel avec des champs par défaut pour le texte, les pays, le numéro EudraCT et la maladie
 class TextInput(BaseModel):
     text: str = "irbesartan, hydrochlorothiazide"
     countries: str = "Belgium - FPS Health-DGM"
     eudract: str = "2004-000020-32"
-    disease: str = None 
+    disease: str = None
 
+# Fonction pour obtenir les réponses de LLM (Large Language Model) basées sur un dataframe de clusters, un prompt, un numéro EudraCT, un médicament et des pays
 def get_llm(df_clus, prompt, eudract, drug, countries):
+    # Création d'index vectoriels pour l'objectif principal, les objectifs secondaires, les critères d'inclusion et d'exclusion et les "primary endpoints" de l'essai clinique
     index_po, index_so, index_in, index_ex, index_ep = vector_index(df_clus)
+    
+    # Création de moteurs de requête pour chaque index
     query_engine_po = index_po.as_query_engine()
     query_engine_so = index_so.as_query_engine()
     query_engine_in = index_in.as_query_engine()
     query_engine_ex = index_ex.as_query_engine()
     query_engine_ep = index_ep.as_query_engine()
-    #query_engine_rst = index_rst.as_query_engine()
 
+    # Descriptions textuelles pour différents objectifs et critères de l'essai clinique
     description_po = """L'objectif principal est l'objectif central de l'essai clinique. Il est souvent formulé comme une question de recherche claire et précise que l'essai vise à répondre. 
     Par exemple, dans un essai clinique sur un nouveau médicament pour le traitement du diabète, l'objectif principal pourrait être de démontrer que le médicament réduit significativement
     les niveaux de glucose dans le sang par rapport à un placebo."""
@@ -55,32 +60,35 @@ def get_llm(df_clus, prompt, eudract, drug, countries):
     description_ex = """Les critères d'exclusion spécifient les caractéristiques qui disqualifient des participants potentiels de l'essai clinique."""
     description_ep = """Les "primary endpoints" (points finaux primaires) sont les principales mesures de résultat d'un essai clinique.
     Ils sont utilisés pour évaluer directement l'objectif principal de l'étude. Ces points finaux sont définis avant le début de l'essai et jouent un rôle crucial dans la détermination de l'efficacité et/ou de la sécurité de l'intervention étudiée."""
-    description_rst = """Tu dois générer le prototocole d'essai clinique associé aux informations données"""
-      
-    reponses = []
-    response_po=query_engine_po.query(prompt + ' ' + description_po + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Main objective of the trial?")
-    reponses.append(response_po)
-    response_so=query_engine_so.query(prompt + ' ' +  description_so + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what are the Secondary objectives of the trial?")
-    reponses.append(response_so)
-    response_in=query_engine_in.query(prompt + ' ' +  description_in + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Principal inclusion criteria?")
-    reponses.append(response_in)
-    response_ex=query_engine_ex.query(prompt + ' ' +  description_ex + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Principal exclusion criteria?")
-    reponses.append(response_ex)
-    response_ep=query_engine_ep.query(prompt + ' ' +  description_ep + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Primary end point(s)?")
-    reponses.append(response_ep)
-    #response_rst=query_engine_rst.query(prompt + ' ' +  description_rst + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}")
-    #reponses.append(response_rst)
 
+    # Initialisation de la liste des réponses
+    reponses = []
+
+    # Exécution des requêtes pour chaque description et ajout des réponses à la liste
+    response_po = query_engine_po.query(prompt + ' ' + description_po + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Main objective of the trial?")
+    reponses.append(response_po)
+    response_so = query_engine_so.query(prompt + ' ' +  description_so + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what are the Secondary objectives of the trial?")
+    reponses.append(response_so)
+    response_in = query_engine_in.query(prompt + ' ' +  description_in + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Principal inclusion criteria?")
+    reponses.append(response_in)
+    response_ex = query_engine_ex.query(prompt + ' ' +  description_ex + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Principal exclusion criteria?")
+    reponses.append(response_ex)
+    response_ep = query_engine_ep.query(prompt + ' ' +  description_ep + ' ' + f"for EudraCT Number: {eudract}, 'Substance active': {drug} and Member State Concerned: {countries}, what is the Primary end point(s)?")
+    reponses.append(response_ep)
+
+    # Retourne la liste des réponses
     return reponses
 
-def extract_regulation(drug, countries, eudract, disease):
-    '''Extraction de la réglementation du médicament donné'''
-
+def extract_protocol(drug, countries, eudract, disease):
+    '''Extraction de l'essai clinique du médicament donné'''
+    # Définition d'un prompt général
     prompt = """Tu es un assistant médical utile. Ton objectif est de donner des informations complétes sur les essais cliniques pharmaceutiques en étant le plus précis que possible 
     en fonction des instructions et du contexte fournis. La sortie doit contenir toute la réponse et chaque phrase doit commencer par une letter majuscule et terminer par un point."""
 
+    #Si le médicament existe dans la base:
     if drug in df["Substance active"].values:
-    
+
+          # Récupérer les colonnes appartenant au protocole d'essai, elles commencent toutes par A.2.1 par exemple
           pattern = re.compile(r'^[A-Z]\..*')
           columns = [col for col in df.columns if pattern.match(col)]
           reponses = []
@@ -97,7 +105,8 @@ def extract_regulation(drug, countries, eudract, disease):
                   text = f"{desc}: Not Available"
               reponses.append(text)
           responses = '\n\n'.join(reponses)
-    
+
+    #Si le médicament n'existe pas dans la base:  
     else:
         # Intégration du texte du médicament et d'une phrase représentative de la maladie
         embedded_drug = model.embed_sentence(drug)
@@ -118,7 +127,7 @@ def extract_regulation(drug, countries, eudract, disease):
         df_clus = df[df['cluster_labels'] == y[0]]
         sim = faiss_search_similar_medications(drug, disease, df_clus, 1)
         print(sim)
-
+        # Récuperation des colonnes à générer avec l'IA générative
         similar_medications_in_cluster = (
           f"Main objective of the trial: " + sim['E.2.1 Main objective of the trial'].iloc[0] + '. ' 
           + f"Secondary objectives of the trial \n\n" + sim['E.2.2 Secondary objectives of the trial'].iloc[0] + '. ' 
@@ -127,7 +136,7 @@ def extract_regulation(drug, countries, eudract, disease):
           + f"Primary end point: " + sim['E.5.1 Primary end point'].iloc[0]
             )
         print(similar_medications_in_cluster)
-
+        # Ajout d'un promt particulier au cas où le médicament est inconnu
         prompt += f"""
             Si l'information demandée n’est pas spécifiée dans les informations contextuelles fournies, utilise l'exemple suivant pour répondre à la question :
             
@@ -137,7 +146,7 @@ def extract_regulation(drug, countries, eudract, disease):
             """
 
         generative_titles = ["Main objective of the trial", "Secondary objectives of the trial", "Principal inclusion criteria", "Principal exclusion criteria", "Primary end point(s)"]
-
+      # Extraction des parties restantes du protocole sans IA générative
       # Pattern pour les colonnes
         pattern = re.compile(r'^[A-Z]\..*')
         columns = [col for col in df.columns if pattern.match(col)]
@@ -193,11 +202,11 @@ def index():
     }
 
 # Define a route that accepts POST requests with JSON data containing the text
-@app.post("/apiv1/regulation/get-regulation")
-async def get_regulation(drug: TextInput):
+@app.post("/apiv1/protocol/get-protocol")
+async def get_protocol(drug: TextInput):
     # You can perform text processing here
     start_time = time.time()
-    regulation_text = extract_regulation(drug.text.lower(), drug.countries.lower(), drug.eudract.lower(), drug.disease.lower())
+    regulation_text = extract_prorocol(drug.text.lower(), drug.countries.lower(), drug.eudract.lower(), drug.disease.lower())
     # stopping the timer
     stop_time = time.time()
     elapsed_time = stop_time - start_time
