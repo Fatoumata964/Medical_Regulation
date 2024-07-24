@@ -35,7 +35,7 @@ def main(medicine_csv, download_dir):
     medecines = pd.read_csv(medicine_csv)
 
     protocols = []
-    for name in medecines['ProductName'][:5]:
+    for name in medecines['ProductName']:
         driver.find_element("id", "query").clear()
         inputElement = driver.find_element("id", "query")
         inputElement.send_keys(name)
