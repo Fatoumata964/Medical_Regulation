@@ -7,8 +7,10 @@ colabcode
 huggingface_hub
 langchain==0.1.20
 sentence_transformers==2.7.0
-selenium==4.20.0
+selenium==4.23.1
+chromedriver-autoinstaller==0.6.4
 chromedriver==2.24.1
+beautifulsoup4==4.12.3
 tqdm
 pandas
 openpyxl
