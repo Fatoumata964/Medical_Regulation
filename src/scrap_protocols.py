@@ -75,6 +75,6 @@ if __name__ == "__main__":
     if len(sys.argv) != 3:
         print("Usage: python script.py <medicine_csv> <download_dir>")
     else:
-        medicine_csv = './data/medecine.csv'
-        download_dir = './data/protocol'
+        medicine_csv = sys.argv[1]
+        download_dir = sys.argv[2]
         main(medicine_csv, download_dir)
