@@ -3,7 +3,6 @@ urllib3
 uvicorn
 fastapi==0.110.2
 pyngrok
-colabcode
 huggingface_hub
 langchain==0.1.20
 sentence_transformers==2.7.0
