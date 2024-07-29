@@ -138,4 +138,4 @@ if __name__ == "__main__":
     directory = './data/protocol'
     data_cluster_path = './data/data_cluster.csv'
     final_df = process_files(directory, data_cluster_path)
-    final_df.to_csv('final_output.csv', index=False)
+    final_df.to_csv('./data/final_output.csv', index=False)
