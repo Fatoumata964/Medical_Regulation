@@ -7,7 +7,39 @@ from sentence_transformers import CrossEncoder
 from get_trials import extract_protocol
 modelf = AutoModelForSequenceClassification.from_pretrained('vectara/hallucination_evaluation_model', trust_remote_code=True)
 
+def extract_section():
+    # Expression régulière ajustée pour capturer les sections
+    regex_main = r"""
+        Main\ objective\ of\ the\ trial:\s*(.*?)\s*(Secondary\ objectives\ of\ the\ trial:|
+        Principal\ inclusion\ criteria:|
+        Principal\ exclusion\ criteria:|
+        Primary\ end\ point:|$)
+        """
+    regex_secondary = r"Secondary\ objectives\ of\ the\ trial:\s*(.*?)\s*(Principal\ inclusion\ criteria:|Principal\ exclusion\ criteria:|Primary\ end\ point:|$)"
+    regex_inclusion = r"Principal\ inclusion\ criteria:\s*(.*?)\s*(Principal\ exclusion\ criteria:|Primary\ end\ point:|$)"
+    regex_exclusion = r"Principal\ exclusion\ criteria:\s*(.*?)\s*(Primary\ end\ point:|$)"
+    regex_primary = r"Primary\ end\ point:\s*(.*?)$"
+    # Compilation de l'expression régulière avec les flags re.VERBOSE et re.DOTALL
+    pattern = re.compile(regex_main, re.VERBOSE | re.DOTALL)
+    pattern_secondary = re.compile(regex_secondary, re.VERBOSE | re.DOTALL)
+    pattern_inclusion = re.compile(regex_inclusion, re.VERBOSE | re.DOTALL)
+    pattern_exclusion = re.compile(regex_exclusion, re.VERBOSE | re.DOTALL)
+    pattern_primary = re.compile(regex_primary, re.VERBOSE | re.DOTALL)
+    # Extraction de la section spécifique
+    main_match = pattern.search(texte)
+    secondary_match = pattern_secondary.search(texte)
+    inclusion_match = pattern_inclusion.search(texte)
+    exclusion_match = pattern_exclusion.search(texte)
+    primary_match = pattern_primary.search(texte)
+    # Vérification si une correspondance a été trouvée
+    text = ""
+    text += "Main Objective of the Trial:\n" + (main_match.group(1).strip() if main_match else "No match found") + "\n\n"
+    text += "Secondary Objectives of the Trial:\n" + (secondary_match.group(1).strip() if secondary_match else "No match found") + "\n\n"
+    text += "Principal Inclusion Criteria:\n" + (inclusion_match.group(1).strip() if inclusion_match else "No match found") + "\n\n"
+    text += "Principal Exclusion Criteria:\n" + (exclusion_match.group(1).strip() if exclusion_match else "No match found") + "\n\n"
+    text += "Primary End Point:\n" + (primary_match.group(1).strip() if primary_match else "No match found") + "\n"
 
+    return text
 # Fonction pour calculer la similarité cosinus entre le texte de réglementation d'un médicament et un autre texte donné
 def cosineSimilarity(drug, countries, eudract, disease, text2): 
     # Extraction du texte de réglementation pour le médicament donné
