@@ -7,7 +7,9 @@ from sentence_transformers import CrossEncoder
 from get_trials import extract_protocol
 modelf = AutoModelForSequenceClassification.from_pretrained('vectara/hallucination_evaluation_model', trust_remote_code=True)
 
-def extract_section():
+def extract_section(drug, countries, eudract, disease):
+
+    texte = extract_protocol(drug, countries, eudract, disease)
     # Expression régulière ajustée pour capturer les sections
     regex_main = r"""
         Main\ objective\ of\ the\ trial:\s*(.*?)\s*(Secondary\ objectives\ of\ the\ trial:|
@@ -43,28 +45,7 @@ def extract_section():
 # Fonction pour calculer la similarité cosinus entre le texte de réglementation d'un médicament et un autre texte donné
 def cosineSimilarity(drug, countries, eudract, disease, text2): 
     # Extraction du texte de réglementation pour le médicament donné
-    texte = extract_protocol(drug, countries, eudract, disease)
-    regex = r"""
-          (Main objective of the trial:.*?(?=\n(?:Secondary objectives of the trial:|Principal inclusion criteria:|Principal exclusion criteria:|Primary end point:|$)))|
-          (Secondary objectives of the trial:.*?(?=\n(?:Principal inclusion criteria:|Principal exclusion criteria:|Primary end point:|$)))|
-          (Principal inclusion criteria:.*?(?=\n(?:Principal exclusion criteria:|Primary end point:|$)))|
-          (Principal exclusion criteria:.*?(?=\nPrimary end point:|$))|
-          (Primary end point:.*?$)
-          """
-
-    # Compilation de l'expression régulière avec les flags re.VERBOSE et re.DOTALL
-    pattern = re.compile(regex, re.VERBOSE | re.DOTALL)
-    
-    # Extraction des sections spécifiques
-    matches = pattern.findall(texte)
-    
-    # Filtrage pour retirer les groupes vides et les lignes non désirées
-    filtered_matches = [match for match_tuple in matches for match in match_tuple if match]
-
-    text1 = ""
-    # Affichage des résultats
-    for match in filtered_matches:
-        text1 += match.strip()  + "\n"
+    text1 = extract_section(drug, countries, eudract, disease)
     
     # Création d'une liste contenant les deux textes (text1 et text2)
     documents = [text1, text2]
@@ -92,28 +73,7 @@ def cosineSimilarity(drug, countries, eudract, disease, text2):
 # Fonction pour prédire un score de "hallucination" entre le texte de réglementation d'un médicament et un autre texte donné
 def score_hallucination(drug, countries, eudract, disease, text2):
     # Extraction du texte de réglementation pour le médicament donné
-    texte = extract_protocol(drug, countries, eudract, disease)
-    regex = r"""
-          (Main objective of the trial:.*?(?=\n(?:Secondary objectives of the trial:|Principal inclusion criteria:|Principal exclusion criteria:|Primary end point:|$)))|
-          (Secondary objectives of the trial:.*?(?=\n(?:Principal inclusion criteria:|Principal exclusion criteria:|Primary end point:|$)))|
-          (Principal inclusion criteria:.*?(?=\n(?:Principal exclusion criteria:|Primary end point:|$)))|
-          (Principal exclusion criteria:.*?(?=\nPrimary end point:|$))|
-          (Primary end point:.*?$)
-          """
-
-    # Compilation de l'expression régulière avec les flags re.VERBOSE et re.DOTALL
-    pattern = re.compile(regex, re.VERBOSE | re.DOTALL)
-    
-    # Extraction des sections spécifiques
-    matches = pattern.findall(texte)
-    
-    # Filtrage pour retirer les groupes vides et les lignes non désirées
-    filtered_matches = [match for match_tuple in matches for match in match_tuple if match]
-
-    text1 = ""
-    # Affichage des résultats
-    for match in filtered_matches:
-        text1 += match.strip()  + "\n"
+    text1 = extract_section(drug, countries, eudract, disease)
     # Utilisation d'un modèle de prédiction (modelf) pour prédire un score en fournissant une liste contenant les textes text1 et text2
     scores = modelf.predict([
         [text1, text2]
