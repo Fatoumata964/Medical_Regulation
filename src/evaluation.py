@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import CrossEncoder
 from get_trials import extract_protocol
-modelf = CrossEncoder("vectara/hallucination_evaluation_model")
+modelf = CrossEncoder("vectara/hallucination_evaluation_model", trust_remote_code=True)
 
 
 # Fonction pour calculer la similarité cosinus entre le texte de réglementation d'un médicament et un autre texte donné
