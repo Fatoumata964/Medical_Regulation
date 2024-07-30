@@ -39,7 +39,6 @@ def cosineSimilarity(drug, countries, eudract, disease, text2):
     
     # Initialisation du CountVectorizer pour convertir les textes en matrices de termes-document
     count_vectorizer = CountVectorizer(stop_words="english")
-    count_vectorizer = CountVectorizer()
     
     # Conversion des textes en matrices de termes-document
     sparse_matrix = count_vectorizer.fit_transform(documents)
