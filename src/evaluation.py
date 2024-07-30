@@ -13,11 +13,11 @@ def cosineSimilarity(drug, countries, eudract, disease, text2):
     # Extraction du texte de réglementation pour le médicament donné
     texte = extract_protocol(drug, countries, eudract, disease)
     regex = r"""
-          (E\.2\.1\s.*?(?=\nE\.2\.2|E\.3|E\.4|E\.5|E\.6|$))|
-          (E\.2\.2\s.*?(?=\nE\.2\.3|E\.3|E\.4|E\.5|E\.6|$))|
-          (E\.3(\.\d+)?\s.*?(?=\nE\.4|E\.5|E\.6|$))|
-          (E\.4(\.\d+)?\s.*?(?=\nE\.5|E\.6|$))|
-          (E\.5\.1\s.*?$)
+          (Main objective of the trial:.*?(?=\n(?:Secondary objectives of the trial:|Principal inclusion criteria:|Principal exclusion criteria:|Primary end point:|$)))|
+          (Secondary objectives of the trial:.*?(?=\n(?:Principal inclusion criteria:|Principal exclusion criteria:|Primary end point:|$)))|
+          (Principal inclusion criteria:.*?(?=\n(?:Principal exclusion criteria:|Primary end point:|$)))|
+          (Principal exclusion criteria:.*?(?=\nPrimary end point:|$))|
+          (Primary end point:.*?$)
           """
 
     # Compilation de l'expression régulière avec les flags re.VERBOSE et re.DOTALL
