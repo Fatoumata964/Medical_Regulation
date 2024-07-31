@@ -126,7 +126,7 @@ def extract_protocol(drug, countries, eudract, disease):
         # Recherche de médicaments similaires dans le même cluster
         df_clus = df[df['cluster_labels'] == y[0]]
         sim = faiss_search_similar_medications(drug, disease, df_clus, 1)
-        print(sim)
+
         # Récuperation des colonnes à générer avec l'IA générative
         similar_medications_in_cluster = (
           f"Main objective of the trial: " + sim['E.2.1 Main objective of the trial'].iloc[0] + '. ' 
@@ -135,7 +135,7 @@ def extract_protocol(drug, countries, eudract, disease):
           + f"Principal exclusion criteria \n\n" + sim['E.4 Principal exclusion criteria'].iloc[0] + '. ' 
           + f"Primary end point: " + sim['E.5.1 Primary end point'].iloc[0]
             )
-        print(similar_medications_in_cluster)
+       
         # Ajout d'un promt particulier au cas où le médicament est inconnu
         prompt += f"""
             Si l'information demandée n’est pas spécifiée dans les informations contextuelles fournies, utilise l'exemple suivant pour répondre à la question :
