@@ -1,0 +1,249 @@
+Summary
+EudraCT Number: 2006-000514-21
+Sponsor's Protocol Code Number: AG-PH3
+National Competent Authority: Netherlands - Competent Authority 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2006-05-17
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2006-000514-21/NL/
+
+A. Protocol Information
+A.1 Member State Concerned: Netherlands - Competent Authority
+A.2 EudraCT number: 2006-000514-21
+A.3 Full title of the trial: Multicenter, randomized, open-label, clinical study on the agreement of
+Scintimun® Granulocyte and labeled 99mTc-White Blood Cells in diagnosing
+infection/inflammation by immunoscintigraphy in peripheral bone and joints
+with suspected osteomyelitis.
+A.4.1 Sponsor's protocol code number: AG-PH3
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: CIS bio International
+B.1.3.4	Country: France
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Scintimun® Granulocyte
+D.3.2 Product code: MAb-BW 250/183
+D.3.4 Pharmaceutical form: Powder for solution for infusion
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Besilesomab
+D.3.9.1 CAS number: 537694-98-7
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 1 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: Yes
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): Yes
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: Ceretec™
+D.2.1.1.2 Name of the Marketing Authorisation holder: GE healthcare Ltd (previously Amersham)
+D.2.1.2 Country which granted the Marketing Authorisation: Netherlands
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Ceretec™
+D.3.4 Pharmaceutical form: Powder for solution for infusion
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Exametazime
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 0,5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: Yes
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Patients with suspected or documented osteomyelitis in the peripheral skeleton including patients with loosening of joint prosthesis or diabetic foot. At least one of following signs or symptoms is required: localized pain, nonhealing skin ulceration, fever > 37.8°C for at least 3 days, leukocyte count in excess of upper normal limits, erythrocyte sedimentation rate in excess of upper normal limits, radiographic findings suggestive of osteomyelitis, or positive blood or wound cultures.
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: The primary objective of the present study is to assess the agreement rate of Scintimun® Granulocyte and 99mTc-WBCs with regard to the diagnosis of nfection/inflammation by immunoscintigraphy, based on the evaluations of three blinded and independent readers in the absence of a standard of reference (SOR) to evaluate the true status.
+E.2.2 Secondary objectives of the trial: The secondary objectives are to assess the image quality, and evaluate the safety of the two products, in particular, the possible HAMA (Human Anti-Mouse Antibodies) factor induction after the investigational product administration. Additional objective will be determination of agreement rates between Scintimun® Granulocyte and 99mTc-WBCs per reader and based on the evaluation of clinical investigators.
+E.2.3 Trial contains a sub-study: Information not present in EudraCT
+E.3 Principal inclusion criteria: The patients screened positively for the study must fulfill all the following criteria:
+1. Male or female (if female of child-bearing potential, negative pregnancy test required before any radiotracer administration),
+2. Age ³ 18 years,
+3. Patients with suspected or documented osteomyelitis (acute, subacute, chronic) in the peripheral skeleton including patients with loosening of joint prosthesis and patients with diabetic foot. In addition, at least one of the following signs or symptoms is required: localized pain, nonhealing skin ulceration, fever > 37.8°C for at least 3 days, leukocyte count in excess of the upper normal limits, erythrocyte sedimentation rate in excess of the upper normal limits, radiographic findings suggestive of osteomyelitis, or positive blood or wound cultures,
+4. Patients who have signed a written informed consent form to participate in the study.
+E.4 Principal exclusion criteria: Patients displaying any of the following criteria will not be included:
+1. Pregnant women and women with a positive pregnancy test prior to the first study drug administration,
+2. Breastfeeding women and women of child bearing potential not using a reliable means of contraception,
+3. Patients with a known allergy to mouse proteins or a positive mouse proteins-specific Ig E test (allergy test) prior to the first study drug administration,
+4. Patients with a positive HAMA test prior to the first study drug administration
+5. Patients with rare hereditary problems of fructose intolerance,
+6. Severe disease or surgery (except for orthopedic reasons) within the last 4 weeks prior to the first study drug administration,
+7. A history of hypersensitivity to one or several medications (abnormal or idiosyncratic reactions to a drug),
+8. Patients with leukocyte count < 6.109/L (6,000/mm3),
+9. The use of non-steroid anti-inflammatory drugs and corticosteroids within 3 days prior to the first injection and up to 24 hours after the last injection,
+10. Receipt of cancer chemotherapy and immunosuppressive drugs or immunomodulators within 4 weeks prior to study entry,
+11. Patient showing laboratory parameters which in the opinion of the investigator preclude participation for reasons of the patient’s safety.
+12. Nuclear medicine diagnostic procedure within 2 days prior to the first injection,
+13. Participation in another clinical study within one month prior to screening,
+14. Uncooperative, in the investigator's opinion,
+15. Linguistic or psychological inability to sign the informed consent form and/or take part in the study.
+E.5 End points
+E.5.1 Primary end point(s): The primary analysis is the evaluation of the agreement rate of Scintimun® Granulocyte and labeled WBCs with regard to the diagnosis of infection/inflammation by immunoscintigraphy, based on the evaluations of three blinded and independent readers in a blinded read. The primary efficacy variable will be calculated as an average across the reader results ("average reader") as primary analysis and separately for each reader as secondary analysis. The endpoint "agreement rate" was chosen in absence of an adequate standard of reference, so that diagnostic parameters like sensitivity and specificity could not be calculated.
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: Yes
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: No
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: Information not present in EudraCT
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): Information not present in EudraCT
+E.7.1.1 First administration to humans: Information not present in EudraCT
+E.7.1.2 Bioequivalence study: Information not present in EudraCT
+E.7.1.3 Other: Information not present in EudraCT
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): Information not present in EudraCT
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): Information not present in EudraCT
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: No
+E.8.1.6 Cross over: Yes
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.5 The trial involves multiple Member States: Yes
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: Information not present in EudraCT
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: Last visit of last patient.
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 0
+E.8.9.1 In the Member State concerned months: 9
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial years: 0
+E.8.9.2 In all countries concerned by the trial months: 11
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: Information not present in EudraCT
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): Information not present in EudraCT
+F.1.1.3 Newborns (0-27 days): Information not present in EudraCT
+F.1.1.4 Infants and toddlers (28 days-23 months): Information not present in EudraCT
+F.1.1.5 Children (2-11years): Information not present in EudraCT
+F.1.1.6 Adolescents (12-17 years): Information not present in EudraCT
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Information not present in EudraCT
+F.3.3.1 Women of childbearing potential not using contraception  
+(For clinical trials recorded in the database before the 10th March 2011 this question read: "Women of childbearing potential" and
+did not include the words "not using contraception". An answer of yes could have included women of child bearing potential whether
+or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
+database on 2006-05-17) : Yes
+F.3.3.2 Women of child-bearing potential using contraception: Information not present in EudraCT
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 26
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 130
+F.4.2.2 In the whole clinical trial: 130
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): In this trial, the investigational products are diagnostics (not for therapy). Patients will receive standard care after the treatment period.
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2006-06-15
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2007-01-02
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2008-01-05
+

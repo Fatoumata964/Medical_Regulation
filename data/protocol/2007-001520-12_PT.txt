@@ -1,0 +1,1261 @@
+Summary
+EudraCT Number: 2013-001697-17
+Sponsor's Protocol Code Number: A-94-52030-268
+National Competent Authority: Austria - BASG 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2014-04-22
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2013-001697-17/AT/
+
+A. Protocol Information
+A.1 Member State Concerned: Austria - BASG
+A.2 EudraCT number: 2013-001697-17
+A.3 Full title of the trial: PHASE II, MULTICENTRE, OPEN LABEL STUDY TO EVALUATE THE EFFICACY OF THE COMBINATION OF LANREOTIDE AUTOGEL 120 MG AND TEMOZOLOMIDE IN PATIENTS WITH PROGRESSIVE GASTRO-ENTERO-PANCREATIC NEUROENDOCRINE TUMOURS (GEP-NET) G1/G2 - A PILOT-STUDY
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language: Study to investigate the combination of Lanreotide Autogel 120mg and Temozolomid in patients with WITH PROGRESSIVE GASTRO-ENTERO-PANCREATIC NEUROENDOCRINE TUMOURS 
+A.3.2 Name or abbreviated title of the trial where available: SONNET
+A.4.1 Sponsor's protocol code number: A-94-52030-268
+A.7 Trial is part of a Paediatric Investigation Plan: No
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Ipsen Pharma GmbH
+B.1.3.4	Country: Germany
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support: Ipsen Pharma GmbH
+B.4.2 Country: Germany
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: Ipsen Pharma GmbH
+B.5.2 Functional name of contact point: Philipp Hoffmanns
+B.5.3 Address
+B.5.3.1 Street Address: Willy-Brandt-Strasse 3
+B.5.3.2 Town/ city: Ettlingen
+B.5.3.3 Post code: 76275
+B.5.3.4 Country: Germany
+B.5.4 Telephone number: 00497243184675
+B.5.5 Fax number: 00497243184680
+B.5.6 E-mail: philipp.hoffmanns@ipsen.com
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Somatuline Autogel 120 mg
+D.2.1.1.2 Name of the Marketing Authorisation holder: Ipsen Pharma GmbH
+D.2.1.2 Country which granted the Marketing Authorisation: Austria
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: LANREOTIDE
+D.3.9.1 CAS number: 108736-35-2
+D.3.9.4 EV Substance Code: SUB08402MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 120 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomide SUN 5mg Hartkapseln
+D.2.1.1.2 Name of the Marketing Authorisation holder: Sun Pharmaceutical Industries Europe B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomide SUN 20mg Hartkapseln
+D.2.1.1.2 Name of the Marketing Authorisation holder: Sun Pharmaceutical Industries Europe B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 20 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 4
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomide SUN 100mg Hartkapseln
+D.2.1.1.2 Name of the Marketing Authorisation holder: Sun Pharmaceutical Industries Europe B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 100 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 5
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomide SUN 250mg Hartkapseln
+D.2.1.1.2 Name of the Marketing Authorisation holder: Sun Pharmaceutical Industries Europe B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 250 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 6
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomide SUN 5mg Hartkapseln
+D.2.1.1.2 Name of the Marketing Authorisation holder: Sun Pharmaceutical Industries Europe B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 7
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomide SUN 20mg Hartkapseln
+D.2.1.1.2 Name of the Marketing Authorisation holder: Sun Pharmaceutical Industries Europe B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 20 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 8
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomide SUN 100mg Hartkapseln
+D.2.1.1.2 Name of the Marketing Authorisation holder: Sun Pharmaceutical Industries Europe B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 100 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 9
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomide SUN 250mg Hartkapseln
+D.2.1.1.2 Name of the Marketing Authorisation holder: Sun Pharmaceutical Industries Europe B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 250 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 10
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomida HF 5mg 
+D.2.1.1.2 Name of the Marketing Authorisation holder: STADA HEMOFARM SRL
+D.2.1.2 Country which granted the Marketing Authorisation: Romania
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Temozolomida HF 5mg 
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: TEMOZOLOMIDE
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 11
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomida HF 20mg 
+D.2.1.1.2 Name of the Marketing Authorisation holder: STADA HEMOFARM SRL
+D.2.1.2 Country which granted the Marketing Authorisation: Romania
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Temozolomida HF 20mg 
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: TEMOZOLOMIDE
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 20 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 12
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomida HF 100mg 
+D.2.1.1.2 Name of the Marketing Authorisation holder: STADA HEMOFARM SRL
+D.2.1.2 Country which granted the Marketing Authorisation: Romania
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Temozolomida HF 100mg 
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: TEMOZOLOMIDE
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 100 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 13
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomida HF 250mg 
+D.2.1.1.2 Name of the Marketing Authorisation holder: STADA HEMOFARM SRL
+D.2.1.2 Country which granted the Marketing Authorisation: Romania
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Temozolomida HF 250mg 
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: TEMOZOLOMIDE
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 250 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 14
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temomedac 5mg 
+D.2.1.1.2 Name of the Marketing Authorisation holder: medac Gesellschaft für klinische Spezialpräparate mbH
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 15
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temomedac 20mg 
+D.2.1.1.2 Name of the Marketing Authorisation holder: medac Gesellschaft für klinische Spezialpräparate mbH
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 20 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 16
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temomedac 100mg 
+D.2.1.1.2 Name of the Marketing Authorisation holder: medac Gesellschaft für klinische Spezialpräparate mbH
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 100 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 17
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temomedac 250mg 
+D.2.1.1.2 Name of the Marketing Authorisation holder: medac Gesellschaft für klinische Spezialpräparate mbH
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 250 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 18
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomid TEVA 5mg 
+D.2.1.1.2 Name of the Marketing Authorisation holder: Teva Pharma B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 19
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomid TEVA 20mg 
+D.2.1.1.2 Name of the Marketing Authorisation holder: Teva Pharma B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 20 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 20
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomid TEVA 100mg 
+D.2.1.1.2 Name of the Marketing Authorisation holder: Teva Pharma B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 100 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 21
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temozolomid TEVA 250mg 
+D.2.1.1.2 Name of the Marketing Authorisation holder: Teva Pharma B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 250 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 22
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: TEMOZO-cell 5 mg Hartkapseln
+D.2.1.1.2 Name of the Marketing Authorisation holder: Cell Pharm GmbH
+D.2.1.2 Country which granted the Marketing Authorisation: Germany
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 23
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: TEMOZO-cell 20 mg Hartkapseln
+D.2.1.1.2 Name of the Marketing Authorisation holder: Cell Pharm GmbH
+D.2.1.2 Country which granted the Marketing Authorisation: Germany
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 20 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 24
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: TEMOZO-cell 100 mg Hartkapseln
+D.2.1.1.2 Name of the Marketing Authorisation holder: Cell Pharm GmbH
+D.2.1.2 Country which granted the Marketing Authorisation: Germany
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 100 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 25
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: TEMOZO-cell 250 mg Hartkapseln
+D.2.1.1.2 Name of the Marketing Authorisation holder: Cell Pharm GmbH
+D.2.1.2 Country which granted the Marketing Authorisation: Germany
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.3 Other descriptive name: TEMOZOLOMIDE
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 250 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: metastatic functioning and non-functioning entero-pancreatic tumours
+E.1.1.1 Medical condition in easily understood language: tumours of the stomach, gut or pancreas (so called neuro -endocrine tumour, NET)
+E.1.1.2 Therapeutic area: Diseases [C] - Digestive System Diseases [C06]
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: Yes
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: The primary study objective is to evaluate the efficacy of Lanreotide Autogel (ATG) 120 mg in combination with Temozolomide in patients with functioning as well as non-functioning, progressive, gastro-entero-pancreatic NET G1 or G2.
+E.2.2 Secondary objectives of the trial: •To evaluate the efficacy (disease control rate) after 12 months
+•To evaluate time to (objective) response
+•To evaluate duration of (objective) response
+•To evaluate biochemical response (CgA, 5-HIAA)
+•To evaluate symptomatic response (where appropriate)
+•To estimate progression-free survival
+•To assess safety (CTCAE version 4.0)
+•To assess changes in quality of life (EORTC QLQ-C30+ GI.NET21)
+•To evaluate response in correlation to MGMT expression 
+•To evaluate if combination with Temozolomide has an impact on Lanreotide ATG 120 mg plasma levels 
+•To evaluate somatostatin receptor expression
+
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: (1)Provision of written informed consent prior to any study related procedures.
+(2)Male or female of 18 years of age or older.
+(3)Inoperable, Gastro-Entero-Pancreatic-Neuroendocrine Tumour G1 or G2 (Ki67-Index: 0 to ≤20%) confirmed by pathological/histological assessment.
+       (Previous data assessed not longer than 24 months ago could be used.)
+(4)Progressive disease within 12 months before inclusion (RECIST 1.1: increase of >20% tumour load; by CT or MRI).
+(5)Metastatic disease confirmed by CT/MRI.
+(6)Measureable disease according to RECIST 1.1.
+(7)Functioning or non-functioning NET (G1, G2). 
+(8)WHO performance status 0-2.
+(9)Positive Octreo-Scan (≥ grade 2 Krenning scale) or positive DOTA-TATE/TOC-PET-CT within 12 months prior to screening.
+(10)Absolute neutrophile count (ANC) ≥ 1,5x10E09/l prior to Temozolomide intake, thrombocyte count ≥ 100 x 10 E09/l prior to Temozolomide intake. 
+
+E.4 Principal exclusion criteria: (1)Has the diagnosis of Insulinoma
+(2)Has a history of hypersensitivity to Lanreotide or Temozolomide or drugs with a similar chemical structure and/or any known contraindications to magnetic resonance imaging (MRI)/computerised tomography (CT).
+(3)Was treated with any other IMP within the last 30 days before screening visit. 
+(4)Is likely to require treatment during the study with drugs that are not permitted by the study protocol.
+(5)Is at risk of pregnancy or lactation. Females of childbearing potential must provide a negative pregnancy test at start of study and must be using oral, double barrier or injectable contraception. Non childbearing potential is defined as post-menopausal for at least 2 years, surgical sterilisation or hysterectomy at least three months before the start of the study (according to CPMP/ICH/286/95, modified).
+(6)Male patients, who do not agree to use an effective method of contraception if their partner is at risk of becoming pregnant during the course of this study and 6 months after the study drug administration.
+(7)Male patients who are planning a sperm donation during the entire study participation and at least six months after the last study drug administration.
+(8)Has any mental condition rendering the patient unable to understand the nature, scope and possible consequences of the study, and/or evidence of an uncooperative attitude. 
+(9)Has abnormal baseline findings, any other medical condition(s) or laboratory findings that, in the opinion of the Investigator, might jeopardise the patient’s safety or decrease the chance of obtaining satisfactory data needed to achieve the objective(s) of the study. 
+(10)HbA1c > 8,5% (centrally assessed during the screening period).
+(11)Has had major surgery related to the studied disease within 3 months prior to screening visit.
+(12)Has a diagnosis of a multiple endocrine neoplasia (MEN).
+(13)Has received Sunitinib, Everolimus within the last 4 weeks prior to screening visit.
+(14)Has received PRRT (Peptide Radio-Receptor-Therapy) within 3 months prior to screening visit.
+(15)Has received prior chemotherapy regimens within 4 weeks prior to screening visit. 
+(16)Has received any Temozolomide treatment prior to screening visit.
+(17)Has undergone radiation of target lesions within 12 months prior to screening visit.
+(18)Has received Interferon-α treatment within 4 weeks prior to screening visit.
+(19)Has received local ablative therapies (TACE, SIRT, RFA) within 6 months prior to screening visit.
+(20)Has had a previous cancer (except basocellular carcinoma of the skin and/or in situ carcinoma of the cervix/uterus and/or patients treated with curative intent and free from disease for more than 5 years) other than study indication.
+(21)Has a history of, or known current, problems with alcohol or drug abuse.
+(22)Is deprived of his/her freedom or rights by virtue of an order issued either by any judicial or administrative authorities, is unable to express his/her consent, or is committed to a social or health institution for reasons other than the study.
+(23)Has been previously enrolled in this study.
+(24)Participation in other trials for the duration of this trial.
+(25)Hypersensitivity to dacarbazine (DTIC).
+E.5 End points
+E.5.1 Primary end point(s): Disease control rate (Complete response + partial response + stable disease; measured by RECIST 1.1, centrally assessed) after 6 months of combination treatment
+E.5.1.1 Timepoint(s) of evaluation of this end point: please see section E.5.1 above
+E.5.2 Secondary end point(s): •Disease control rate (Complete response + partial response + stable disease; measured by RECIST 1.1, centrally assessed) after 12 months (6 months combination treatment followed by either 6 months Lanreotide ATG 120 mg maintenance or 6 months wait and see)
+•Time to progression or death occurring within 12 months after first combination treatment (statistical estimation of progression-free survival (PFS))
+•Time to response (Complete response + partial response ) within the study period of 12 months
+•Duration of response (Complete response + partial response ) within the study period of 12 months
+•Biochemical response after 6 months and after 12 months 
+-Percentage of patients with normalized and percentage of patients with stabilized CgA-levels defined as <50% increase of CgA level compared to baseline
+-Percentage of CgA reduction (>/= 50%) compared to baseline 
+-5-HIAA reduction (5-HIAA only in carcinoids) compared to baseline
+• Symptomatic response (where appropriate) after 6 months and after 12 months 
+-Changes in the frequency of the symptomatic episodes (target symptoms: diarrhoea, flush) (the mean of the last 3 days) that could be experienced by a patient as compared to baseline.  
+• QoL questionnaire (QLQ-30+ G.I.NET 21): 
+-changes from baseline in quality of life over 6 month
+-changes from 6 months to 12 months after further 6 months Lanreotide ATG maintenance treatment by means 
+•AEs (by CTCAE v 4.0) will be recorded for each patient throughout the study
+•Vital signs at V1 to V8, V11 and V14 , and physical examination at V1, V3, V5, V8, V11 and V14
+•ECG at V1, V5, V8 and V14
+•Gallbladder ultrasound baseline, 6 months and 12 months
+•Laboratory tests: standard haematology and biochemistry
+analyses (V1, V3-8, V11, V14 or withdrawal visit)
+•Lanreotide plasma levels at baseline, 4 weeks, 3 months, 6 months, 12 months
+•MGMT expression and methylation correlated to tumour response
+•MGMT expression measured by immunohistochemistry and MGMT methylation measured by polymerase chain reaction (PCR)
+-Quantitative analysis of somatostatin receptor (SSTR) correlated to tumour response
+E.5.2.1 Timepoint(s) of evaluation of this end point: please see section E.5.2 above
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): Yes
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: No
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: No
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.2.4 Number of treatment arms in the trial: 2
+E.8.3 The trial involves single site in the Member State concerned: Yes
+E.8.4 The trial involves multiple sites in the Member State concerned: No
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 10
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: No
+E.8.7 Trial has a data monitoring committee: Yes
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: The end of the trial is defined as the last visit of the last patient undergoing the trial
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 4
+E.8.9.1 In the Member State concerned months: 6
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 4
+E.8.9.2 In all countries concerned by the trial months: 6
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.2.1 Number of subjects for this age range: 40
+F.1.3 Elderly (>=65 years): Yes
+F.1.3.1 Number of subjects for this age range: 25
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 15
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 65
+F.4.2.2 In the whole clinical trial: 65
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): None. The treatment could be continued after the study following the investigator recommendations. Boths IMPs have a marketing authorisation and could be prescribed by the investigators. 
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2014-05-23
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2014-05-08
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2017-06-01
+

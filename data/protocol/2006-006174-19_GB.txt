@@ -1,0 +1,1974 @@
+Summary
+EudraCT Number: 2018-000739-28
+Sponsor's Protocol Code Number: AIFA-ICSLIFE-001
+National Competent Authority: Italy - Italian Medicines Agency 
+Clinical Trial Type: EEA CTA
+Trial Status: Prematurely Ended
+Date on which this record was first entered in the EudraCT database: 2021-01-05
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-000739-28/IT/
+
+A. Protocol Information
+A.1 Member State Concerned: Italy - Italian Medicines Agency
+A.2 EudraCT number: 2018-000739-28
+A.3 Full title of the trial: Comparison of 1-year treatment with inhaled long acting bronchodilators (LABD) plus inhaled glucocorticosteroids (ICS) versus LABD without ICS on re-hospitalizations and/or death in elderly patients with chronic obstructive pulmonary disease (COPD) recently hospitalized because of an acute exacerbation of COPD (ICS-Life study).
+A.3 Full title of the trial (it): Confronto di 1- anno di trattamento con broncodilatatori inalatori a lunga durata d’azione (LABD) più glucocorticosteroidi inalatori (ICS) verso LABD senza ICS sulla re-ospedalizzazione e/o sulla mortalità in pazienti anziani con Broncopneumopatia Cronica Ostruttiva (BPCO) recentemente ospedalizzati in seguito di una riacutizzazione di BPCO (studio: ICSLife)
+
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language: Inhaled long-acting bronchodilators with or without inhaled glucocorticosteroids for preventing hospitalizations and death in elderly patients with chronic obstructive pulmonary disease.
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language (it): Broncodilatatori inalatori a lunga durata d’ azione con o senza glucocorticosteroidi inalatori nella prevenzione della re-ospedalizzazione e/o della mortalità in pazienti anziani affetti da malattia cronica polmonare ostruttiva.broncodilatatori inalatori a lunga durata d’azione nei pazienti anziani affetti da malattia polmonare ostruttiva cronica”
+A.3.2 Name or abbreviated title of the trial where available: ICS Life Study
+A.3.2 Name or abbreviated title of the trial where available (it): Studio ICS Life 
+A.4.1 Sponsor's protocol code number: AIFA-ICSLIFE-001
+A.7 Trial is part of a Paediatric Investigation Plan: No
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: AZIENDA OSPEDALIERO UNIVERSITARIA DI FERRARA
+B.1.3.4	Country: Italy
+B.3.1 and B.3.2	Status of the sponsor: Non-Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support: AIFA - Italian Medicines Agency
+B.4.2 Country: Italy
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: CrosNT
+B.5.2 Functional name of contact point: Fabio Gambini
+B.5.3 Address
+B.5.3.1 Street Address: Via Germania 2
+B.5.3.2 Town/ city: Verona
+B.5.3.3 Post code: 37136 
+B.5.3.4 Country: Italy
+B.5.4 Telephone number: 0039045820587
+B.5.5 Fax number: 0039045820266
+B.5.6 E-mail: icslife@crosnt.com
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: REVINTY ELLIPTA - 92 MICROGRAMMI/22 MICROGRAMMI  - POLVERE PER INALAZIONE, PRE-DOSATA - USO INALATORIO - BLISTER (ALU) - 1 INALATORE DA 30 DOSI
+D.2.1.1.2 Name of the Marketing Authorisation holder: GLAXO GROUP LIMITED
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: fluticasone furoato vilanterolo
+D.3.2 Product code: [REVINTY ELLIPTA]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: FLUTICASONE FUROATO
+D.3.9.1 CAS number: 397864-44-7
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 92 
+D.3.8 INN - Proposed INN: VILANTEROLO
+D.3.9.1 CAS number: 503070-58-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 22 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: SPIRIVA RESPIMAT - 2.5 MCG SOLUZIONE PER INALAZIONE 2 INALATORI RESPIMAT + 2 CARTUCCE PE/PP DA 60 EROGAZIONI
+D.2.1.1.2 Name of the Marketing Authorisation holder: BOEHRINGER INGELHEIM INTERNATIONAL GMBH
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: TIOTROPIO
+D.3.2 Product code: [SPIRIVA RESPIMAT]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: TIOTROPIO
+D.3.9.1 CAS number: 186691-13-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: ng nanogram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 2500 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: ONBREZ BREEZHALER - 150 MCG - POLVERE PER INALAZIONE, CAPSULE RIGIDE - USO INALATORIO - BLISTER (PA/ALU/PVC)  10 CAPSULE+ 1 INALATORE
+D.2.1.1.2 Name of the Marketing Authorisation holder: NOVARTIS EUROPHARM LTD
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: INDACATEROLO
+D.3.2 Product code: [ONBREZ BREEZHALER]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: INDACATEROLO
+D.3.9.1 CAS number: 312753-06-3
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 150 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 4
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: LAVENTAIR - 55 MICROGRAMMI/22 MICROGRAMMI - POLVERE PER INALAZIONE, PRE-DOSATA - USO INALATORIO - BLISTER (ALU) - 1 INALATORE (7 DOSI)
+D.2.1.1.2 Name of the Marketing Authorisation holder: GLAXO GROUP LIMITED
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: UMECLIDINIO VILANTEROLO
+D.3.2 Product code: [LAVENTAIR]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: UMECLIDINIO
+D.3.9.1 CAS number: 869185-19-3
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 55 
+D.3.8 INN - Proposed INN: VILANTEROLO
+D.3.9.1 CAS number: 503070-58-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 22 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 5
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: ALIFLUS - DISKUS 50/500 POLVERE PER INALAZIONE 1 INALATORE 28 DOSI 50 MCG + 500 MCG
+D.2.1.1.2 Name of the Marketing Authorisation holder: MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: FLUTICASONE PROPIONATO SALMETEROLO
+D.3.2 Product code: [ALIFLUS - DISKUS]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: FLUTICASONE PROPIONATO
+D.3.9.1 CAS number: 80474-14-2
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 100 
+D.3.8 INN - Proposed INN: SALMETEROLO
+D.3.9.1 CAS number: 89365-50-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 1000 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 6
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: ALABASTER - 100 MCG/6 MCG EROGAZIONE SOLUZIONE PRESSURIZZATA PER INALAZIONE 1 CONTENITORE DA 120 EROGAZIONI
+D.2.1.1.2 Name of the Marketing Authorisation holder: MASTER PHARMA S.R.L.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: BECLOMETASONE DUPROPIONATO FORMOTEROLO
+D.3.2 Product code: [ALABASTER]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: BECLOMETASONE DIPROPIONATO
+D.3.9.1 CAS number: 5534-09-8
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 400 
+D.3.8 INN - Proposed INN: FORMOTEROLO FUMARATO
+D.3.9.1 CAS number: 43229-80-7
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 24 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 7
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: TOVANOR BREEZHALER - 44 MICROGRAMMI - POLVERE PER INALAZIONE, CAPSULA RIGIDA-USO INALATORIO-BLISTER(ALU/ALU)-6X1 CAPSULA(DOSE UNITARIA)+ 1 INALATORE
+D.2.1.1.2 Name of the Marketing Authorisation holder: NOVARTIS EUROPHARM LTD
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: GLICOPIRRONIO
+D.3.2 Product code: [TOVANOR BREEZHALER]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: GLICOPIRRONIO
+D.3.9.1 CAS number: 51186-83-5
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 44 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 8
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: FOBULER - "160 MICROGRAMMI/4,5 MICROGRAMMI/INALAZIONE,  POLVERE PER INALAZIONE" 1 INALATORE DA 60 DOSI
+D.2.1.1.2 Name of the Marketing Authorisation holder: ORION CORPORATION
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: BUDESONIDE FORMOTEROLO
+D.3.2 Product code: [FOBULER]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: BUDESONIDE
+D.3.9.1 CAS number: 51333-22-3
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 640 
+D.3.8 INN - Proposed INN: FORMOTEROLO FUMARATO
+D.3.9.1 CAS number: 43229-80-7
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 18 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 9
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: BRETARIS GENUAIR - 322 MICROGRAMMI - POLVERE PER INALAZIONE-USO INALATORIO-INALATORE (PLASTICA/ACCIAIO INOSSIDABILE) - 1 INALATORE CON 60 SOMMINISTRAZIONI
+D.2.1.1.2 Name of the Marketing Authorisation holder: ALMIRALL S.A.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: ACLIDINIO
+D.3.2 Product code: [BRETARIS GENUAIR]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: ACLIDINIO
+D.3.9.1 CAS number: 320345-99-1
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 644 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 10
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: INCRUSE - 55 MCG - POLVERE PER INALAZIONE, PREDOSATA - USO INALATORIO - BLISTER (ALU) - 1 INALATORE (7 DOSI)
+D.2.1.1.2 Name of the Marketing Authorisation holder: GLAXO GROUP LIMITED
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: UMECLIDINIO
+D.3.2 Product code: [INCRUSE]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: UMECLIDINIO
+D.3.9.1 CAS number: 0869113-09-7
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 55 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 11
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: LEVOVENT - 12 MCG POLVERE PER INALAZIONE, CAPSULE RIGIDE 60 CAPSULE + EROGATORE
+D.2.1.1.2 Name of the Marketing Authorisation holder: GENETIC  S.P.A.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: FORMOTEROLO
+D.3.2 Product code: [LEVOVENT]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: FORMOTEROLO
+D.3.9.1 CAS number: 73573-87-2
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 24 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 12
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: ULTIBRO BREEZHALER - 85 MCG/43 MCG POLVERE PER INALAZIONE CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC-ALU) 90(3 CONFEZIONI DI 30X1) CAPSULE + 3 INALATORI
+D.2.1.1.2 Name of the Marketing Authorisation holder: NOVARTIS EUROPHARM LTD
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: INDACATEROLO GLICOPIRRONIO
+D.3.2 Product code: [ULTIBRO BREEZHALER]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: INDACATEROLO MALEATO
+D.3.9.1 CAS number: 312753-06-3
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 85 
+D.3.8 INN - Proposed INN: GLICOPIRRONIO BROMURO
+D.3.9.1 CAS number: 596-51-0
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 43 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 13
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: RELVAR ELLIPTA - 92 MICROGRAMMI/22 MICROGRAMMI - POLVERE PER INALAZIONE, PRE-DOSATA - USO INALATORIO - BLISTER (ALU) - 1 INALATORE X 30 DOSI
+D.2.1.1.2 Name of the Marketing Authorisation holder: GLAXO GROUP LIMITED
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: FLUTICASONE FUROATO VILANTEROLO
+D.3.2 Product code: [RELVAR ELLIPTA]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: FLUTICASONE FUROATO
+D.3.9.1 CAS number: 397864-44-7
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 92 
+D.3.8 INN - Proposed INN: VILANTEROLO
+D.3.9.1 CAS number: 503070-58-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 22 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 14
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: FORMODUAL - 100 MCG/6 MCG PER EROGAZIONE SOLUZIONE PRESSURIZZATA PER INALAZIONE 1 CONTENITORE DA 120 EROGAZIONI
+D.2.1.1.2 Name of the Marketing Authorisation holder: PROMEDICA S.R.L.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: BECLOMETASONE DIPROPIONATO FORMOTEROLO
+D.3.2 Product code: [FORMODUAL]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: BECLOMETASONE DIPROPIONATO
+D.3.9.1 CAS number: 5534-09-8
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 400 
+D.3.8 INN - Proposed INN: FORMOTEROLO FUMARATO
+D.3.9.1 CAS number: 43229-80-7
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 24 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 15
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: SERETIDE - DISKUS 50/500 1 INALATORE 28 DOSI POLV PER INALAZ
+D.2.1.1.2 Name of the Marketing Authorisation holder: GLAXOSMITHKLINE S.P.A.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: FLUTICASONE PROPIONATO SALMETEROLO
+D.3.2 Product code: [SERETIDE]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: FLUTICASONE PROPIONATO
+D.3.9.1 CAS number: 80474-14-2
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 100 
+D.3.8 INN - Proposed INN: SALMETEROLO
+D.3.9.1 CAS number: 89365-50-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 1000 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 16
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: FOSTER - 100/6 MICROGRAMMI PER EROGAZIONE SOLUZIONE PRESSURIZZATA PER INALAZIONE
+D.2.1.1.2 Name of the Marketing Authorisation holder: CHIESI FARMACEUTICI S.P.A.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: BECLOMETASONE DIPROPIONATO FORMOTEROLO
+D.3.2 Product code: [FOSTER]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: BECLOMETASONE DIPROPIONATO
+D.3.9.1 CAS number: 5534-09-8
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 400 
+D.3.8 INN - Proposed INN: FORMOTEROLO FUMARATO
+D.3.9.1 CAS number: 43229-80-7
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 24 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 17
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: INUVER - 100/6 MICROGRAMMI PER EROGAZIONE SOLUZIONE  PRESSURIZZATA  PER INALAZIONE
+D.2.1.1.2 Name of the Marketing Authorisation holder: CHIESI FARMACEUTICI S.P.A.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: BECLOMETASONE DIPROPIONATO FORMOTEROLO
+D.3.2 Product code: [INUVER]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: BECLOMETASONE DIPROPIONATO
+D.3.9.1 CAS number: 5534-09-8
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 200 
+D.3.8 INN - Proposed INN: FORMOTEROLO FUMARATO
+D.3.9.1 CAS number: 43229-80-7
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 12 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 18
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: SYMBICORT - TURBOHALER18 INALATORI 60 DOSI 160/4.5 MCG
+D.2.1.1.2 Name of the Marketing Authorisation holder: ASTRAZENECA S.P.A.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: BUDESONIDE FORMOTEROLO
+D.3.2 Product code: [SYMBICORT]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: BUDESONIDE
+D.3.9.1 CAS number: 51333-22-3
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 640 
+D.3.8 INN - Proposed INN: FORMOTEROLO FUMARATO
+D.3.9.1 CAS number: 43229-80-7
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 18 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 19
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: SINESTIC - TURBOHALER 1 INALATORE 60 DOSI 160/4.5 MCG
+D.2.1.1.2 Name of the Marketing Authorisation holder: ASTRAZENECA S.P.A.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: BUDESONIDE FORMOTEROLO
+D.3.2 Product code: [SINESTIC - TURBOHALER]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: BUDESONIDE
+D.3.9.1 CAS number: 51333-22-3
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 640 
+D.3.8 INN - Proposed INN: FORMOTEROLO FUMARATO
+D.3.9.1 CAS number: 43229-80-7
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 18 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 20
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: DUORESP  SPIROMAX - 160 MCG/4,5 MCG - POLVERE PER INALAZIONE - USO INALATORIO - INALATORE  - 1 INALATORE (120 DOSI)
+D.2.1.1.2 Name of the Marketing Authorisation holder: TEVA PHARMA B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: BUDESONIDE FORMOTEROLO
+D.3.2 Product code: [DUORESP  SPIROMAX]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: BUDESONIDE
+D.3.9.1 CAS number: 51333-22-3
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 640 
+D.3.8 INN - Proposed INN: FORMOTEROLO FUMARATO
+D.3.9.1 CAS number: 43229-80-7
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 18 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 21
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: ALIFLUS - DISKUS 50/250 POLVERE PER INALAZIONE 1 INALATORE 28 DOSI 50 MCG + 250 MCG
+D.2.1.1.2 Name of the Marketing Authorisation holder: MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: FLUTICASONE PROPIONATO SALMETEROLO
+D.3.2 Product code: [ALIFLUS - DISKUS]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: FLUTICASONE PROPIONATO
+D.3.9.1 CAS number: 80474-14-2
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 100 
+D.3.8 INN - Proposed INN: SALMETEROLO
+D.3.9.1 CAS number: 89365-50-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 500 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 22
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: SERETIDE - DISKUS 50/250 1 INALATORE 28 DOSI POLV PER INALAZ
+D.2.1.1.2 Name of the Marketing Authorisation holder: GLAXOSMITHKLINE S.P.A.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: FLUTICASONE PROPIONATO SALMETEROLO
+D.3.2 Product code: [SERETIDE - DISKUS]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: FLUTICASONE PROPIONATO
+D.3.9.1 CAS number: 80474-14-2
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 100 
+D.3.8 INN - Proposed INN: SALMETEROLO
+D.3.9.1 CAS number: 89365-50-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 500 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 23
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: SPIRIVA - 10 CAPSULE IN BLISTER AL/PVC/AL DA 18 MCG CON DISPOSITIVO HANDIHALER
+D.2.1.1.2 Name of the Marketing Authorisation holder: BOEHRINGER INGELHEIM INTERNATIONAL GMBH
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: TIOTROPIO 
+D.3.2 Product code: [SPIRIVA]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: TIOTROPIO BROMURO
+D.3.9.1 CAS number: 186691-13-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 18 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 24
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: BRALTUS - "10 MICROGRAMMI POLVERE PER INALAZIONE, CAPSULA RIGIDA" 30 CAPSULE IN FLACONE HDPE
+D.2.1.1.2 Name of the Marketing Authorisation holder: TEVA ITALIA S.R.L.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: TIOTROPIO
+D.3.2 Product code: [BRALTUS]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: TIOTROPIO BROMURO
+D.3.9.1 CAS number: 186691-13-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 10 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 25
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: SEEBRI BREEZHALER - 44 MCG - POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (ALU/ALU) 30X1 CAPSULA (DOSE UNITARIA) + 1 INALATORE
+D.2.1.1.2 Name of the Marketing Authorisation holder: NOVARTIS EUROPHARM LTD
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: GLICOPIRRONIO
+D.3.2 Product code: [SEEBRI BREEZHALER]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: GLICOPIRRONIO BROMURO
+D.3.9.1 CAS number: 51186-83-5
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 44 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 26
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: EKLIRA GENUAIR - 322 MICROGRAMMI - POLVERE PER INALAZIONE-USO INALATORIO- INALATORE (PLASTICA/ACCIAIO INOSSIDABILE) 1 INALATORE CON 30 SOMMINISTRAZIONI
+D.2.1.1.2 Name of the Marketing Authorisation holder: ALMIRALL S.A.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: ACLIDINIO
+D.3.2 Product code: [EKLIRA GENUAIR]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: ACLIDINIO BROMURO
+D.3.9.1 CAS number: 320345-99-1
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 644 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 27
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: SEREVENT - 50 MCG POLVERE PER INALAZIONE INALATORE DA 60 DOSI
+D.2.1.1.2 Name of the Marketing Authorisation holder: GLAXOSMITHKLINE S.P.A.
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: SALMETEROLO
+D.3.2 Product code: [SEREVENT]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: SALMETEROLO
+D.3.9.1 CAS number: 89365-50-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 100 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 28
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: ONBREZ BREEZHALER - 300 MCG - POLVERE PER INALAZIONE, CAPSULE RIGIDE - USO INALATORIO - BLISTER (PA/ALU/PVC) 30 X ( 10 CAPSULE + 1 INALATORE)
+D.2.1.1.2 Name of the Marketing Authorisation holder: NOVARTIS EUROPHARM LTD
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: INDACATEROLO
+D.3.2 Product code: [ONBREZ BREEZHALER]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: INDACATEROLO MALEATO
+D.3.9.1 CAS number: 753498-25-8
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 300 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 29
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: HIROBRIZ BREEZHALER -  150 MCG-POLVERE PER INALAZIONE ,CAPSULE RIGIDE-USO INALATORIO-BLISTER (PA/ALU/PVC) 30 CAPSULE +1 INALATORE
+D.2.1.1.2 Name of the Marketing Authorisation holder: NOVARTIS EUROPHARM LTD
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: INDACATEROLO
+D.3.2 Product code: [HIROBRIZ BREEZHALER]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: INDACATEROLO MALEATO
+D.3.9.1 CAS number: 753498-25-8
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 150 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 30
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: HIROBRIZ BREEZHALER -  300 MCG-POLVERE PER INALAZIONE ,CAPSULE RIGIDE-USO INALATORIO-BLISTER (PA/ALU/PVC) 30 CAPSULE +1 INALATORE
+D.2.1.1.2 Name of the Marketing Authorisation holder: NOVARTIS EUROPHARM LTD
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: INDACATEROLO
+D.3.2 Product code: [HIROBRIZ BREEZHALER]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: INDACATEROLO MALEATO
+D.3.9.1 CAS number: 753498-25-8
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 300 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 31
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: FORADIL - 12 MCG POLVERE PER INALAZIONE CAPSULE RIGIDE 60 CAPSULE +EROGATORE
+D.2.1.1.2 Name of the Marketing Authorisation holder: NOVARTIS EUROPHARM LTD
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: FORMOTEROLO
+D.3.2 Product code: [FORADIL]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: FORMOTEROLO FUMARATO
+D.3.9.1 CAS number: 73573-87-2
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 24 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 32
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: ANORO - 55 MICROGRAMMI/22 MICROGRAMMI - POLVERE PER INALAZIONE, PRE-DOSATA - USO INALATORIO - BLISTER (ALU) - 1 INALATORE (30 DOSI)
+D.2.1.1.2 Name of the Marketing Authorisation holder: GLAXO GROUP LIMITED
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: UMECLIDINIO VILANTEROLO
+D.3.2 Product code: [ANORO]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: UMECLIDINIO BROMURO
+D.3.9.1 CAS number: 869113-09-7
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 55 
+D.3.8 INN - Proposed INN: VILANTEROLO
+D.3.9.1 CAS number: 503070-58-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 22 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 33
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: XOTERNA BREEZHALER - 85 MCG/43MCG POLVERE PER INALAZIONE, CAPSULA RIGIDA - USO INALATORIO - BLISTER (PA/ALU/PVC-ALU) - 30X1 CAPSULE + 1 INALATORE
+D.2.1.1.2 Name of the Marketing Authorisation holder: NOVARTIS EUROPHARM LTD
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: INDACATEROLO GLICOPIRRONIO
+D.3.2 Product code: [XOTERNA BREEZHALER]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: INDACATEROLO MALEATO
+D.3.9.1 CAS number: 753498-25-8
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 85 
+D.3.8 INN - Proposed INN: 00326700
+D.3.9.1 CAS number: 596-51-0
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 43 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 34
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: SPIOLTO RESPIMAT - " 2,5 MICROGRAMMI/2,5 MICROGRAMMI, SOLUZIONE PER INALAZIONE" 1 INALATORE RESPIMAT + 1 CARTUCCIA PE/PP DA 60 EROGAZIONI
+D.2.1.1.2 Name of the Marketing Authorisation holder: BOEHRINGER INGELHEIM INTERNATIONAL GMBH
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: TIOTROPIO OLODATEROLO
+D.3.2 Product code: [SPIOLTO RESPIMAT]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: TIOTROPIO BROMURO
+D.3.9.1 CAS number: 186691-13-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 10 
+D.3.8 INN - Proposed INN: OLODATEROLO
+D.3.9.1 CAS number: 868049-49-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 10 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 35
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: DUAKLIR GENUAIR - 340 MICROGRAMMI/12 MICROGRAMMI - POLVERE PER INALAZIONE - USO INALATORIO - INALATORE (PLASTICA/ACCIAIO INOSSIDABILE) - 1 INALATORE CON 30 DOSI
+D.2.1.1.2 Name of the Marketing Authorisation holder: ASTRAZENECA AB
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: ACLIDINIO FORMOTEROLO
+D.3.2 Product code: [DUAKLIR GENUAIR]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: ACLIDINIO
+D.3.9.1 CAS number: 320345-99-1
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 680 
+D.3.8 INN - Proposed INN: FORMOTEROLO FUMARATO
+D.3.9.1 CAS number: 73573-87-2
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 24 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 36
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: BRIMICA GENUAIR - 340 MICROGRAMMI/12 MICOGRAMMI - POLVERE PER INALAZIONE - USO INALATORIO - INALATORE (PLASTICA/ACCIAIO INOSSIDABILE) - 3 INALATORI CON 60 DOSI
+D.2.1.1.2 Name of the Marketing Authorisation holder: ASTRAZENECA AB
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: ACLIDINIO FORMOTEROLO
+D.3.2 Product code: [BRIMICA GENUAIR]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: ACLIDINIO
+D.3.9.1 CAS number: 320345-99-1
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 680 
+D.3.8 INN - Proposed INN: FORMOTEROLO FUMARATO
+D.3.9.1 CAS number: 43229-80-7
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 24 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 37
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: STRIVERDI RESPIMAT - 2,5 MICROGRAMMI/DOSE SOLUZIONE PER INALAZIONE 1 INALATORE CON CARTUCCIA IN PE/PP DA 30 DOSI
+D.2.1.1.2 Name of the Marketing Authorisation holder: BOEHRINGER INGELHEIM INTERNATIONAL GmbH
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: OLODATEROLO
+D.3.2 Product code: [STRIVERDI RESPIMAT]
+D.3.4 Pharmaceutical form: Inhalation powder
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: OLODATEROLO
+D.3.9.1 CAS number: 868049-49-4
+D.3.9.2 Current sponsor code: NON APPLICABILE
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: up to
+D.3.10.3 Concentration number: 5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: chronic obstructive pulmonary disease (COPD) 
+E.1.1 Medical condition(s) being investigated (it): broncopneumopatia cronica ostruttiva (BPCO) 
+E.1.1.1 Medical condition in easily understood language: Chronic obstructive pulmonary disease ( COPD ) is a chronic inflammatory lung disease that causes obstructed airflow from the lungs
+E.1.1.1 Medical condition in easily understood language (it): malattia cronica che determina l'ostruzione delle vie aeree
+E.1.1.2 Therapeutic area: Diseases [C] - Respiratory Tract Diseases [C08]
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 21.1
+E.1.2 Level: LLT
+E.1.2 Classification code: 10010952
+E.1.2 Term: COPD
+E.1.2 System Organ Class: 100000004855
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: •	to demonstrate that in chronically symptomatic elderly COPD GOLD D patients with one or more cardiac comorbidities (heart failure, and/or ischemic heart disease, and/or atrial fibrillation) who have been recently hospitalized due to AECOPD, 1-years treatment with LABD+ICS will prolong the time to first re-hospitalization and/or the death for any cause when compared to 1-years treatment with LABD alone
+E.2.1 Main objective of the trial (it): •	Dimostrare che in pazienti anziani cronici, sintomatici BPCO GOLD D con una o più comorbidità cardiaca (scompenso cardiaco, e/o malattia ischemica coronarica, e/o fibrillazione atriale) che sono stati recentemente ospedalizzati a causa di una AECOPD, 1 anno di trattamento con LABD+ICS prolunga il tempo alla prima re-ospedalizzazione e/o la mortalità di qualsiasi causa in confronto con 1 anno di trattamento con solo LABD
+E.2.2 Secondary objectives of the trial: •	to compare the number of moderate/severe exacerbations of COPD in the two patient groups
+•	to compare the number of re-hospitalizations and deaths (all cause) in the two patient groups
+•	to compare quality of life (QoL) scores measured using the COPD Assessment Test (CAT) and mMRC dyspnoea scale between the two patient groups
+•	to verify if one year of treatment with combination therapy including ICS increases the risk of pneumonia
+•	to compare the number of acute cardiac events in this frail, elderly COPD population
+•	to compare the incidence of deaths due to cardiovascular events
+•	to compare changes in lung function
+
+E.2.2 Secondary objectives of the trial (it): •	Confrontare il numero di esacerbazioni di BPCO moderate/severe nei due gruppi di trattamento
+•	Confrontare il numero di re-ospedalizzazioni e di mortalità (tutte le cause) nei due gruppi di trattamento
+•	Confrontare la Qualità della Vita (QoL) misurata mediante il questionario  CAT e la scala di dispnea mMRC nei due gruppi di trattamento
+•	Verificare se 1 anno di trattamento con la terapia di combinazione che include l’uso di ICS aumenta il rischio di polmonite
+•	Confrontare il numero di eventi cardiaci acuti nella popolazione anziana, fragile con BPCO
+•	Confrontare l’incidenza di morti a causa di eventi cardiovascolari
+•	Confrontare variazioni nella funzionalità polmonare
+
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: 1.	Participant must be older than 60 years of age, at the time of signing the informed consent.
+2.	Recently (within 6 months) discharged from hospital with a diagnosis of acute exacerbation of COPD (usually coded as DRG 087 or DRG 088).
+3.	Participants with a clinical diagnosis of COPD (i.e. previous diagnosis of COPD and/or treatment with short acting bronchodilators (SABD), LABD or LABD+ICS)
+4.	Spirometry confirmed diagnosis of COPD, post-bronchodilator (30 minutes after 400 µg salbutamol) FEV1/FVC ratio <0.7. The diagnostic spirometry test can have been performed up to three years prior to randomization, or if never performed before, should be performed not earlier than 4 weeks since last exacerbation
+5.	Smokers or ex-smokers with a smoking history of >10 pack years (a pack year is defined as 20 cigarettes smoked every day for a year)
+6.	Clinical diagnosis documented in the patient’s medical records of one or more major chronic cardiac disease (heart failure, ischemic heart disease or atrial fibrillation). 
+7.	Currently receiving at least one of the specified treatments (either alone or in combination, see Appendix 10.5) for heart failure, ischemic heart disease or atrial fibrillation. 
+8.	Participant must be willing and able to perform pulmonary function tests
+9.	Male or female. Contraception is not considered necessary in this cohort of elderly (> 60 years) patients receiving treatment with commercially available licensed products.
+10.	Capable of giving signed informed consent as described in Appendix 1 which includes compliance with the requirements and restrictions listed in the informed consent form (ICF) and in this protocol.
+E.3 Principal inclusion criteria (it): 1.	Pazienti con età superiore ai 60 anni al momento della firma del consenso informato
+2.	Pazienti recentemente (ultimi 6 mesi) dimessi dall’ospedale con una diagnosi di esacerbazione acuta di BPCO (solitamente registrata con DRG 087 o DRG 088).
+3.	Pazienti con diagnosi clinica di BPCO (diagnosi precedente di BPCO e/o trattamento con broncodilatatori a breve durata d’azione (SABD), LABD o LABD+ICS
+4.	Pazienti con diagnosi di BPCO confermata da una Spirometria: rapporto FEV1/FVC <0.7 post broncodilatazione 30 min dopo 400 ug di salbutamolo. Il test spirometrico diagnostico può essere stato eseguito fino ad un massimo di tre anni prima della randomizzazione, nel caso non fosse disponibile, dovrà essere eseguito non prima di 4 settimane dall’ultima esacerbazione
+5.	Pazienti fumatori o ex-fumatori con una storia di > 10 pacchetti/anno (un pacchetto/anno è definito come 20 sigarette fumate al giorno per un anno)
+6.	Diagnosi clinica documentata nelle cartelle cliniche dei pazienti di una o più malattie croniche cardiache rilevanti ( scompenso cardiaco/ malattia ischemica coronarica/fibrillazione atriale)
+7.	Attualmente in terapia con un trattamento specifico (da solo o in combinazione, Appendice 10.5 del protocollo) per scompenso cardiaco, malattia ischemica coronarica, fibrillazione atriale)
+8.	Pazienti in grado di eseguire il test di funzionalità polmonare. 
+9.	Maschio o femmina. La contraccezione non è considerata necessaria in questa coorte di pazienti anziani (>60 anni) in trattamento con prodotti disponibili in commercio
+10.	Pazienti in grado di fornire il consenso informato.
+E.4 Principal exclusion criteria: 1.	Patients with a primary discharge diagnosis of DRG 087 or DRG 088 but clearly judged by the clinical investigator to be due to other causes, i.e. patients presenting to the hospital with symptoms of AECOPD but due mainly to other conditions (pulmonary embolism, pneumonia, pneumothorax, anemia, acute kidney failure, decompensated heart failure, acute ischemic heart disease, new onset atrial fibrillation, stroke, etc.)
+2.	Patients who required invasive mechanical ventilation during hospitalization
+3.	Patients with Asthma as primary and principal diagnosis
+4.	Patients with severe cardiovascular (CV) disease who in the opinion of the investigator are unlikely to survive the 15 month study period
+5.	Patients considered unable to comply with the study procedures and follow-up in the opinion of the investigator (eg, evidence of alcohol or drug abuse, psychiatric disorder, physical disability, social or geographical obstacles)
+6.	Patients in whom spirometry is contraindicated (eg, hemoptysis, detached retina, active tuberculosis, last trimester of pregnancy)
+7.	Patients with other mechanical or overt causes of respiratory symptoms, particularly dyspnea (such as pneumothorax, chest wall trauma, lung fibrosis, lung cancer, anemia, severe obesity (BMI >40) or cachexia (BMI <18))
+8.	Patients with any major disease which in the opinion of the investigator would prevent study participation, such as dementia, end-stage disease, cachexia, chronically bedridden patient and life expectancy <15 months.
+9.	Participation in any other interventional study within the last 3 months or concurrent participation in an observational clinical study
+
+E.4 Principal exclusion criteria (it): 1.1.	Pazienti con una diagnosi alla dimissione con DRG-087 o DRG-088 ma con una valutazione clinica da parte dell’investigatore giudicata attribuibile ad altre patologie; per es: pazienti con sintomatologia attribuile ad una esacerbazione acuta da BPCO ma dovuta ad altre condizioni (embolia polmonare, pneumotorace, anemia. Insufficienza renale acuta, scompenso cardiaco acuto, attacco ischemico acuto, inizio di fibrillazione atriale, stroke, etc.) 
+2.	Pazienti sottoposti a ventilazione meccanica invasiva durante l’ospedalizzazione
+3.	Pazienti con diagnosi primaria e principale di asma.
+4.	Pazienti con malattia cardiovascolare severa con sopravvivenza stimata dall’investigatore inferiore ai 15 mesi
+5.	Pazienti considerati dall’investigatore non in grado di rispettare le procedure dello studio e del follow-up (per es.: evidenza di abuso alcolico o di droghe, disordini psichiatrici, inabilità fisiche, impedimenti di tipo sociale e/o geografico)
+6.	Pazienti nei quali la spirometria è controindicata (es: emoftisi, distacco della retina, tubercolosi attiva,)
+7.	Pazienti con alter cause meccaniche (o conclamate) di difficoltà respiratoria quali pneumotorace, trauma toracico, fibrosi polmonare, tumore polmonare, anemia, obesità grave (BMI>40) o cachessia (BMI<18)
+8.	Pazienti con alter malattie gravi che, nell’opinione dell’investigatore impedisco la partecipazione allo studio, come ad esempio, demnza, malattia in stadio-terminale, cachessia, pazienti allettati e con aspettativa di vita < 15 mesi
+9.	Partecipazione ad altri studi clinici interventistici nel corso degli ultimi tre mesi o concomitante partecipazione ad uno studio clinico osservazionale.
+
+E.5 End points
+E.5.1 Primary end point(s): •	composite event of the time to first re-hospitalization and/or death (all cause)
+E.5.1 Primary end point(s) (it): Evento composito del tempo alla prima re-ospedalizzazione e/o mortalità (tutte le cause)
+E.5.1.1 Timepoint(s) of evaluation of this end point: During the 12 months of treatment
+E.5.1.1 Timepoint(s) of evaluation of this end point (it): nel corso dei 12 mesi di trattamento
+E.5.2 Secondary end point(s): number of moderate/severe COPD exacerbations; number of re-hospitalizations and deaths (all cause); QoL variation measured as change in CAT total score from baseline to end of treatment period.; change in mMRC dyspnea score from baseline to end of treatment period.; number of pneumonia events; number of acute cardiac events; number of cardiovascular deaths; •	change in FEV1 from baseline to the end of treatment period; •	change in FVC from baseline to the end of treatment period
+E.5.2 Secondary end point(s) (it): Numero di esacerbazioni della BPCO moderate/severe; Numero di re-ospedalizzazioni e morti (tutte le cause); Variazioni della Qualità della Vita, misurate come variazioni del punteggio totale CAT dal basale fino alla fine del periodo di trattamento; Variazioni nel punteggio della dispnea nel questionario mMRC dal basale fino alla fine del periodo di trattamento; Numero di eventi di polmonite; Numero di eventi cardiaci acuti; Numero di morti cardiovascolari; •	Variazione del FEV1 dal basale fino alla fine del periodo di trattamento; •	Variazione del FVC dal basale fino alla fine del periodo di trattamento
+E.5.2.1 Timepoint(s) of evaluation of this end point: During the 12 months of treatment; During the 12 months of treatment; at 3, 6, 9, 12 months; at 3,6,9, 12 months; During the 12 months of treatment; During the 12 months of treatment; During the 12 months of treatment; during the 12 months of treatment; during the 12 months of treatment
+E.5.2.1 Timepoint(s) of evaluation of this end point (it): nel corso dei 12 mesi di trattamento; nel corso dei 12 mesi di trattamento; a 3, 6, 9 e 12 mesi; a 3, 6,9, 12 mesi; nel corso dei 12 mesi di trattamento; nel corso dei 12 mesi di trattamento; nel corso dei 12 mesi di trattamento; nel corso dei 12 mesi di trattamento ; nel corso dei 12 mesi di trattamento 
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): Yes
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.2.4 Number of treatment arms in the trial: 2
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 30
+E.8.5 The trial involves multiple Member States: No
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: Yes
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: LVLS
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial (it): LVLS
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 1
+E.8.9.1 In the Member State concerned months: 6
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 1
+E.8.9.2 In all countries concerned by the trial months: 6
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.2.1 Number of subjects for this age range: 105
+F.1.3 Elderly (>=65 years): Yes
+F.1.3.1 Number of subjects for this age range: 927
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: No
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: No
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 1032
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 1032
+F.4.2.2 In the whole clinical trial: 1032
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): Each patient will continue the treatment indicated by the doctor to treat COPD and concomitant diseases according to clinical practice
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition) (it): Ogni paziente continuerà il trattamento indicato dal medico per curare la BPCO e le malattie concomitanti secondo pratica clinica
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2018-06-26
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2018-04-18
+
+P. End of Trial
+P. End of Trial Status: Prematurely Ended
+P. Date of the global end of the trial: 2022-10-26
+

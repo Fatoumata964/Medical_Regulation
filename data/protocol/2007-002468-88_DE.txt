@@ -1,0 +1,237 @@
+Summary
+EudraCT Number: 2007-002468-88
+Sponsor's Protocol Code Number: MRV02C
+National Competent Authority: Germany - PEI 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2007-07-25
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2007-002468-88/DE/
+
+A. Protocol Information
+A.1 Member State Concerned: Germany - PEI
+A.2 EudraCT number: 2007-002468-88
+A.3 Full title of the trial: An open-label, randomised, comparative, multi-centre study of the immunogenicity and safety of a 2-dose regimen of ProQuad® manufactured with rHA administered to healthy children from 9 months of age 
+A.4.1 Sponsor's protocol code number: MRV02C
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Sanofi Pasteur MSD SNC
+B.1.3.4	Country: France
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: ProQuad® manufactured with rHA 
+D.3.4 Pharmaceutical form: Powder and solvent for suspension for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.9.3 Other descriptive name: Measles virus1 Enders’ Edmonston strain (live attenuated)
+D.3.10 Strength
+D.3.10.1 Concentration unit: log10 TCID50 log10 tissue culture infective dose 50
+D.3.10.2 Concentration type: not less then
+D.3.10.3 Concentration number: 3.00  
+D.3.9.3 Other descriptive name: Mumps virus1 Jeryl Lynn™ (Level B) strain (live attenuated)
+D.3.10 Strength
+D.3.10.1 Concentration unit: log10 TCID50 log10 tissue culture infective dose 50
+D.3.10.2 Concentration type: not less then
+D.3.10.3 Concentration number: 4.30 
+D.3.9.3 Other descriptive name: Rubella virus2 Wistar RA 27or 3 strain (live attenuated) 
+D.3.10 Strength
+D.3.10.1 Concentration unit: log10 TCID50 log10 tissue culture infective dose 50
+D.3.10.2 Concentration type: not less then
+D.3.10.3 Concentration number: 3.00 
+D.3.9.3 Other descriptive name: Varicella virus3 Oka / Merck strain (live attenuated) 
+D.3.10 Strength
+D.3.10.1 Concentration unit: log10 PFU log10 plaque forming unit(s)
+D.3.10.2 Concentration type: not less then
+D.3.10.3 Concentration number: 3.99 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): Yes
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Measles, mumps, rubella and varicella vaccine administered to healthy children from 9 months of age
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: The first primary objective is to demonstrate that a 2-dose regimen of ProQuad®  rHA administered at a 3-month interval to healthy childrenof  11 months of age at the time of Dose 1 is as immunogenic as in healthy children of 12 months of age at the time of Dose 1, in terms of antibody response rates to measles, mumps, rubella and varicella at Day 42 following Dose 2.
+The second primary objective, only if the first primary objective is reached, is similar to the first one at 9 months of age.
+To demonstrate that a 2-dose regimen of ProQuad® rHA administered at a 3-month interval to healthy children of 11 months of age and 9 months of age at the time of Dose 1 is well tolerated compared to healthy children of 12 months of age at the time of Dose 1.
+
+E.2.2 Secondary objectives of the trial: To describe the antibody titres to measles, mumps, rubella and varicella at Day 42 following Dose 1 and Dose 2 of ProQuad® rHA administered to healthy children from 9 months of age. 
+
+To evaluate the safety profile of Dose 1 and Dose 2 of ProQuad® rHA administered to healthy children from 9 months of age.
+
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: 1. Healthy subject of either gender
+2. Subject 9 months of age [from the 9th month birthday to 1 day prior to the 10th month birthday, preferably the 2 first weeks after the 9th month birthday]
+3. Negative clinical history of measles, mumps, rubella, varicella or zoster
+4. Informed consent form signed by both parents or legal representative according to the local regulations
+5. Parent(s) or legal representative able to attend all scheduled visits with the subject and to understand and comply with the study procedures (i.e. able to read and write)
+6. Both parent(s) or legal representative over 18 years of age
+7. Subject affiliated to a health social security system.
+
+E.4 Principal exclusion criteria: 1. Febrile illness in the previous 3 days (rectal temperature ³38.0°C) (a)
+2. Prior vaccination with a measles, mumps, rubella and/or varicella vaccine either alone or in any combination
+3. Exposure to measles, mumps, rubella, varicella and/or zoster in the previous 30 days(a) 
+4. Tuberculin test done in the previous 2 days (a)
+5. Severe chronic disease
+6. Known active tuberculosis
+7. Known personal history of encephalopathy, seizure disorder or progressive, evolving or unstable neurological condition
+8. Hereditary problems of fructose intolerance
+9. Prior known sensitivity or allergy to any component of the vaccines including neomycin, sorbitol or gelatin, or true allergy to egg proteins (anaphylactic or anaphylactoid reaction after ingesting eggs)
+10. Known blood dyscrasias, leukemia, lymphomas of any type, or other malignant neoplasms affecting the bone marrow or lymphatic systems
+11. Humoral or cellular (primary or acquired) immunodeficiency, including hypogammaglobulinemia and dysgammaglobulinemia and AIDS, or symptomatic HIV infection
+12. Immunosuppressive therapy [including systemic corticosteroids(a), given daily or on alternate days at high doses (³2 mg/kg/day prednisone equivalent or ³20 mg/day if the subject's weight is >10 kg) during at least 14 days in the previous 30 days
+13. Family history of congenital or hereditary immunodeficiency
+14. Receipt of immunoglobulins or blood-derived products in the previous 150 days or scheduled to be administered through Visit 5 
+15. Receipt of an inactivated vaccine within the previous 14 days (a)
+16. Receipt of a live non-study vaccine within the previous 28 days (a)
+17. Any medical condition which, in the opinion of the investigator, might interfere with the evaluation of the study objectives
+18. Current participation or scheduled participation in any other clinical study through Visit 5 (a).
+
+(a) Should a subject meet at least one of those criteria at Visit 1, inclusion will be postponed until this criteria is not met anymore, within the targeted age window. If the condition is not resolved within the targeted window, the subject should not be included.
+
+E.5 End points
+E.5.1 Primary end point(s): The primary immunogenicity endpoints will be the antibody response rates to measles, mumps, rubella and varicella measured at Day 42 following Dose 2 (Blood sample 3).
+- The response rate for measles is the percentage of subjects with measles antibody titres ³255 mIU/mL.
+- The response rate for mumps is the percentage of subjects with mumps antibody titres ³10.0 ELISA Ab units/mL.
+- The response rate for rubella is the percentage of subjects with rubella antibody titres ³10.0 IU/mL.
+- The response rate for varicella is the percentage of subjects with varicella antibody titres ³5 gpELISA units/mL.
+
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: Yes
+E.6.3 Therapy: No
+E.6.4 Safety: Yes
+E.6.5 Efficacy: No
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: Yes
+E.6.13.1 Other scope of the trial description: Immunogenicity
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: No
+E.8.1.1 Randomised: Information not present in EudraCT
+E.8.1.2 Open: Information not present in EudraCT
+E.8.1.3 Single blind: Information not present in EudraCT
+E.8.1.4 Double blind: Information not present in EudraCT
+E.8.1.5 Parallel group: Information not present in EudraCT
+E.8.1.6 Cross over: Information not present in EudraCT
+E.8.1.7 Other: Information not present in EudraCT
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Information not present in EudraCT
+E.8.2.2 Placebo: Information not present in EudraCT
+E.8.2.3 Other: Information not present in EudraCT
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 24
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 53
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: The end of trial is defined as the last visit of the last subject.
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 1
+E.8.9.1 In the Member State concerned months: 5
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial years: 1
+E.8.9.2 In all countries concerned by the trial months: 5
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: Yes
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): Yes
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): No
+F.1.3 Elderly (>=65 years): No
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: Yes
+F.3.2 Patients: No
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: No
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: Yes
+F.3.3.7.1 Details of other specific vulnerable populations: minors (infants)
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 400
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 1620
+F.4.2.2 In the whole clinical trial: 1620
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2007-09-20
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2007-10-26
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2008-12-29
+

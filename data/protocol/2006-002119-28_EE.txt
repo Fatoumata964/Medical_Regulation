@@ -1,0 +1,287 @@
+Summary
+EudraCT Number: 2006-002119-28
+Sponsor's Protocol Code Number: BH 20198
+National Competent Authority: Estonia - SAM 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2006-06-19
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2006-002119-28/EE/
+
+A. Protocol Information
+A.1 Member State Concerned: Estonia - SAM
+A.2 EudraCT number: 2006-002119-28
+A.3 Full title of the trial: Open label, randomized, parallel group, multicenter study to investigate the efficacy and safety of once-weekly (reduced administration frequency) NeoRecormon® therapy versus thrice weekly NeoRecormon® therapy in anaemic cancer patients with solid tumours receiving chemotherapy (or scheduled to receive chemotherapy)
+A.4.1 Sponsor's protocol code number: BH 20198
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: F. Hoffmann-La Roche Ltd.
+B.1.3.4	Country: Switzerland
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: epoetin beta
+D.3.10 Strength
+D.3.10.1 Concentration unit: IU international unit(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 10,000 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: epoetin beta
+D.3.10 Strength
+D.3.10.1 Concentration unit: IU international unit(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 20,000 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: epoetin beta
+D.3.10 Strength
+D.3.10.1 Concentration unit: IU international unit(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 30,000 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Anaemia in breast tumour subjects
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: •	To demonstrate that epoetin beta (NeoRecormon®) administered  30,000 IU once weekly  (q1w) subcutaneously (sc) is at least as efficacious as epoetin beta (NeoRecormon®)  administered 10,000 IU sc thrice weekly (tiw) 
+
+
+E.2.2 Secondary objectives of the trial: •	Percentage of patients achieving target Haemoglobin  (Hb) (12-13 g/dL) response 
+•	To compare the time to reach the target Hb level of 12-13 g/dL 
+•	To compare the safety of NeoRecormon® administered 30,000 IU q1w sc with NeoRecormon® administered 10,000 IU sc tiw
+
+E.2.3 Trial contains a sub-study: Information not present in EudraCT
+E.3 Principal inclusion criteria: •	Adults (age ≥ 18 years) with cytologically or histologically confirmed diagnosis of metastatic solid tumors, stage IV (breast, lung, colorectal, ovarian, cervical and prostate cancer) receiving chemotherapy (or scheduled to receive chemotherapy) for at least 9 weeks.
+•	Hb < 11 g/dL (110 g/L) at screening visit 
+•	Life expectancy > 3 months
+•	WHO performance status grade 0-2
+•	Written informed consent
+E.4 Principal exclusion criteria: •	Transfusion of RBC during the 4 weeks (28 days) prior to the first planned dose of study medication
+•	Concomitant radiometabolic therapy (e.g. strontium)   
+•	Prior diagnosis of haematologic malignancies eg. lymphoma, lymphoproliferative diseases, Hodgkin’s diseases, chronic lymphocytic leukaemia, acute leukaemia, myelodysplastic syndromes, myeloproliferative syndromes
+•	Patients  who have experienced thrombovascular event within 28 days preceding the first dose of study medication
+•	Patients with brain metastases or history of brain metastases 
+•	Iron deficiency defined as transferrin saturation <20% which  can not be treated  with iron supplementation prior to start of study treatment.
+•	Uncontrolled hypertension (sitting systolic blood pressure   >  170 mm Hg or diastolic blood pressure  ≥  100 mm Hg) 
+•	Platelet count< 50 or > 450 x 10 000 000 000/L (screening visit)
+•	Known uncorrected vitamin B12 or folic acid deficiency
+•	Prior diagnosis of primary red cell disorders which cause anemia [i.e., hemoglobinopathy, pure red cell aplasia (PRCA)]
+•	Patients with acute infection 
+•	Patients with known hemolysis
+•	Epilepsy
+•	Pregnancy or breast feeding
+•	Any erythropoiesis stimulating agents (ESA) including NeoRecormon® administered during the period beginning 28 days preceding the first dose of study medication 
+•	Any investigational drug administered during the period beginning 28 days preceding the first dose of study medication
+•	Known resistance to other ESAs
+•	Known hypersensitivity to any of the inactive substance or an active ingredient of NeoRecormon® or other ESAs
+•	Acute or chronic bleeding requiring therapy within 3 months prior to planned start of study medication (e.g. patients with anemia caused by gastrointestinal bleeding)
+
+E.5 End points
+E.5.1 Primary end point(s): Non-inferiority of NeoRecormon® once weekly versus thrice weekly analyzed by Hb Area Under Curve (AUC) from week 5 to week 12 (time- and baseline adjusted)
+
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: Information not present in EudraCT
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: No
+E.8.2.3 Other: Yes
+E.8.2.3.1 Comparator description: NeoRecormon® administered 10,000 IU thrice weekly
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.5 The trial involves multiple Member States: Yes
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+E.8.7 Trial has a data monitoring committee: Information not present in EudraCT
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: last patient last visit 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 1
+E.8.9.1 In the Member State concerned months: 0
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial years: 1
+E.8.9.2 In all countries concerned by the trial months: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: Information not present in EudraCT
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): Information not present in EudraCT
+F.1.1.3 Newborns (0-27 days): Information not present in EudraCT
+F.1.1.4 Infants and toddlers (28 days-23 months): Information not present in EudraCT
+F.1.1.5 Children (2-11years): Information not present in EudraCT
+F.1.1.6 Adolescents (12-17 years): Information not present in EudraCT
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Information not present in EudraCT
+F.3.3.1 Women of childbearing potential not using contraception  
+(For clinical trials recorded in the database before the 10th March 2011 this question read: "Women of childbearing potential" and
+did not include the words "not using contraception". An answer of yes could have included women of child bearing potential whether
+or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
+database on 2006-06-19) : Yes
+F.3.3.2 Women of child-bearing potential using contraception: Information not present in EudraCT
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 42
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 220
+F.4.2.2 In the whole clinical trial: 280
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): standard of care
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2006-09-19
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2006-08-21
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2006-11-21
+

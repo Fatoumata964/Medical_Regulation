@@ -1,0 +1,208 @@
+Summary
+EudraCT Number: 2007-000744-28
+Sponsor's Protocol Code Number: X06-Z-305
+National Competent Authority: Italy - Italian Medicines Agency 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2007-11-13
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2007-000744-28/IT/
+
+A. Protocol Information
+A.1 Member State Concerned: Italy - Italian Medicines Agency
+A.2 EudraCT number: 2007-000744-28
+A.3 Full title of the trial: An open-label, randomised, comparative, multi-centre study of the immunogenicity and safety of a 1-dose regimen and different 2-dose regimens of a Zoster vaccine (Live), ZOSTAVAX , in subjects equal or over 70 years of age
+A.3.2 Name or abbreviated title of the trial where available: ND
+A.4.1 Sponsor's protocol code number: X06-Z-305
+A.5.1 ISRCTN (International Standard Randomised Controlled Trial) number: ND
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Sanofi Pasteur MSD S.N.C.
+B.1.3.4	Country: France
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: ZOSTAVAX®
+D.2.1.1.2 Name of the Marketing Authorisation holder: Sanofi Pasteur MSD, SNC (rilasciata ai paesi dell'UE)
+D.2.1.2 Country which granted the Marketing Authorisation: United Kingdom
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Powder and solvent for solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.10 Strength
+D.3.10.1 Concentration unit: IU international unit(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 19400 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): Yes
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Herpes zoster and post-herpetic neuralgia
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Level: PT
+E.1.2 Classification code: 10019974
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To demonstrate that a second dose of ZOSTAVAX elicits higher varicella-zostervirus (VZV) antibody titers than first dose of ZOSTAVAX whether given a 0-1 month schedule or as a 0-3 month schedule in subjects &#8805;70 years of age as measured at weeks 4 post-vaccination
+E.2.2 Secondary objectives of the trial: Immunogenicity
+	To summarise the VZV antibody titres at 4 weeks post-vaccination after a 1-dose regimen and 4 weeks post-vaccination after each dose of each 2-doses regimen of ZOSTAVAX administered to subjects &#8805;70 years of age
+	To compare the VZV antibody titres at 12 months after completion of a 1-dose regimen with the VZV antibody titres at 12 months after completion of each 2-doses regimen of ZOSTAVAX administered to subjects &#8805;70 years of age
+	To summarise the VZV antibody titres at 24 and 36 months after completion of a 1-dose regimen and at 24 and 36 months after completion of each 2-doses regimen of ZOSTAVAX administered to subjects &#8805;70 years of age
+Safety
+	To assess the safety profile of a 1-dose regimen and the safety profile of each 2-doses regimen of Zostavax administered to subjects &#8805;70 years of age
+E.2.3 Trial contains a sub-study: Information not present in EudraCT
+E.3 Principal inclusion criteria: 1.	Age &#8805; 70 years 
+2.	Varicella history-positive or residence for > 30 years in a country with endemic VZV infection 
+3.	Signed informed consent form prior to any study procedure
+E.4 Principal exclusion criteria: 1.	Febrile (oral temperature &#8805; 38.3C) within the last 72 hours before the first vaccination
+2.	History of hypersensitivity/ anaphylactoid reaction to ZOSTAVAX components including gelatin or neomycin
+3.	Prior herpes-zoster episode clinically diagnosed by a physician
+4.	Prior receipt of varicella or zoster vaccine
+5.	Exposure to varicella or herpes-zoster within the 4 weeks prior to the first vaccination by continuous household contact, or non-household contact (generally >1 hour of exposure indoors), or hospital contact (in same 2- to 4-beds room or adjacent beds in a large ward or face-to-face contact with an infectious staff member or subject), or contact with a newborn whose mother had onset of varicella 5 days or less before delivery or within 48 hours after delivery
+6.	Significant underlying illness preventing completion of the vaccination schedules
+7.	Known active tuberculosis
+8.	Immune deficiency disorder, including active neoplastic disease (except local skin cancer) within the prior 5 years
+9.	Immune function impairment caused by medical condition (congenital immunodeficiency, human immunodeficiency virus (HIV) infection, organ or bone marrow transplantation, leukemia, lymphoma, Hodgkins disease, multiple myeloma, generalised malignancy), or immunosuppressive therapy (examples: chemotherapy agents to treat cancer, treatments associated with organ or bone marrow transplantation, daily (or on alternate days) systemic corticosteroids at a dose &#8805;5mg/day prednisone equivalent for at least 14 days in the 4 weeks prior to the first vaccination), or any other cause
+10.	Receipt of any inactivated vaccine within the 2 weeks prior to the first vaccination
+11.	Receipt of any other live vaccine within the 4 weeks prior to the first vaccination
+12.	Receipt of immunoglobulins or blood-derived products within the 5 months prior to the first vaccination
+13.	Concomitant use of non-topical antiviral therapy (examples: acyclovir, famciclovir, valacyclovir, ganciclovir, foscarnet, cidofovir, brivudine)
+14.	History of alcohol or recreational drug abuse which in the opinion of the investigator could interfere with study compliance
+15.	Any other condition / situation that in the opinion of the investigator could interfere with the interpretation of the study, including possible interference caused by acute intercurrent illness (examples: upper respiratory infection, influenza), or any other cause
+16.	Participation to any other clinical study that includes an investigational product within the 4 weeks prior to the first vaccination or planned during the duration of the study
+E.5 End points
+E.5.1 Primary end point(s): 	The 4 weeks post-dose 1 and 4 weeks post-dose 2 VZV antibody titres (i.e. GMT in gpELISA units/mL) in group 2 and in group 3
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: Yes
+E.6.3 Therapy: No
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: Yes
+E.6.10 Pharmacogenetic: Information not present in EudraCT
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: Information not present in EudraCT
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Information not present in EudraCT
+E.8.2.2 Placebo: Information not present in EudraCT
+E.8.2.3 Other: Information not present in EudraCT
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.5 The trial involves multiple Member States: Yes
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: Information not present in EudraCT
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 3
+E.8.9.1 In the Member State concerned months: 8
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial years: 3
+E.8.9.2 In all countries concerned by the trial months: 8
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): No
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Information not present in EudraCT
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Information not present in EudraCT
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 140
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 750
+F.4.2.2 In the whole clinical trial: 750
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2007-11-05
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2007-09-14
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2009-09-15
+

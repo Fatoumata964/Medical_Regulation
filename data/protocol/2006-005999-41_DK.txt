@@ -1,0 +1,322 @@
+Summary
+EudraCT Number: 2006-005999-41
+Sponsor's Protocol Code Number: 109063
+National Competent Authority: Denmark - DHMA 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2007-01-23
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2006-005999-41/DK/
+
+A. Protocol Information
+A.1 Member State Concerned: Denmark - DHMA
+A.2 EudraCT number: 2006-005999-41
+A.3 Full title of the trial: A phase III, randomized, open, controlled, multicenter primary vaccination study to demonstrate the non inferiority of the immunogenicity of GSK Biologicals’ meningococcal serogroup ACWY conjugate vaccine when given as one dose with Twinrix™ versus GSK Biologicals’ meningococcal serogroup ACWY conjugate vaccine alone and versus Twinrix™ alone in healthy subjects aged 11 through 17 years
+A.3.2 Name or abbreviated title of the trial where available: MenACWY-TT-037
+A.4.1 Sponsor's protocol code number: 109063
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: GlaxoSmithKline Biologicals
+B.1.3.4	Country: Belgium
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: MenACWY conjugate vaccine
+D.3.2 Product code: MenACWY-TT
+D.3.4 Pharmaceutical form: Powder and solvent for solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intramuscular use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: N.meningitidis serogroup A polysaccharide (PSA) conjugated to tetanus toxoid (TT)
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: PSA:5  TT:15 
+D.3.8 INN - Proposed INN: N.meningitidis serogroup C polysaccharide (PSC) conjugated to tetanus toxoid (TT)
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: PSC:5  TT:15 
+D.3.8 INN - Proposed INN: N.meningitidis serorgoup W polysaccharide (PSW) conjugated to tetanus toxoid (TT)
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: PSW:5  TT:7.5 
+D.3.8 INN - Proposed INN: N.meningitidis serogroup Y polysaccharide conjugated to tetanus toxoid (TT)
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: PSY:5  TT:6.5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): Yes
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Twinrix Paediatric
+D.2.1.1.2 Name of the Marketing Authorisation holder: GlaxoSmithKline Biologicals
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Inactivated hepatitis A and hepatitis B recombinant, adsorbed vaccine
+D.3.4 Pharmaceutical form: Suspension for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intramuscular use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Inactivated hepatitis A virus 
+D.3.10 Strength
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 360 ELISA Units 
+D.3.8 INN - Proposed INN: Hepatitis B virus surface antigen recombinant (S protein)
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 10 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): Yes
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Twinrix Adult
+D.2.1.1.2 Name of the Marketing Authorisation holder: GlaxoSmithKline Biologicals
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Inactivated hepatitis A and hepatitis B recombinant, adsorbed vaccine
+D.3.4 Pharmaceutical form: Suspension for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intramuscular use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Inactivated hepatitis A virus
+D.3.10 Strength
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 720 ELISA Units 
+D.3.8 INN - Proposed INN: Hepatitis B virus surface antigen recombinant (S protein)
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 20 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): Yes
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Primary immunization of healthy subjects aged 11 through 17 years against meningococcal serogroups A, C, W 135 and Y and/or hepatitis A and hepatitis B diseases
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To demonstrate the non-inferiority of the MenACWY-TT conjugate vaccine co-administered with Twinrix as compared to the MenACWY-TT conjugate vaccine administered alone with respect to the serum bactericidal antibody geometric mean titres as measured using baby rabbit complement (rSBA GMTs) for N. meningitidis serogroups A, C, W-135 and Y.
+To demonstrate the non-inferiority of the MenACWY-TT conjugate vaccine co-administered with Twinrix as compared to Twinrix administered alone with respect to the percentage of seroconversion for hepatitis A and percentage of seroprotection for hepatitis B.
+E.2.2 Secondary objectives of the trial: To compare the immunogenicity of the MenACWY TT conjugate vaccine co-administered with Twinrix compared to that of the MenACWY-TT vaccine alone; To evaluate the safety and reactogenicity of the MenACWY-TT conjugate vaccine co-administered with Twinrix to that of the MenACWY-TT vaccine alone; To compare the immunogenicity of the 3th dose of Twinrix in the MenACWY-TT+ Twinrix group to that of the Twinrix group; To evaluate the safety and reactogenicity of Twinrix in the MenACWY-TT+Twinrix group to that of the Twinrix group after each Twinrix dose.
+To evaluate the persistence of the antibody response to MenACWY-TT either given alone or co-administered with Twinrix; To describe serious adverse events and specific adverse events of rash, new onset chronic illness(es), and condition(s) prompting emergency room/non routine physician office visits occurring and any events related to lack of meningococcal vaccine efficacy (i.e. meningococcal disease) up to 7 months after the study start
+
+
+
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: healthy males and females aged 11 through 17 years who have previously completed routine childhood vaccinations to the best of his/her/the parents’/guardians’ knowledge. If a subject is female of childbearing potential, she must practice adequate contraception for 30 days prior to vaccination, have a negative pregnancy test and continue such precautions for two months after completion of the vaccination series
+E.4 Principal exclusion criteria: The following criteria should be checked at the time of study entry. If any apply, the subject must not be included in the study:
+•Use of any investigational or non-registered product (drug or vaccine) other than the study vaccine(s) within 30 days preceding the first dose of study vaccine, or planned use during the study period. 
+•Chronic administration (defined as more than 14 days) of immunosuppressants or other immune-modifying drugs within six months prior to the first vaccine dose. (For corticosteroids, this will mean prednisone greater than or equal to 0.5 mg/kg/day, or equivalent. Inhaled and topical steroids are allowed.)
+•Planned administration/administration of a vaccine not foreseen by the study protocol within one month of the dose of vaccine.
+•Previous vaccination with meningococcal polysaccharide vaccine of serogroup A, C, W-135 and/or Y within the last five years.
+•Previous vaccination with meningococcal polysaccharide conjugate vaccine of serogroup A, C, W-135 and/or Y.
+•Previous vaccination with tetanus toxoid within the last month.
+•Previous vaccination with hepatitis A and/or hepatitis B vaccine.
+•Seropositivity (IgG) for hepatitis A (anti-HAV), IgG hepatitis B surface antigen (anti-HBs), hepatitis B core antibody (anti-HBc) and/or hepatitis B surface antigen (HBsAg) at screening.
+•History of hepatitis A, hepatitis B and/or Neisseria meningitidis infection.
+•Known exposure to hepatitis A and/or hepatitis B virus within three months preceding the first dose of study vaccine.
+•Any confirmed or suspected immunosuppressive or immunodeficient condition (congenital or secondary), including human immunodeficiency virus (HIV) infection, based on medical history and physical examination (no laboratory testing is required).
+•A family history of congenital or hereditary immunodeficiency, until the immune competence of the potential vaccine recipient is demonstrated. 
+•History of reactions or allergic disease likely to be exacerbated by any component of either vaccine.
+•Major congenital defects or serious chronic illness.
+•Acute disease at the time of enrolment. (Acute disease is defined as the presence of a moderate or severe illness with or without fever. All vaccines can be administered to persons with a minor illness such as diarrhoea, mild upper respiratory infection with or without low-grade febrile illness, i.e. Oral temperature <37.5°C/ Axillary temperature <37.5°C/ Tympanic temperature on oral setting <37.5°C). 
+•Administration of immunoglobulins and/or any blood products within the three months preceding the dose of study vaccine or planned administration during the study period.
+•Pregnant or lactating female.
+•History of chronic alcohol consumption and/or drug abuse.
+•Female planning to become pregnant or planning to discontinue contraceptive precautions.
+
+E.5 End points
+E.5.1 Primary end point(s): At one month after vaccination with MenACWY-TT and the first dose of Twinrix (Post vacc I Study Month 1), in subjects in the MenACWY-TT + Twinrix group and the MenACWY-TT group:
+rSBA-MenA, rSBA-MenC, rSBA-MenW-135 and rSBA MenY titres
+At one month after the third dose of Twinrix (Post vacc III Study Month 7), in subjects in the MenACWY-TT + Twinrix group and the Twinrix group:
+Seroconversion* for hepatitis A and seroprotection** for hepatitis B
+*Seroconversion defined as anti-HAV concentration greater than or equal to 15 mIU/ml in previously seronegative subject 
+
+**Seroprotection defined as anti-HBs concentration greater than or equal to 10 mIU/ml
+
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: Yes
+E.6.3 Therapy: No
+E.6.4 Safety: Yes
+E.6.5 Efficacy: No
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: Yes
+E.6.13.1 Other scope of the trial description: immunogenicity
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 8
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: last subject last visit (Month 7)
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 
+E.8.9.1 In the Member State concerned months: 7
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial months: 7
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: Yes
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): Yes
+F.1.2 Adults (18-64 years): No
+F.1.3 Elderly (>=65 years): No
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: Yes
+F.3.2 Patients: No
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception  
+(For clinical trials recorded in the database before the 10th March 2011 this question read: "Women of childbearing potential" and
+did not include the words "not using contraception". An answer of yes could have included women of child bearing potential whether
+or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
+database on 2007-01-23) : Yes
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: Yes
+F.3.3.6.1 Details of subjects incapable of giving consent: Trial will include subjects below the age of consent; Informed consent given by parent/guardian; informed assent given by subjects 
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 600
+F.4.2.2 In the whole clinical trial: 600
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): No - healthy subjects
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2007-03-20
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2007-03-29
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2008-04-08
+

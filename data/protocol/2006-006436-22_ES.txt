@@ -1,0 +1,417 @@
+Summary
+EudraCT Number: 2006-006436-22
+Sponsor's Protocol Code Number: BAY a1040/12313
+National Competent Authority: Spain - AEMPS 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2007-07-13
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2006-006436-22/ES/
+
+A. Protocol Information
+A.1 Member State Concerned: Spain - AEMPS
+A.2 EudraCT number: 2006-006436-22
+A.3 Full title of the trial: Estudio multicéntrico para evaluar la eficacia de la combinación nifedipino GITS - telmisartan en el control de la presión arterial y otros párámetros: comparación de dos estrategias terapéuticas.
+A.3.2 Name or abbreviated title of the trial where available: TALENT
+A.4.1 Sponsor's protocol code number: BAY a1040/12313
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Bayer SpA
+B.1.3.4	Country: Italy
+B.3.1 and B.3.2	Status of the sponsor: Non-Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Adalat Crono
+D.2.1.1.2 Name of the Marketing Authorisation holder: Bayer S.p.A., Italy
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Nifedipine GITS
+D.3.4 Pharmaceutical form: Prolonged-release tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Nifedipine
+D.3.9.2 Current sponsor code: Nifedipine GITS (BAY a 1040)
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 20 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Pritor 80 mg
+D.2.1.1.2 Name of the Marketing Authorisation holder: BayerHealthCare AG, Germany
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: telmisartan
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Telmisartan
+D.3.9.2 Current sponsor code: Telmisartan (BAY 68-9291)
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 80 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Adalat Oros
+D.2.1.1.2 Name of the Marketing Authorisation holder: Quimica Farmaceutica Bayer, S.L.
+D.2.1.2 Country which granted the Marketing Authorisation: Spain
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Nifedipino GITS
+D.3.4 Pharmaceutical form: Prolonged-release tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Nifedipine 
+D.3.9.2 Current sponsor code: Nifedipine GITS (BAY a 1040)
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 30 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 4
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Pritor 80 mg
+D.2.1.1.2 Name of the Marketing Authorisation holder: Bayer HealthCare AG, Germany
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Telmisartan
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: telmisartan
+D.3.9.2 Current sponsor code: Telmisartan (BAY 68-9291)
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 80 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 5
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Adalat Crono
+D.2.1.1.2 Name of the Marketing Authorisation holder: Bayer S.p.A., Italy
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Nifedipine GITS
+D.3.4 Pharmaceutical form: Prolonged-release tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Nifedipine
+D.3.9.2 Current sponsor code: Nifedipine GITS (BAY a 1040)
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 20 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+D.8 Placebo: 1
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Prolonged-release tablet
+D.8.4 Route of administration of the placebo: Oral use
+D.8 Placebo: 2
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Tablet
+D.8.4 Route of administration of the placebo: Oral use
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: hipertensión
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 9.1
+E.1.2 Level: LLT
+E.1.2 Classification code: 10020772
+E.1.2 Term: Hypertension
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: El objetivo principal de este estudio es evaluar la eficacia en el control de la presión arterial cuando el tratamiento antihipertensivo se inicia con una combinación Nifedipino GITS en bajas dosis y Telmisartán en comparación con un régimen que se inicia con monoterapia antes de añadir otro fármaco.
+E.2.2 Secondary objectives of the trial: También se evaluará el efecto del tratamiento sobre los marcadores metabólicos y de  inflamación como indicadores del riesgo cardiovascular.
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: En la Visita de Selección:
+-Hipertensión (presión arterial sistólica > 135 mmHg en  la consulta), no tratada o mal controlada a pesar de un régimen antihipertensivo estable durante ≥ 4 semanas
+-Presencia de diabetes mellitus tipo 2 o lesión del órgano diana (hipertrofia ventricular izquierda por ecocardiografía o electrocardiografía o microalbuminuria)
+-Presencia de síndrome metabólico, es decir, al menos dos de los siguientes:
+    (a) alteración de la tolerancia a la glucosa (glucemia basal 110 -125 mg/dl)
+    (b) hipertrigliceridemia ( ≥ 150 mg/dl)
+    (c)bajas concentraciones de colesterol HDL (varones: < 40 mg/dl, mujeres: < 50 mg/dl)
+    (d)perímetro de la cintura > 102 cm en los hombres y > 88 cm en las mujeres
+-Edad: 18-75 años.
+-Prueba de embarazo negativa.
+-Consentimiento informado por escrito.
+
+E.4 Principal exclusion criteria: -Tratamiento actual con los siguientes fármacos: inhibidores de la ECA (p. ej., captopril, benazepril, enalapril, lisinopril, fosinopril, ramipril, perindopril, quinapril, moexipril y trandolapril), antagonistas de la AT1 (p. ej., losartán, candesartán, eprosartán, telmisartán) o calcioantagonistas (p. ej., amlodipino, felodipino, isradipino, nifedipino, nimodipino) y que no pueda suspenderse.
+-Tratamiento concomitante con otros antihipertensivos que no se pueden suspender de forma segura al entrar en el estudio.
+-Tratamiento concomitante con inhibidores conocidos del citocromo P450-3A4 (p. ej., cimetidina, inhibidores de la proteasa del VIH como ritonavir, antimicóticos azólicos como ketoconazol, digoxina, quinidina, tacrolimus) o inductores, como antiepilépticos (p. ej., fenitoína, carbamazepina y fenobarbitona) o rifampicina.
+-Tratamiento concomitante con diuréticos ahorradores de potasio.
+-Hipertensión arterial maligna, grave o idiopática lábil, hipotensión ortostática.
+-Choque cardiovascular.
+-Evidencia de una forma secundaria de hipertensión, como coartación aórtica, hiperaldosteronismo, estenosis de la arteria renal o focromocitoma.
+-Infarto de miocardio o angina inestable en los 12 meses previos.
+-Valvulopatía cardiaca grave.
+-Trastornos graves del ritmo y de la conducción:
+       -Bradicardia en la exploración física en reposo(FC< 50/min).
+       -Taquicardia en la exploración física en reposo (FC > 100/min). 
+       -Arritmias ventriculares complejas frecuentes.
+       -Fibrilación auricular.
+       -Trastornos de la conducción intraventricular, síndrome de Wolf-Parkinson-White.
+       -Bloqueo senoauricular ,bloqueo A-V de segundo o tercer grado.
+       -QTc basal > 450 mseg.
+-Acontecimiento isquémico cerebrovascular (accidente vascular cerebral,              accidente isquémico transitorio) en los 12 meses previos. 
+-Antecedentes de hemorragia intracerebral o hemorragia subaracnoide en los 12 meses previos.  
+-Diabetes mellitus tipo I.
+-Proteinuría (determinada por Uristix).
+-IMC> 34.
+-Hipopotasemía o hiperpotasemia no corregidas, con potasio fuera del rango de 3.0 a 5.5 mmol/l.
+-Hipernatremia y/o hipovolemia.
+-Enfermedad gastrointestinal que provoque una posible mala absorción.
+-Estrechamiento grave del tracto gastrointestinal.
+-Reservorio de Kock (ileostomía tras proctocolectomía).
+-Colestasis o obstrucción biliar.
+-Hepatopatía o transaminasemia (AST, ALT) > 3 x el límite superior normal.
+-Insuficiencia renal, creatinina > 2.0 mg/dl.
+-Cualquier neoplasía maligna que haya requerido el tratamiento en los últimos 5 años.
+-Demencia o psicosis.
+-Antecedentes de falta de cumplimiento, alcoholismo o toxicomanía.
+-Tratamiento con cualquier producto en fase de investigación durante los 30 días anteriores a la Visita 1.
+-Embarazo o lactancia.
+-Alergia o hipersensibilidad conocida a nifedipino o a cualquier otro calcioantagonista dihidropiridinico o a telmisartan.
+-Cualquier trastorno quirúrgico o médico que, a discreción del investigador, ponga al sujeto en riesgo por su participación en el estudio o que puedan impedir al sujeto cumplir con los requerimientos del estudio o completar el período de estudio
+-Antecedentes de falta de  cumplimiento con los  tratamientos médicos o sujetos que no estén dispuestos a cumplir con el protocolo del estudio.
+
+E.5 End points
+E.5.1 Primary end point(s): La variable primaria de eficacia será la PA sistólica media de 24 horas registrado con MAPA en la  semana 16 de tratamiento en comparación con  el momento basal. 
+
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: Information not present in EudraCT
+E.6.2 Prophylaxis: Information not present in EudraCT
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Information not present in EudraCT
+E.6.7 Pharmacodynamic: Information not present in EudraCT
+E.6.8 Bioequivalence: Information not present in EudraCT
+E.6.9 Dose response: Information not present in EudraCT
+E.6.10 Pharmacogenetic: Information not present in EudraCT
+E.6.11 Pharmacogenomic: Information not present in EudraCT
+E.6.12 Pharmacoeconomic: Information not present in EudraCT
+E.6.13 Others: Information not present in EudraCT
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): Information not present in EudraCT
+E.7.1.1 First administration to humans: Information not present in EudraCT
+E.7.1.2 Bioequivalence study: Information not present in EudraCT
+E.7.1.3 Other: Information not present in EudraCT
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): Information not present in EudraCT
+E.7.3 Therapeutic confirmatory (Phase III): Information not present in EudraCT
+E.7.4 Therapeutic use (Phase IV): Yes
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: Information not present in EudraCT
+E.8.1.4 Double blind: Yes
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: Information not present in EudraCT
+E.8.1.7 Other: Yes
+E.8.1.7.1 Other trial design description: 16 semanas doble ciego con una ampliación adicional opcional abierta de 8 semanas
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: No
+E.8.2.3 Other: Yes
+E.8.2.3.1 Comparator description: terapia combinada comparada con monoterapia
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 10
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 39
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 1
+E.8.9.1 In the Member State concerned months: 3
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 1
+E.8.9.2 In all countries concerned by the trial months: 3
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 110
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 450
+F.4.2.2 In the whole clinical trial: 450
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2007-09-12
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2007-08-02
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2009-11-06
+

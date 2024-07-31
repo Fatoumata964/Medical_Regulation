@@ -1,0 +1,267 @@
+Summary
+EudraCT Number: 2006-003353-24
+Sponsor's Protocol Code Number: Hx-CD4-110
+National Competent Authority: France - ANSM 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2007-03-26
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2006-003353-24/FR/
+
+A. Protocol Information
+A.1 Member State Concerned: France - ANSM
+A.2 EudraCT number: 2006-003353-24
+A.3 Full title of the trial: Open-label, Dose escalation, followed by Double-blind, Randomized, Two-dose, Parallel Group, Multi-center Clinical Trial of HuMax-CD4, a Fully Human Monoclonal Anti-CD4 Antibody, in Patients with Mycosis Fungoides type CTCL (stage IB-IVB) who are Refractory or Intolerant to Targretin® (bexarotene) and one other Standard Therapy
+A.3.2 Name or abbreviated title of the trial where available: HuMax-CD4 in Refractory Mycosis Fungoides
+A.4.1 Sponsor's protocol code number: Hx-CD4-110
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Genmab A/S
+B.1.3.4	Country: Denmark
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: Yes
+D.2.5.1 Orphan drug designation number: EU/3/04/198
+D.3 Description of the IMP
+D.3.1 Product name: HuMax-CD4 (zanolimumab)
+D.3.2 Product code: HuMax-CD4
+D.3.4 Pharmaceutical form: Solution for infusion
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: zanolimumab
+D.3.9.1 CAS number: 652153-01-0
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 20 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: Yes
+D.3.11.13.1 Other medicinal product type: Human Monoclonal Antibody
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Refractory Mycosis Fungoides type CTCL (stage IB-IVB).
+
+The study population will be patients who are refractory to or intolerant to at least two prior therapies, one being Targretin, the other being the current standard of care at each institution.
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 8.1
+E.1.2 Level: LLT
+E.1.2 Classification code: 10028502
+E.1.2 Term: Mycosis fungoides refractory
+E.1.3 Condition being studied is a rare disease: Yes
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: The primary objective is to determine the efficacy of HuMax-CD4 in patients with MF who are refractory or intolerant to treatment with Targretin® and one other standard therapy.
+E.2.2 Secondary objectives of the trial: Secondary objectives are to explore safety and relief of symptoms and characterize the pharmacokinetic profile of HuMax-CD4 in patients with MF who are refractory or intolerant to treatment with Targretin® and one other standard therapy. 
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: 1) A biopsy compatible with the diagnosis of MF with a CD4 positive phenotype within 6 months of study entry
+2) MF stage IB to IVB (highest stage ever) 
+3) Refractory to or intolerant to at least two prior therapies, one being Targretin® (or combinations hereof), and the other being the current standard therapy at each institution. Stage 1 patients are only required to be refractory or intolerant to at least one prior current standard therapy
+• Refractory is defined as:
+- resistance to therapy due to lack of response (defined as failure to obtain at least a 50% reduction in the disease for at least 6 months)
+- progression of disease (defined as worsening of the disease by 25% or more compared to pre-treatment status) during therapy or within three months after cessation of therapy
+           
+• Intolerance to prior therapy is defined as:
+- Discontinuation of therapy due to side effects/toxicity of the therapy, whether or not response occurred. Side effects/toxicity of Targretin therapy which qualify for the intolerance criteria are isolated hypertriglyceridemia or combined hypertriglyceridemia/hypercholesterolemia despite dose reduction of Targretin and concomitant administration of anti-lipemic therapy, defined as:
+a) Isolated hypertriglyceridemia defined as Triglycerides  > 400 mg/d 
+
+b) Combined hypertriglyceridemia/hypercholesterolemia for non-diabetic patients Triglycerides > 200 mg/dL plus LDL cholesterol > 160 mg/dL or Triglycerides > 200 mg/dL plus HDL cholesterol < 40 mg/dL
+c) Combined hypertriglyceridemia/hypercholesterolemia in diabetic patients (type I and II): Triglycerides > 150 mg/dL plus LDL cholesterol > 130 mg/dL or Triglycerides > 150 mg/dL plus HDL cholesterol < 40 mg/dL
+- Other side effects/toxicities of Targretin, despite dose reduction, which qualify for the intolerance criteria:
+d) ALT > 3 times upper limit of normal
+e) AST > 3 times upper limit of normal
+f) Bilirubin > 3 times upper limit of normal
+g) NCI grade 3 leucopenia
+h) Uncorrectable hypothyroidism
+i) Drug related dermatitis
+• Ineligibility (as part of the intolerance criteria) to treatment with Targretin®  despite administration of anti-lipemic therapy or due to concurrent medical conditions, such as:
+- Isolated hypertriglyceridemia or combined hypertriglyceridemia/
+hypercholesterolemia, defined as: 
+
+a) Isolated hypertriglyceridemia defined as Triglycerides > 400 mg/dL
+
+b) Combined hypertriglyceridemia/hypercholesterolemia in non-diabetic patients defined as Triglycerides  > 200 mg/dL plus LDL cholesterol > 160 mg/dL or Triglycerides > 200 mg/dL plus HDL cholesterol < 40 mg/dL
+
+c) Combined hypertriglyceridemia/hypercholesterolemia in diabetic patients (Type I and II): Triglycerides > 150 mg/dL plus LDL cholesterol > 130 mg/dL or                   Triglycerides > 150 mg/dL plus HDL cholesterol < 40 mg/dL 
+
+- Prior pancreatitis
+- Recurrent biliary colic
+- Known hypersensitivity to retinoids
+- Incapability to swallow Targretin capsules
+
+4. WHO performance status 0, 1 or 2
+5. Age ≥ 18 years
+6. Following receipt of verbal and written information about the study, the patient must provide signed consent before any study related activity is carried out
+
+
+E.4 Principal exclusion criteria: 1. Sezary syndrome 
+2. Primary cutaneous anaplastic large cell lymphoma
+3. Lymphomatoid papulosis
+4. Histopathological evidence of sheets of  large cells (from skin or nodes) or poorly differentiated tumors
+5. Prior treatment with combination chemotherapy within six months 
+6. Prior treatment with Total Skin Electron Beam (TSEB) therapy within one year           
+7. Prior treatment with Campath (alemtuzumab)                                                          
+8. Prior treatment with more than three regimens of single agent chemotherapy
+9. Prior treatment with pentostatin within two years                                                  
+10. Treatment within 4 weeks prior to visit 2 with topical Targretin®, skin directed therapies or systemic anticancer therapies, such as, but not limited to: Targretin® , UV-light therapy, local Electron Beam Therapy (EBT), extracorporal photo chemotherapy, methotrexate, bleomycin, cyclophosphamide, oral retinoids, systemic glucocorticosteroids, carmustine, nitrogen mustard, systemic vitamin A or etretinate 
+11. Treatment with topical glucocorticosteroids within 2 weeks prior to visit 2
+12. Unwillingness or inability to avoid prolonged exposure to the sun or UV light sufficient to produce a mild erythema or thought by the investigator to likely modify the patient’s disease
+13. Concurrent or previous malignancies within the past five years except adequately treated in situ carcinoma of the uterine cervix or basal or squamous cell skin carcinoma
+14. Acute or chronic infectious disease (including herpes simplex and herpes zoster) requiring medication except patients taking dicloxillin for carriage of staphylococcus
+15. Significant concurrent, uncontrolled, or active medical condition including, but not limited to renal, hepatic, hematological, gastrointestinal, endocrine, pulmonary, cardiac, neurological, cerebral or psychiatric disease
+16. Screening blood laboratory values:
+a) Hemoglobin < 8.5 g/dL
+b) WBC ≤ 2.5 x 10^9 cells/L
+c) Platelets < 100 x 10^9 cells/L
+d) ALT/AST > 2.5 times upper limit of normal
+e) S-Creatinine > 1.5 mg/dL       
+f) CD3+ CD4+ cell count > 2000 cells/mm^3   
+g) CD4/CD8 ratio of 10 or higher                                                                                  
+h) CD4+ CD7– cells ≥ 40%  of CD4+ cells    
+i) CD4+ CD26– cells ≥ 40% of CD4+ cells    
+17. Known or suspected positive serology for HIV                                                                            
+18. Known or suspected positive serology for hepatitis B or C
+19. Signs or symptoms of CNS involvement                                     
+20. Patients who are currently participating in any other trials or having received  treatment with any experimental agent within 4 weeks prior to visit 1 (screening)
+21. Prior treatment with anti-CD4 monoclonal antibodies
+22. Patients known or suspected of not being able to comply with a study protocol (e.g. due to alcoholism, drug dependency or psychological disorder)
+23. Breast feeding women or women with a positive pregnancy test at Visit 1
+24. Women of childbearing potential not willing to use either hormonal birth control, an intrauterine device or double-barrier method for the entire study period
+
+
+
+E.5 End points
+E.5.1 Primary end point(s): Objective response rate defined as proportion of patients achieving CR, CCR and PR as assessed by Physician’s Global Assessment of Clinical Condition (PGA) during treatment and 8 weeks of follow-up 
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: Yes
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: No
+E.8.1.1 Randomised: Information not present in EudraCT
+E.8.1.2 Open: Information not present in EudraCT
+E.8.1.3 Single blind: Information not present in EudraCT
+E.8.1.4 Double blind: Information not present in EudraCT
+E.8.1.5 Parallel group: Information not present in EudraCT
+E.8.1.6 Cross over: Information not present in EudraCT
+E.8.1.7 Other: Information not present in EudraCT
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Information not present in EudraCT
+E.8.2.2 Placebo: Information not present in EudraCT
+E.8.2.3 Other: Information not present in EudraCT
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 5
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 20
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+E.8.7 Trial has a data monitoring committee: Yes
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 1
+E.8.9.1 In the Member State concerned months: 
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial years: 1
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: Information not present in EudraCT
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): Information not present in EudraCT
+F.1.1.3 Newborns (0-27 days): Information not present in EudraCT
+F.1.1.4 Infants and toddlers (28 days-23 months): Information not present in EudraCT
+F.1.1.5 Children (2-11years): Information not present in EudraCT
+F.1.1.6 Adolescents (12-17 years): Information not present in EudraCT
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 10
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 40
+F.4.2.2 In the whole clinical trial: 92
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2007-04-30
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2007-05-15
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2009-11-16
+

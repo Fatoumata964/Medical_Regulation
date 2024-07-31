@@ -1,0 +1,213 @@
+Summary
+EudraCT Number: 2006-004661-34
+Sponsor's Protocol Code Number: 2006.426/19
+National Competent Authority: France - ANSM 
+Clinical Trial Type: EEA CTA
+Trial Status: Ongoing
+Date on which this record was first entered in the EudraCT database: 2006-10-18
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2006-004661-34/FR/
+
+A. Protocol Information
+A.1 Member State Concerned: France - ANSM
+A.2 EudraCT number: 2006-004661-34
+A.3 Full title of the trial: Evaluation d’un traitement par miglustat (Zavesca®) chez les patients atteints de mucopolysaccharidose de type III (maladie de Sanfilippo).
+Essai thérapeutique de phase IIb randomisé en aveugle contre placebo.
+
+A.3.2 Name or abbreviated title of the trial where available: ZAV-MPSIII 2006
+A.4.1 Sponsor's protocol code number: 2006.426/19
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: HOSPICES CIVILS DE LYON
+B.1.3.4	Country: France
+B.3.1 and B.3.2	Status of the sponsor: Non-Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: ZAVESCA
+D.2.1.1.2 Name of the Marketing Authorisation holder: ACTELION
+D.2.1.2 Country which granted the Marketing Authorisation: France
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: Yes
+D.2.5.1 Orphan drug designation number: EU/3/00/006
+D.3 Description of the IMP
+D.3.1 Product name: ZAVESCA
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: miglustat
+D.3.9.3 Other descriptive name: MIGLUSTAT
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/g milligram(s)/gram
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 100 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+D.8 Placebo: 1
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Capsule, hard
+D.8.4 Route of administration of the placebo: Oral use
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Mucopolysaccharidose de type III 
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 8.1
+E.1.2 Level: LLT
+E.1.2 Classification code: 10056890
+E.1.2 Term: Mucopolysaccharidosis III
+E.1.3 Condition being studied is a rare disease: Yes
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: L’objectif principal d’efficacité est l’évaluation de la capacité du miglustat (Zavesca®), par rapport à un placebo, à montrer une amélioration ou une stabilisation à 6 mois des troubles du comportement adaptatif et de socialisation chez des enfants atteints de mucopolysaccharidose de type III (maladie de Sanfilippo). 
+E.2.2 Secondary objectives of the trial: - l’efficacité à 12 mois du miglustat sur les troubles du comportement adaptatif en utilisant le test de Vineland qui explore 4 domaines : communication, socialisation, vie quotidienne et motricité globale et fine.
+- la capacité du miglustat, par rapport à un placebo, à montrer une amélioration ou une stabilisation des troubles de sommeil et des troubles neuro-cognitifs (quotient de développement, hyperactivité) chez des enfants atteints de mucopolysaccharidose de type III, MPSIII (maladie de Sanfilippo)
+- la capacité du miglustat, par rapport à un placebo, à passer la barrière hémato-méningée et à montrer une diminution du taux de Gangliosides GM2 dans le liquide céphalo-rachidien.
+- la tolérance et les effets indésirables du miglustat par rapport à un placebo pendant toute la durée de l’étude chez des enfants atteints de mucopolysaccharidose de type III
+
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: - Les parents des patients ou le tuteur légal du patient doivent signer un formulaire de consentement éclairé avant toutes procédures en relation avec le protocole. Les enfants pouvant comprendre le déroulement de l’étude seront informés oralement et leur accord de participation à l’étude sera sollicité.
+-Affiliation à un régime de sécurité sociale
+- Les patients devront être âgés de 2 à 12 ans
+- Les patients doivent avoir un diagnostic de MPSIII A, B, C ou D 
+- Les patients ne devront pas avoir perdu la capacité à marcher sans aide
+- Les patients et les parents devront accepter les contraintes liées à l’étude
+
+E.4 Principal exclusion criteria: - Les patients ou les parents refusant de participer aux évaluations demandées par le protocole avant le début du traitement
+- Les patients ayant reçu un médicament à l’essai moins de 30 jours avant l’inclusion dans l’étude
+- Les patients souffrant d’un problème médical, d’une maladie grave intercurrente ou de toute autre source de fatigue pouvant, de l’avis de l’investigateur, interférer de façon significative avec l’observance à l’étude, y compris toutes les évaluations et les suivis prescrits.
+- Les patients présentant une hypersensibilité connue au miglustat
+- Les patients ayant déjà reçu du miglustat
+- les patients sous Cérézyme®
+
+E.5 End points
+E.5.1 Primary end point(s): - Stabilisation ou une amélioration à 6 mois du comportement adaptatif mesuré par le score obtenu au test de Vineland Survey form.
+
+- Stabilisation : le score obtenu lors du test de Vineland « Survey form » est identique entre le début de la Recherche (avant le démarrage du traitement) et 6 mois après la prise du traitement pour au moins  2 domaines parmi les 4 domaines évalués : communication, vie quotidienne, socialisation, motricité globale et fine.
+
+- Amélioration : le score obtenu lors du test de Vineland « Survey form » est augmenté d’au moins 1 point entre le début de la recherche (avant le démarrage du traitement à l’étude) et à 6 mois pour au moins 2 domaines (communication, vie quotidienne, socialisation, motricité globale et fine).
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): Yes
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: No
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: Yes
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: Yes
+E.8.2.3 Other: No
+E.8.3 The trial involves single site in the Member State concerned: Yes
+E.8.4 The trial involves multiple sites in the Member State concerned: No
+E.8.4.1 Number of sites anticipated in Member State concerned: 1
+E.8.5 The trial involves multiple Member States: No
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: Yes
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 1
+E.8.9.1 In the Member State concerned months: 1
+E.8.9.1 In the Member State concerned days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: Yes
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): Yes
+F.1.1.6 Adolescents (12-17 years): Yes
+F.1.2 Adults (18-64 years): No
+F.1.3 Elderly (>=65 years): No
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: No
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: No
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 24
+F.4.2 For a multinational trial
+F.4.2.2 In the whole clinical trial: 24
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2006-12-08
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2006-11-22
+
+P. End of Trial
+P. End of Trial Status: Ongoing
+

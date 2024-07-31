@@ -1,0 +1,302 @@
+Summary
+EudraCT Number: 2007-005068-29
+Sponsor's Protocol Code Number: C2006-01
+National Competent Authority: Poland - Office for Medicinal Products 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2007-10-24
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2007-005068-29/PL/
+
+A. Protocol Information
+A.1 Member State Concerned: Poland - Office for Medicinal Products
+A.2 EudraCT number: 2007-005068-29
+A.3 Full title of the trial: A Pivotal Phase 3 Observer-Blind, Randomized Clinical Trial of the Efficacy and Safety of APF530 Compared to Aloxi® for the Prevention of Acute-Onset and Delayed-Onset Chemotherapy-Induced Nausea and Vomiting Following the Administration of either Moderately or Highly Emetogenic Chemotherapy Regimens
+A.4.1 Sponsor's protocol code number: C2006-01
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: A.P. Pharma, Inc.
+B.1.3.4	Country: United States
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: APF530
+D.3.2 Product code: 2% granisetron TEG-POE Polymer formulation
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: GRANISETRON
+D.3.9.1 CAS number: 109889090
+D.3.9.2 Current sponsor code: APF530
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: APF530
+D.3.2 Product code: 2% granisetron TEG-POE Polymer formulation
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: GRANISETRON
+D.3.9.1 CAS number: 109889090
+D.3.9.2 Current sponsor code: APF530
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 10 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Aloxi
+D.2.1.1.2 Name of the Marketing Authorisation holder: Helsinn Birex Pharmaceuticals, Ltd
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: PALONOSETRON
+D.3.9.1 CAS number: 135729565
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 0.25 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Chemotherapy Induced Nausea and Vomiting
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 9.1
+E.1.2 Level: LLT
+E.1.2 Classification code: 10054133
+E.1.2 Term: Prophylaxis of nausea and vomiting
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: The primary objectives of the study are to evaluate in the first qualifying chemotherapy treatment the efficacy of a single dose of a sustained release formulation of granisetron (APF530) in comparison to Aloxi® for the prevention of acute-onset and delayed-onset CINV in subjects currently undergoing moderately or highly emetogenic chemotherapy:
+1.	To test the non-inferiority of APF530 for the prevention of acute-onset CINV following administration of either moderately emetogenic or highly emetogenic chemotherapy in comparison to Aloxi®. 
+2.	To test the non-inferior efficacy of APF530 for the prevention of delayed-onset CINV following administration of moderately emetogenic chemotherapy in comparison to Aloxi®. 
+3.	To test the superior efficacy of APF530 for the prevention of delayed-onset CINV following administration of highly emetogenic chemotherapy in comparison to Aloxi®
+
+E.2.2 Secondary objectives of the trial: The secondary objectives are to evaluate the safety and tolerability, sustained efficacy, and pharmacokinetics of APF530 in subjects undergoing moderately or highly emetogenic chemotherapy over multiple qualifying chemotherapy  treatments:
+1.	To evaluate the safety and tolerability of APF530 for the prevention of acute-onset and delayed-onset CINV following administration of the first and subsequent chemotherapy treatments.
+2.	To evaluate the efficacy of APF530 for the prevention of acute-onset and delayed-onset CINV during multiple chemotherapy treatments.
+3.	To gather pharmacokinetic APF530 data in a subset of subjects undergoing moderately or highly emetogenic chemotherapy during the first study drug treatment. This substudy is not being conducted in Poland (or the Community) per Protocol Addendum #1 dated 2007/08/08.
+
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: Diagnosis and main criteria for inclusion and exclusion:
+Subject Population: Male or female subjects ≥ 18 years of age, with histologically or cytologically confirmed malignant disease, and scheduled to receive single-day  administrations of moderately or highly emetogenic chemotherapy (determined using the Hesketh algorithm).  Administration of chemotherapy should not extend beyond 4 hours excluding administration of monoclonal antibodies.  Chemotherapy administrations must be separated by at least 7 days but should not be more than 28(+3) days apart.  Study drug administrations cannot be more than 28(+ 3) days apart.  
+
+Inclusion:  Men and women 18 years of age or older who are scheduled to receive moderately emetogenic (Hesketh Level 3 and 4) or highly emetogenic (Hesketh Level 5) chemotherapy; have histologically or cytologically confirmed malignant disease; are able to receive the standardized doses of dexamethasone, as required by this protocol; have Eastern Cooperative Oncology Group (ECOG) performance status 0, 1, or 2; are willing and able to comply with all testing and requirements defined in this protocol; are willing and able to provide voluntary, written, informed consent to participate in this study, and the ability to fully understand the study requirements.  Eligible patients are not required to be chemotherapy naïve. Female subjects cannot be pregnant and must be adequately protected from conception for the duration of study.  It is recommended that females and female partners of male subjects remain adequately protected from conception for up to one year following study participation.
+
+
+E.4 Principal exclusion criteria: Exclusion:  Treatment with chemotherapeutic regimens which are mildly or unlikely to be emetogenic (Hesketh Level 1 and 2); allergy or hypersensitivity to 5-hydroxytryptamine type 3 (5-HT3) receptor antagonists or to local anesthetics; ECOG performance status of 3, 4 or 5; head and neck cancers that have compromised the brain vomiting and nausea centers, primary brain tumors and active/symptomatic brain metastases, or GI cancers with gastric or intestinal obstruction that may result in symptoms of nausea and vomiting; a psychological problem that, in the investigator’s opinion, is severe enough to preclude reliable study participation; recent history (within 1 year) of alcohol or drug abuse; greater than mild nausea or any vomiting within 24 hours prior to study drug administration; pregnancy (confirmed by serum or urine test) or breastfeeding; any concomitant condition that, in the opinion of the investigator, could affect assessment of the study drug or could interfere with the nausea/vomiting response, including severe renal or hepatic impairment; use of investigational drug within 30 days before study entry;  subjects with QTc interval > 500 msec or with a cardiac abnormality predisposing the subject to arrhythmia.
+
+E.5 End points
+E.5.1 Primary end point(s): The following efficacy measures will be evaluated daily during the first 5 days after administration of chemotherapy:
+
+Complete Response (CR):	No emetic episodes and no use of rescue medication.
+Complete Control (CC):	Complete response with no more than mild nausea.
+Total Response (TR):		No nausea, no emetic episodes, and no use of rescue medications.
+
+For the purposes of this trial, an emetic episode is a single vomit or retch or any number of continuous vomits or retches.  Continuous vomits or retches are defined as two or more vomits or retches with a gap of less than one minute between the individual vomits or retches.
+
+Diaries will be distributed to subjects to record emetic episodes, use of rescue medication, and severity of nausea experienced on a daily basis up to 120 hours following their chemotherapy, in up to 4 treatment cycles.
+
+Primary Endpoints
+
+Proportion of subjects with:
+1. 	CR during the acute phase (0 to 24 hours) following the administration of chemotherapy in Treatment Cycle 1.
+2. 	CR during the delayed-onset phase (24 to 120 hours) following the administration of chemotherapy in Treatment Cycle 1.  CR will be measured in 24-hour increments up to 120 hours.
+
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: Yes
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: Yes
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: No
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: Yes
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: Yes
+E.8.1.7.1 Other trial design description: 0.9% Sodium Chloride used in the study is for double dummy purposes to properly maintain the blind
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 10
+E.8.5 The trial involves multiple Member States: No
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: Provided in the protocol.
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 0
+E.8.9.1 In the Member State concerned months: 7
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 2
+E.8.9.2 In all countries concerned by the trial months: 6
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 400
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 400
+F.4.2.2 In the whole clinical trial: 1338
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): Treatment of subjects will be according to standard care when his/her particpation has ended in the trial.
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2008-01-02
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2008-11-19
+

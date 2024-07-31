@@ -1,0 +1,330 @@
+Summary
+EudraCT Number: 2007-004864-29
+Sponsor's Protocol Code Number: F3Z-EW-IOPJ
+National Competent Authority: UK - MHRA 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2008-02-15
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2007-004864-29/GB/
+
+A. Protocol Information
+A.1 Member State Concerned: UK - MHRA
+A.2 EudraCT number: 2007-004864-29
+A.3 Full title of the trial: A Prospective Randomized Trial to Compare Basal Bolus therapies that use either Insulin Lispro Protamine Suspension or Insulin Glargine together with Lispro Insulin in Patients with Type 2 Diabetes
+A.4.1 Sponsor's protocol code number: F3Z-EW-IOPJ
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Eli Lilly and Company Limited
+B.1.3.4	Country: United Kingdom
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Humalog NPL
+D.2.1.1.2 Name of the Marketing Authorisation holder: Eli Lilly Nederland B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Insulin Lispro Protamine suspension
+D.3.2 Product code: LY275585[P]
+D.3.4 Pharmaceutical form: Suspension for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: insulin lispro protamine suspension
+D.3.9.1 CAS number: 133107-64-9
+D.3.9.2 Current sponsor code: LY275585[P]
+D.3.10 Strength
+D.3.10.1 Concentration unit: IU/ml international unit(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 100 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Humalog
+D.2.1.1.2 Name of the Marketing Authorisation holder: Eli Lilly Nederland B.V.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Insulin Lispro 
+D.3.2 Product code: LY275585
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: insulin lispro
+D.3.9.1 CAS number: 133107-64-9
+D.3.9.2 Current sponsor code: LY275585
+D.3.10 Strength
+D.3.10.1 Concentration unit: IU/ml international unit(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 100 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Lantus
+D.2.1.1.2 Name of the Marketing Authorisation holder: Sanofi-Aventis Deutschland GmbH
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Insulin glargine
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: insulin glargine
+D.3.9.1 CAS number: 160337-95-1
+D.3.10 Strength
+D.3.10.1 Concentration unit: IU/ml international unit(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 100 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Type II diabetes mellitus
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 9.1
+E.1.2 Level: LLT
+E.1.2 Classification code: 10063624
+E.1.2 Term: Type II diabetes mellitus inadequate control
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To test the hypothesis that, in T2DM, a basal bolus regimen containing analog insulin lispro protamine suspension provides noninferior glycemic control to a basal bolus regimen containing analog insulin glargine, when these basal insulins are injected once daily together with insulin lispro injected 2-3 times daily.
+Glycemic control will be assessed by the change of HbA1c from baseline to 24 weeks,
+E.2.2 Secondary objectives of the trial: To compare the efficacy, safety of insulin lispro protamine suspension and glargine when used in a basal bolus regimen together with insulin Lispro in relation to:
+• Change in HbA1c at 12 weeks and at 24 weeks; 
+• percentage of patients with HbA1c <7.0% and HbA1c ≤6.5% at 24 weeks; 
+• 7-point self-monitored blood glucose (SMBG) profile at 24 weeks; 
+• glycemic variability at 24 weeks; 
+• to compare the safety of insulin lispro suspension and glargine when used in a basal bolus regimen together with insulin lispro in relation to:
+ o the incidence of self-reported hypoglycemic episodes 
+ o absolute body weight (kg) and incremental weight change from baseline to 24 weeks 
+ o treatment-emergent adverse events (TEAEs); 
+• to compare total daily insulin dose and number of injections at 24 weeks. 
+
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: Patients are eligible to be included in the study only if they meet all of the following criteria: 
+1. Have type 2 diabetes mellitus (T2DM; World Health Organization [WHO] classification, Protocol Attachment 2) for at least 1 year. 
+2. Are ≥18 years old. 
+3. Have been receiving oral antihyperglycemic medications (OAMs), with insulin, for at least 3 months immediately prior to the study and have been on stable doses of at least 2 of the following OAMs for the 6 weeks prior to Visit 1, at or above the doses defined in the following table:  
+Oral Antihyperglycemic Medication (OAM) 	 
+Minimum Dose 
+Metformin 	1500 mg/day 
+Sulfonylureas; 
+repaglinide; nateglinide; Dipeptidyl peptidase-IV (DPP-IV) inhibitors 	1/2 the maximum daily dose, according to the local package insert.  
+Thiazolidinediones (TZDs) 	30 mg/day pioglitazone or 4 mg/day rosiglitazone 
+
+The OAMs also must have been used in accordance with the product label.  (Note: Combination treatments of the OAMs listed above are acceptable if they meet the above criteria.  For example, Avandamet® [rosiglitazone maleate and metformin hydrochloride] would cover the categories of a thiazolidinedione (TZD) and metformin.)  
+4. Have a hemoglobin A1c (HbA1c) ≥7.5% and ≤11.0%, as measured by a central laboratory before Visit 2. 
+5. Body mass index (BMI) ≥25 and ≤45 kg/m2. 
+6. As determined by the investigator, are capable and willing to do the following: 
+• use the insulin injection device according to the instructions provided;  
+• perform self monitoring of blood glucose (SMBG);  
+• complete the study diary as required for this protocol; 
+• are receptive to diabetes education, including continuing their prestudy diet and activity levels, or following dietary advice recording as requested in the protocol; 
+• comply with the required study visits and willing to receive regular telephone calls between visits. 
+Have given written informed consent to participate in this study in accordance with local regulations.  
+E.4 Principal exclusion criteria: Patients will be excluded from the study if they meet any of the following criteria: 
+7. Have taken any glucose-lowering medications not included in Inclusion Criterion [3] (for example, acarbose, miglitol, pramlintide, exenatide) in the past 3 months before Visit 1.   
+8. Have had more than 1 episode of severe hypoglycemia, as defined in the Abbreviations and Definitions section of the protocol, within 6 months prior to entry into the study, or is currently diagnosed as having hypoglycemia unawareness.   
+9. Have had 2 or more emergency room visits or hospitalizations due to poor glucose control in the past 6 months. 
+10. Are pregnant or intend to become pregnant during the course of the study or are sexually active women of childbearing potential not actively practicing birth control by a method determined by the investigator to be medically acceptable.   
+11. Women who are breastfeeding.   
+12. Have cardiac disease with functional status that is Class III or IV (see Protocol Attachment.3);    
+13. Have a history of renal transplantation or are currently receiving renal dialysis or creatinine >2.0 mg/dL (177 µmol/L).   
+14. Have obvious clinical signs or symptoms, or laboratory evidence, of liver disease (alanine transaminase [ALT], or aspartate transaminase [AST] greater than 2 times the upper limit of the reference range, as defined by the local laboratory) or have albumin value above or below the normal reference range, as defined by the local laboratory.   
+15. Patients with a malignancy other than basal cell or squamous cell skin cancer who have not yet been treated, are currently being treated, or who were diagnosed less than 5 years ago.   
+16. Have 1 of the following concomitant diseases:  presence of clinically significant hematologic, oncologic, renal, cardiac, hepatic, or gastrointestinal disease or any other serious disease considered by the investigator to be exclusionary.   
+17. Have known hypersensitivity or allergy to any of the study insulins or their excipients.   
+18. Have had a blood transfusion or severe blood loss within 3 months prior to Visit 1 or have known hemoglobinopathy, hemolytic anemia, or sickle cell anemia, or any other traits of hemoglobin abnormalities known to interfere with the HbA1c methodology. 
+19. Are receiving chronic (lasting longer than 14 consecutive days) systemic glucocorticoid therapy (excluding topical, intra-articular, intraocular, and inhaled preparations) or have received such therapy within the 4 weeks immediately preceding Visit 1.   
+20. Have an irregular sleep/wake cycle (for example, patients who sleep during the day and work during the night), in the investigator’s opinion.   
+21. Have any other condition (including known drug or alcohol abuse or psychiatric disorder) that precludes the patient from following and completing the protocol, according to the investigator’s judgment.  
+22. Have received treatment within the last 30 days with a drug that has not received regulatory approval for any indication at the time of study entry. 
+23. Are investigator site personnel directly affiliated with this study and/or their immediate families.  Immediate family is defined as a spouse, parent, child, or sibling, whether biological or legally adopted.   
+24. Are Lilly employees.   
+25. Have previously completed or withdrawn from this study after having signed the informed consent document.
+
+E.5 End points
+E.5.1 Primary end point(s): 
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): Yes
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 5
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 45
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 1
+E.8.9.1 In the Member State concerned months: 6
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial years: 1
+E.8.9.2 In all countries concerned by the trial months: 6
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 40
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 330
+F.4.2.2 In the whole clinical trial: 380
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): Treatment after the subject has ended his/her participation in the trial will be determined by the treating physician according to the need of the patient.
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2008-03-13
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2008-10-21
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2010-02-25
+

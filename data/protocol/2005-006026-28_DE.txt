@@ -1,0 +1,314 @@
+Summary
+EudraCT Number: 2005-006026-28
+Sponsor's Protocol Code Number: A3481066
+National Competent Authority: Germany - BfArM 
+Clinical Trial Type: EEA CTA
+Trial Status: Prematurely Ended
+Date on which this record was first entered in the EudraCT database: 2006-06-07
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2005-006026-28/DE/
+
+A. Protocol Information
+A.1 Member State Concerned: Germany - BfArM
+A.2 EudraCT number: 2005-006026-28
+A.3 Full title of the trial: Randomized, Double-Blind Study of the morphine-sparing efficacy and safety of Parecoxib sodium 40 mg i.v. followed by 20 mg i.v. every 12 hours in the treatment of pain following radical prostatectomy
+A.4.1 Sponsor's protocol code number: A3481066
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Pfizer Pharma GmbH
+B.1.3.4	Country: Germany
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Dynastat 20 mg
+D.2.1.1.2 Name of the Marketing Authorisation holder: Pfizer Limited
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.2 Product code: Parecoxib
+D.3.4 Pharmaceutical form: Powder for injection*
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Parecoxib sodium
+D.3.9.1 CAS number: 197502-82-2
+D.3.9.2 Current sponsor code: Parecoxib sodium
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 20 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Dynastat 40 mg
+D.2.1.1.2 Name of the Marketing Authorisation holder: Pfizer Limited
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.2 Product code: Parecoxib
+D.3.4 Pharmaceutical form: Powder for injection*
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Parecoxib sodium
+D.3.9.1 CAS number: 197502-82-2
+D.3.9.2 Current sponsor code: Parecoxib sodium
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 40 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Dynastat 40 mg
+D.2.1.1.2 Name of the Marketing Authorisation holder: Pfizer Limited
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Powder and solvent for solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Parecoxib (as parecoxib sodium)
+D.3.9.1 CAS number: 197502-82-2
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 40 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+D.8 Placebo: 1
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Solution for injection
+D.8.4 Route of administration of the placebo: Intravenous use
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Patients who are scheduled to undergo routine radical prostatectomy performed under a standardized regimen of general anesthesia, and who are expected to experience moderate to severe postsurgical pain in the absence of postoperative analgesia.
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 8.1
+E.1.2 Level: LLT
+E.1.2 Classification code: 10054711
+E.1.2 Term: Postoperative pain
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: The primary objective of this study is to demonstrate the opioid-sparing efficacy of parecoxib 40 mg i.v. given as a loading dose followed by 20 mg i.v. in the 24 hours after the end of surgery.
+E.2.2 Secondary objectives of the trial: The secondary objective is to evaluate the overall safety and efficacy of multiple doses of parecoxib following radical prostatectomy. In particular, we evaluate if administration of multiple doses of parecoxib is associated with an increased blood loss.
+E.2.3 Trial contains a sub-study: Yes
+E.2.3.1 Full title, date and version of each sub-study and their related objectives: Title: Platelet function under placebo and parecoxib
+Date: 30 Oct 2006; Final Version
+Objectives: The objective of this sub-study is to investigate the thromboxane B2 (TxB2-)-formation, the platelet aggregation in response to arachidonic acid and collagen, and the formation of the endogenous thrombin potential (ETP) of patients that underwent prostatectomy and postoperative pain management according to protocol A3481066. The aim is to compare the effects of pain management with parecoxib treated patients with the effects of placebo treated patients. 
+Parameters will be assessed at the following time points: pre-dose (0h), 2h post-dose, 6 h post-dose and 24 h post-dose.
+
+E.3 Principal inclusion criteria: 1. The subject is at least 18 years of age or older. The patient is scheduled to undergo routine radical prostatectomy performed under a standardized regimen of general anesthesia, and is expected to experience moderate to severe postsurgical pain in the absence of postoperative analgesia.
+2. Independent of this trial, the patient is planned to receive standard PCA morphine for postoperative analgesia.
+3. The patient’s ASA physical status is 1 or 2 and he has a low risk (i.e., < 10 %) of developing an acute coronary event within the next 10 years according to the PROCAM risk assessment calculator.  
+4. The patient is in satisfactory health condition as determined by the investigator on the basis of medical history and physical examination.
+5. The subject has provided written informed consent prior to any study specific test or procedure being performed, or medication being changed, for this study.
+6. The patient is willing and able to comply with scheduled visits, treatment plan, laboratory tests, and other study procedures.
+
+E.4 Principal exclusion criteria: 1. The patient has a history of uncontrolled chronic disease or a concurrent clinically significant illness or medical condition such as a diagnosed chronic pain condition, which, in the Investigator’s opinion, would contraindicate study participation or confound interpretation of the results.
+2. The patient has any cognitive impairment that would, in the Investigator’s opinion, preclude study participation or compliance with protocol mandated procedures.
+3. The patient has active or suspected esophageal, gastric, pyloric channel, or duodenal ulceration or bleeding within 60 days prior to receiving the first dose of study medication.
+4. The patient has used antidepressants (including MAO-Inhibitors), hypnotics, (narcotic) analgesics, NSAIDs, other coxibs, antihistamines, anxiolytics, sedatives, corticosteroids (inhaled corticosteroids are allowed), opioids or other similar agents during the 24 hours preceding surgery, with the exception of routine pre-operative anxiolytic medication. Long acting NSAIDs (e.g., oxaprozin, piroxicam), acetylsalicylic acid or clopidogrel and other anti-platelet drugs should be stopped 7 days before the first dose of study medication. This includes over-the-counter and prescription medication.
+5. The patient has a long-term treatment with anticoagulants, e.g. warfarin, phenprocoumon.
+6. The patient has a history of alcohol, analgesic or narcotic abuse.
+7. The patient has a known hypersensitivity to NSAIDs, coxibs, analgesics, or sulfonamides, or a history of previous serious allergic drug reactions of any type, especially cutaneous reactions such as Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme.
+8. The patient is considered to be clinically significantly volume-depleted, in the opinion of the investigator.
+9. The patient has any known laboratory abnormality which, in the opinion of the Investigator, would contraindicate study participation, including AST (SGOT) or ALT (SGPT) > 1.5 times the upper limit of the reference range, or creatinine greater than 1.5 times the upper limit of the reference range.
+10. The patient has inflammatory bowel disease (e.g. Crohn’s disease or ulcerative colitis), a chronic or acute renal or hepatic disorder (serum albumin < 25 g / l or Child Pugh score ³ 10), a significant coagulation defect, or any condition which, in the Investigator’s opinion, might preclude the use of an NSAID.
+11. The patient has a history or current presence of congestive heart failure (NYHA II-IV), established ischaemic heart disease, peripheral arterial disease and / or cerebrovascular disease. 
+12. The patient has a history of coronary artery bypass graft (CABG) procedures.
+13. The patient has a history or current presence of asthma or bronchospasm which require treatment with glucocorticoids (inhaled glucocorticoids are allowed). Patients who have experienced bronchospasm, acute rhinitis, nasal polyps, angioneurotic oedema, urticaria or other allergic-type reactions after taking acetylsalicylic acid, NSAIDs or coxibs. 
+14. The patient has a history of intolerance to opioids or has other contraindications for the planned standard PCA morphine therapy.
+15. The patient has contraindications according to the local prescribing information of Parecoxib.
+16. The patient has received any investigational medication within 30 days prior to administration of study medication or is scheduled to receive an investigational drug other than parecoxib during the course of this study.
+17. The patient has been previously admitted to this study.
+18. The patient has any other severe, acute, or chronic medical or psychiatric condition or laboratory abnormality that may increase the risk associated with study participation or study drug administration or may interfere with the interpretation of study results and, in the judgement of the investigator, would make the subject inappropriate for entry into this study.
+19. The patient has severe intraoperative complications resulting in intensive care unit (ICU) admission and mechanical ventilation to be expected for longer than 12 h.
+20. The patient has severe intraoperative bleedings defined as receiving at least 5 units of RBCs during surgery until skin closure.
+21. The patient has an operative time of 4 h or more duration.
+22. Last dose of fentanyl was administered within 30 min before the end of surgery.
+
+E.5 End points
+E.5.1 Primary end point(s): The total cumulative amount of morphine administered (PCA and bolus / mg) in the 24 hours after the end of surgery (i.e., application of the last surgical stitch) is the primary endpoint.
+
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: Yes
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): Yes
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: No
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: Yes
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: Yes
+E.8.2.3 Other: No
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 4
+E.8.5 The trial involves multiple Member States: No
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: Yes
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: This trial will be conducted in Germany only. End of Trial is defined as Last Subject Last Visit.
+Premature termination of this clinical trial may occur because of a regulatory authority decision, change in opinion of the IRB/IEC, drug safety problems, or at the discretion of Pfizer.  In addition, Pfizer retains the right to discontinue development of Parecxoib sodium at any time.
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 0
+E.8.9.1 In the Member State concerned months: 18
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 0
+E.8.9.2 In all countries concerned by the trial months: 0
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: No
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: No
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: No
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 152
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 152
+F.4.2.2 In the whole clinical trial: 152
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): In this study we investigate a treatment for the short-term management of postoperative pain. The patients receive a total of 5 doses of the study medication over the 48 hour period following the end of surgery. Patients requiring further analgesia in addition to the standard PCA or bolus morphine and the study medication will be withdrawn from the study after the visit 7 (= 48 h) assessment. Outside the study Parecoxib Sodium is available on prescription.
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2006-09-15
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2006-09-25
+
+P. End of Trial
+P. End of Trial Status: Prematurely Ended
+P. Date of the global end of the trial: 2010-09-24
+

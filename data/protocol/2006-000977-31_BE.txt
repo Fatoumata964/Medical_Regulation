@@ -1,0 +1,418 @@
+Summary
+EudraCT Number: 2006-000977-31
+Sponsor's Protocol Code Number: NV25361
+National Competent Authority: Belgium - FPS Health-DGM 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2015-10-01
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2006-000977-31/BE/
+
+A. Protocol Information
+A.1 Member State Concerned: Belgium - FPS Health-DGM
+A.2 EudraCT number: 2006-000977-31
+A.3 Full title of the trial: PHASE IIIB, RANDOMIZED, OPEN LABEL STUDY OF PEGYLATED INTERFERON ALFA-2A IN COMBINATION WITH LAMIVUDINE OR ENTECAVIR COMPARED WITH UNTREATED CONTROL PATIENTS IN CHILDREN WITH HBEAG POSITIVE CHRONIC HEPATITIS B IN THE IMMUNE TOLERANT PHASE
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language: A Study of Pegasys in Combination with antiviral HBV oral Lamivudine or entecavir compared against no treatment in Children Positive but
+tolerant to Chronic Hepatitis B.
+A.4.1 Sponsor's protocol code number: NV25361
+A.7 Trial is part of a Paediatric Investigation Plan: Yes
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: F. Hoffmann-La Roche Ltd
+B.1.3.4	Country: Switzerland
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support: F. Hoffmann La Roche Ltd.
+B.4.2 Country: Switzerland
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: F. Hoffmann-La Roche Ltd
+B.5.2 Functional name of contact point: Trial Information Support Line-TISL
+B.5.3 Address
+B.5.3.1 Street Address: Grenzacherstrasse 124
+B.5.3.2 Town/ city: Basel
+B.5.3.3 Post code: 4070
+B.5.3.4 Country: Switzerland
+B.5.6 E-mail: global.rochegenentechtrials@roche.com
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Pegasys
+D.2.1.1.2 Name of the Marketing Authorisation holder: Roche Registration Ltd
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Pegasys
+D.3.2 Product code: RO025-8310
+D.3.4 Pharmaceutical form: Injection
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: PEGINTERFERON ALFA 2A
+D.3.9.1 CAS number: 76543-88-9
+D.3.9.2 Current sponsor code: RO025-8310/J13
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg/ml microgram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 180 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Yes
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: Yes
+D.3.11.13.1 Other medicinal product type: Immunostimulating agent/cytokine
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Epivir
+D.2.1.1.2 Name of the Marketing Authorisation holder: ViiV Healthcare UK Ltd.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Epivir- Lamivudine
+D.3.4 Pharmaceutical form: Oral solution
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: LAMIVUDINE
+D.3.9.1 CAS number: 134678-17-4
+D.3.9.4 EV Substance Code: SUB08392MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 10 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Lamivudine
+D.2.1.1.2 Name of the Marketing Authorisation holder: TEVA Pharma B.V
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Lamivudine
+D.3.4 Pharmaceutical form: Film-coated tablet
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: LAMIVUDINE
+D.3.9.1 CAS number: 134678-17-4
+D.3.9.4 EV Substance Code: SUB08392MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 100 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 4
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Baraclude
+D.2.1.1.2 Name of the Marketing Authorisation holder: BRISTOL-MYERS SQUIBB PHARMA EEIG
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Baraclude
+D.3.4 Pharmaceutical form: Oral solution
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: ENTECAVIR
+D.3.9.1 CAS number: 209216-23-9
+D.3.9.4 EV Substance Code: SUB21468
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 0.05 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 5
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Baraclude
+D.2.1.1.2 Name of the Marketing Authorisation holder: BRISTOL-MYERS SQUIBB PHARMA EEIG
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Baraclude
+D.3.4 Pharmaceutical form: Film-coated tablet
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: ENTECAVIR
+D.3.9.1 CAS number: 209216-23-9
+D.3.9.4 EV Substance Code: SUB21468
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 0.5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Chronic Hepatitis B Virus infection
+E.1.1.1 Medical condition in easily understood language: Chronic Hepatitis B  in immune-tolerant phase with high levels of hepatitis B virus in the blood and low (if any) liver damage
+E.1.1.2 Therapeutic area: Diseases [C] - Virus Diseases [C02]
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 20.0
+E.1.2 Level: LLT
+E.1.2 Classification code: 10019743
+E.1.2 Term: Hepatitis B virus (HBV)
+E.1.2 System Organ Class: 100000004848
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To evaluate the efficacy of Pegasys® + lamivudine or entecavir compared with an untreated control in children with CHB, as measured by loss of HBsAg 24 weeks post-end of treatment/end of untreated observation.
+E.2.2 Secondary objectives of the trial: •To evaluate efficacy of Pegasys® + lamivudine or entecavir compared with an untreated control in children with CHB, as measured by seroconversion to anti-HBs, seroconversion to anti-HBe, loss of HBeAg, and HBV DNA levels, at 24 weeks post-end of treatment/end of untreated observation.
+•To evaluate efficacy of Pegasys® + lamivudine or entecavir in children with CHB, as measured by seroconversion to anti-HBs, seroconversion to anti-HBe, loss of HBsAg, loss of HBeAg, HBV DNA levels at 1 year post-end of treatment.
+
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: • Male and female patients 3 to less than 18 years of age at baseline (12< 18 years of age at baseline in Russia and India)
+• Positive for HBsAg and HBeAg for more than 6 months prior to baseline
+• Detectable HBV-DNA (> 20,000 IU/mL as measured by PCR or hybridization) on at least 2 occasions at least one month apart with the latest determination obtained ≤ 42 days prior to baseline.
+
+E.4 Principal exclusion criteria: Patients who have had any previous anti-HBV treatment, or who are co-infected with hepatitis A virus (HAV), HCV, hepatitis D virus (HDV) or HIV, or who have decompensated liver disease will beexcluded. 
+
+E.5 End points
+E.5.1 Primary end point(s): Loss of HBsAg at 24 weeks post-end of treatment (follow-up Week 24)/end of untreated observation (Week 80).
+E.5.1.1 Timepoint(s) of evaluation of this end point: At 24 weeks post-end of treatment (follow-up Week 24)/end of untreated observation (Week 80)
+E.5.2 Secondary end point(s): The secondary efficacy endpoints for this study at 24 weeks post−end of treatment/end of untreated observation are as follows:
+1 Seroconversion to anti-HBs (loss of HBsAg and presence of anti-HBs)
+2 Seroconversion to anti-HBe (loss of HBeAg and presence of anti-HBe)
+3 Loss of HBeAg
+4 HBV DNA < 20,000 IU/mL, 2000 IU/mL , undetectable and change from baseline (by PCR or hybridization)
+5 Combined endpoints: HBeAg seroconversion and HBV DNA < 20,000 IU/mL
+6 Combined endpoints: HBeAg seroconversion and HBV DNA < 2000 IU/mL
+
+At 1 year post-treatment:
+7 Seroconversion to anti-HBs (loss of HBsAg and presence of anti-HBs)
+8 Seroconversion to anti-HBe (loss of HBeAg and presence of anti-HBe)
+9 Loss of HBsAg and HBeAg
+10 HBV DNA < 20,000 IU/mL,  < 2000 IU/mL, undetectable and change from baseline (by PCR or hybridization)
+11 Combined endpoints: HBeAg seroconversion and HBV DNA  < 20,000 IU/mL
+12 Combined endpoints: HBeAg seroconversion and HBV DNA  < 2000 IU/mL
+E.5.2.1 Timepoint(s) of evaluation of this end point: 1-6. At 24 weeks post−end of treatment/end of untreated observation
+7-12. At 1 year post−treatment
+
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: Yes
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: No
+E.8.2.3 Other: Yes
+E.8.2.3.1 Comparator description: No treatment
+E.8.2.4 Number of treatment arms in the trial: 2
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 10
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: No
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+Australia
+Belgium
+Germany
+Italy
+Malaysia
+Romania
+Russian Federation
+Taiwan
+Turkey
+Ukraine
+United Kingdom
+United States
+E.8.7 Trial has a data monitoring committee: Yes
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: The end of the study is defined as the date when the last patient, last visit (LPLV) for the final analysis occurs. LPLV for final analysis at 1 year after the end of treatment is expected to occur approximately 2 years and 2 months after the last patient is enrolled.
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 7
+E.8.9.1 In the Member State concerned months: 0
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 7
+E.8.9.2 In all countries concerned by the trial months: 0
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: Yes
+F.1.1 Number of subjects for this age range: 114
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): Yes
+F.1.1.5.1 Number of subjects for this age range: 57
+F.1.1.6 Adolescents (12-17 years): Yes
+F.1.1.6.1 Number of subjects for this age range: 57
+F.1.2 Adults (18-64 years): No
+F.1.3 Elderly (>=65 years): No
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: Yes
+F.3.3.6.1 Details of subjects incapable of giving consent: Children from ages 3 to 17
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 57
+F.4.2.2 In the whole clinical trial: 114
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): The Sponsor does not have any plans to provide the Roche IMP Pegasys® or any other study treatments or interventions to patients who have completed the study
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2015-10-29
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2015-11-02
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2020-01-29
+
