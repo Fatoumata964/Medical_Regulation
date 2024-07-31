@@ -1,0 +1,339 @@
+Summary
+EudraCT Number: 2004-001258-94
+Sponsor's Protocol Code Number: A2171018
+National Competent Authority: Germany - BfArM 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2004-10-19
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2004-001258-94/DE/
+
+A. Protocol Information
+A.1 Member State Concerned: Germany - BfArM
+A.2 EudraCT number: 2004-001258-94
+A.3 Full title of the trial: One Year, Open-Label Outpatient, Parallel Group Trial Assessing the Impact of the Availability of Inhaled Insulin (Exubera®) on Glycemic Control in Patients with Type 2 Diabetes Mellitus Who Are Poorly Controlled on a Minimum of Two Oral Anti Diabetic Agents.
+A.3.2 Name or abbreviated title of the trial where available: N/A
+A.4.1 Sponsor's protocol code number: A2171018
+A.5.1 ISRCTN (International Standard Randomised Controlled Trial) number: N/A
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Pfizer Pharma GmbH
+B.1.3.4	Country: Germany
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Exubera 1 mg
+D.2.1.1.2 Name of the Marketing Authorisation holder: Pfier Limited
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Exubera (inhaled insulin)
+D.3.2 Product code: CP-464005
+D.3.4 Pharmaceutical form: Inhalation powder, pre-dispensed
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Insulin human
+D.3.9.2 Current sponsor code: CP-464005
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 1  
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Exubera 3 mg
+D.2.1.1.2 Name of the Marketing Authorisation holder: Pfizer Limited
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Exubera (inhaled insulin)
+D.3.2 Product code: CP-464005
+D.3.4 Pharmaceutical form: Inhalation powder, pre-dispensed
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Inhalation use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Insulin human
+D.3.9.2 Current sponsor code: CP-464005
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 3 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Type 2 diabetes mellitus
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 7
+E.1.2 Level: LLT
+E.1.2 Classification code: 10012601
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To demonstrate that mean reduction in HbA1c after 26 weeks (approx. 6 months) is greater in patients to whom inhaled insulin is made available compared to patients to whom it is not.
+E.2.2 Secondary objectives of the trial: Secondary endpoints which will be assessed at endpoint (12 months) and at week 26 (approx. 6 months) as part of an interim analysis:  
+·  HbA1c at week 52, ITT population
+·  Proportion of patients achieving glycemic control (HbA1c ≤ 6.5%, ≤ 7.0%) 
+·  The time it takes to get to “be treated with” insulin (inhaled or SC)
+·  Change from baseline in fasting plasma glucose level
+·  Incidence and severity of hypoglycemia
+·  Change from baseline in body weight and body mass index
+·  Change from baseline in fasting lipid profile 
+·  Treatment categories: Inhaled insulin, SC insulin, changed oral agents, no change in treatment choice.
+·  Number of patients who discontinue due to insufficient clinical response 
+·  Pulmonary function
+·  Insulin antibody titers
+·  Incidence of clinical adverse events
+·  Pharmaco-economic impact
+
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: Male and female patients meeting all criteria listed below will be included in the study:
+
+1. Age ≥ 35 years and ≤ 80 years with a diagnosis of type 2 diabetes made ≥ 6 months prior to study entry, as defined by the American Diabetes Association (Diabetes Care 25:S5-S20, 2002).
+
+2. HbA1c ≥ 8.0% at screening.
+
+3. Body Mass Index (BMI) ≥23 kg/m2 and ≤ 40 kg/m2 (See BMI Table Appendix E).
+
+4. Patients must have documentation of a fully dilated ophthalmologic exam 
+performed within 1 year of screening in accordance with local guidelines. The documentation must be obtained prior to randomization. This information is of importance e.g., in case proliferative retinopathy is diagnosed while aggressive glucose lowering is considered in the study. 
+
+5. Currently treated and on a stable dose of at least two oral hypoglycemic agents for at least 3 months prior study entry with at least half maximum dose per country guidelines or half maximum tolerable dose. 
+
+6. Written informed consent obtained PRIOR to performing screening evaluations.
+
+E.4 Principal exclusion criteria: 1. Type 1 diabetes 
+
+2. Known allergy to insulin 
+
+3. Smoking: current or any in the past 6 months; smoking is not permitted at any time during the study
+
+4. Current treatment with insulin or discontinued from insulin within the past three months
+
+5. “Brittle” diabetes or a predisposition to severe hypoglycemia. Severe hypoglycemia is defined in Section 10.11.2. of the protocol.
+
+6. Metabolic Conditions:
+a) Significant hypoglycemia risk 
+b) Current chronic inhaled or systemic corticosteroid treatment likely to be of metabolic effect 
+
+7. Active Liver disease
+
+8. Pulmonary Conditions:
+a) Frankly abnormal PFTs at Week –1, defined as DLco >120% or <70%; TLC >130% or <70%; or FVC or FEV1 <70% of predicted.
+b) Clinically significant abnormalities on screening chest X-ray (or chest MRI). Subjects with radiographically stable and clinically insignificant abnormalities need not be excluded. Documentation of stability requires comparison with previous radiographs obtained at least 6 months earlier.   
+c) Significant pulmonary diseases 
+
+9. Cardiovascular conditions:
+a) Significant cardiovascular dysfunction and/or history including hospitalization within the preceding six months.
+b) Poorly-controlled hypertension (systolic blood pressure > 180 mmHg, diastolic blood pressure > 110 mmHg) on two readings (sitting).
+c) Abnormal screening ECG: 
+   i)   predominant rhythm other than normal sinus
+   ii)  A-V block greater than first degree 
+   iii) resting heart rate > 100 or < 50 bpm  
+The principal investigator, or other designated physician at each site, will be responsible for deciding the clinical significance of any abnormal ECG findings.
+
+10. Kidney disease: 
+a) History of renal transplantation or current renal dialysis
+b) Clinical nephrotic syndrome, or significant renal dysfunction or disease based on estimated creatinine clearance < 65 mL/min (25), and/or a serum creatinine greater or equal to 1.5 mg/dl (133 µmol/L) in males and greater or equal to 1.4 mg/dl (124 µmol/L) in females and /or BUN >50 mg/dl, whichever is worse.  
+
+11. Psychological 
+a) History of substance abuse or alcoholism within the past 5 years 
+b) Psychiatric disorders that would interfere with the patient’s ability to complete the study 
+
+12. Neurological 
+a) Seizure disorder 
+b) Significant gastroparesis or orthostatic hypotension (autonomic neuropathy)
+
+13. Any current malignancy except:
+a) those ≥ 5 years ago without recurrence 
+b) excised basalioma or squamous cell cancer
+
+14. Clinically significant abnormalities on screening laboratory evaluation
+
+15. Clinically significant major organ system disease 
+
+16. Patients with circumstances or abnormalities (e.g., blindness or a history of non-compliance) that would interfere with the interpretation of safety or efficacy data or the completion of the study
+
+17. Unable and/or unlikely to comprehend and/or follow the study protocol (including blood glucose monitoring) and complete Patient Reported Outcomes questionnaire. Unable and/or unlikely to comprehend how to use the inhaler device or inability to use the inhaler device
+
+18. Failure to adhere to protocol requirements during the run-in period
+
+19. Pregnant or intent to become pregnant OR BREASTFEEDING during study or absence of adequate birth control measures
+
+20. Inpatient surgery anticipated during the study period
+
+21. Known interference with HbA1c determination: hemoglobinopathy or chronic anemia 
+
+22. Investigator or immediate family 
+
+23. Donation of blood or blood products for transfusion during the 30 days prior to initiation of treatment with study drug (if applicable), at any time during the study or 30 days after completion of the study
+
+24. Participation in any other studies involving investigational or marketed products within the two (2) months prior to entry in the study
+
+25. Participation in any prior Inhaled insulin or other inhaled insulin clinical trials, including participation in the “Real World Feasibility Study” (A2170003), excludes patients from entry into this study
+
+
+
+
+E.5 End points
+E.5.1 Primary end point(s): The primary objective of this study is to demonstrate that mean the reduction in HbA1c after 26 weeks (approx. 6 months) of treatment is greater in patients to whom inhaled insulin is made available compared to patients to whom it is not. Thus, the primary efficacy variable is the difference in HbA1c between baseline (Week -2) and the end of the treatment period at week 52, in the intention-to-treat (ITT) population
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: Yes
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: Yes
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): Information not present in EudraCT
+E.7.1.1 First administration to humans: Information not present in EudraCT
+E.7.1.2 Bioequivalence study: Information not present in EudraCT
+E.7.1.3 Other: Information not present in EudraCT
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): Information not present in EudraCT
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): Information not present in EudraCT
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: Information not present in EudraCT
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Information not present in EudraCT
+E.8.2.2 Placebo: Information not present in EudraCT
+E.8.2.3 Other: Information not present in EudraCT
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 38
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 105
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 
+E.8.9.1 In the Member State concerned months: 12
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial months: 24
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: Information not present in EudraCT
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): Information not present in EudraCT
+F.1.1.3 Newborns (0-27 days): Information not present in EudraCT
+F.1.1.4 Infants and toddlers (28 days-23 months): Information not present in EudraCT
+F.1.1.5 Children (2-11years): Information not present in EudraCT
+F.1.1.6 Adolescents (12-17 years): Information not present in EudraCT
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception  
+(For clinical trials recorded in the database before the 10th March 2011 this question read: "Women of childbearing potential" and
+did not include the words "not using contraception". An answer of yes could have included women of child bearing potential whether
+or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
+database on 2004-10-19) : Yes
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 200
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 400
+F.4.2.2 In the whole clinical trial: 648
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2004-12-06
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2005-12-23
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2007-05-11
+

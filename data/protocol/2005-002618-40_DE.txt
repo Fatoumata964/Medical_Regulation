@@ -1,0 +1,653 @@
+Summary
+EudraCT Number: 2005-002618-40
+Sponsor's Protocol Code Number: HIT-REZ-2005
+National Competent Authority: Germany - BfArM 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2006-01-09
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2005-002618-40/DE/
+
+A. Protocol Information
+A.1 Member State Concerned: Germany - BfArM
+A.2 EudraCT number: 2005-002618-40
+A.3 Full title of the trial: HIT-REZ 2005 - A multicentre clinical trial and phase II study for the treatment of refractory and relapsed primitive neuroectodermal tumours (medulloblastomas, supratentorial PNETs) and ependymomas in children and adolescents
+Parts of the study:P-HIT-REZ 2005 - a non-randomised trial for the treatment of relapsed PNETs, E-HIT-REZ 2005: Phase II study: oral therapy with temozolomide - a nonrandomised trial for the treatment of relapsed ependymomas, Phase II study - intraventricular therapy with etoposide in neoplastic meningitis
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language: HIT-REZ 2005 - A multicentre clinical trial for relapses of malignant brain tumours in children and adolescents
+A.3.2 Name or abbreviated title of the trial where available: HIT-REZ-2005
+A.4.1 Sponsor's protocol code number: HIT-REZ-2005
+A.5.2 US NCT (ClinicalTrials.gov registry) number: NCT00749723
+A.7 Trial is part of a Paediatric Investigation Plan: No
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Rheinische Friedrich-Wilhelms-University of Bonn, University Hospital
+B.1.3.4	Country: Germany
+B.3.1 and B.3.2	Status of the sponsor: Non-Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support: German Children's Cancer Foundation
+B.4.2 Country: Germany
+B.4.1 Name of organisation providing support: TEVA Deutschland
+B.4.2 Country: Germany
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: University Hospital Essen, Pediatrics III
+B.5.2 Functional name of contact point: Dept. of Ped. Hematology/Oncology
+B.5.3 Address
+B.5.3.1 Street Address: Hufelandstrasse 55
+B.5.3.2 Town/ city: Essen
+B.5.3.3 Post code: 45122
+B.5.3.4 Country: Germany
+B.5.4 Telephone number: 4920172384667
+B.5.5 Fax number: 492017235305
+B.5.6 E-mail: gudrun.fleischhack@uk-essen.de
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: ETO-GRY
+D.2.1.1.2 Name of the Marketing Authorisation holder: TEVA Deutschland
+D.2.1.2 Country which granted the Marketing Authorisation: Germany
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Etoposide
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intraventricular use (Noncurrent)
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Etoposide
+D.3.9.1 CAS number: 33419-42-0
+D.3.9.3 Other descriptive name: Etoposide
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 20 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Etoposide
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Etoposide
+D.3.9.1 CAS number: 33419-42-0
+D.3.9.3 Other descriptive name: Etoposide
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 20 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Etoposide
+D.3.4 Pharmaceutical form: Capsule
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Etoposide
+D.3.9.1 CAS number: 33419-42-0
+D.3.9.3 Other descriptive name: Etoposide
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: range
+D.3.10.3 Concentration number: 25 to 100
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 4
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Carboplatin
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Carboplatin
+D.3.9.1 CAS number: 41575-94-4
+D.3.9.3 Other descriptive name: Carboplatin
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 10 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 5
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Ixoten
+D.2.1.1.2 Name of the Marketing Authorisation holder: Baxter Oncology GmbH
+D.2.1.2 Country which granted the Marketing Authorisation: Germany
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Ixoten
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intratracheal use (Noncurrent)
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: TROFOSFAMIDE
+D.3.9.1 CAS number: 22089-22-1
+D.3.9.3 Other descriptive name: trofosfamide
+D.3.9.4 EV Substance Code: SUB11331MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 50 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 6
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Temozolomide
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Temozolomide
+D.3.9.1 CAS number: 85622-93-1
+D.3.9.3 Other descriptive name: Temozolomide
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: range
+D.3.10.3 Concentration number: 5 to 250
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 7
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temodal intravenös
+D.2.1.1.2 Name of the Marketing Authorisation holder: Merck Sharp & Dohme Limited
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Temodal intravenös
+D.3.4 Pharmaceutical form: Powder and solvent for concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: TEMOZOLOMIDE
+D.3.9.1 CAS number: 85622-93-1
+D.3.9.3 Other descriptive name: temozolomide
+D.3.9.4 EV Substance Code: SUB10889MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 2.5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 8
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Tepadina 15 mg
+D.2.1.1.2 Name of the Marketing Authorisation holder: ADIENNE S.r.l.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Tepadina 15 mg 
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Thiotepa
+D.3.9.1 CAS number: 52-24-4
+D.3.9.3 Other descriptive name: Thiotepa
+D.3.9.4 EV Substance Code: SUB10985MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 10 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 9
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Tepadina 100 mg
+D.2.1.1.2 Name of the Marketing Authorisation holder: ADIENNE S.r.l.
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Tepadina 100 mg 
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: THIOTEPA
+D.3.9.1 CAS number: 52-24-4
+D.3.9.3 Other descriptive name: thiotepa
+D.3.9.4 EV Substance Code: SUB10985MIG
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 10 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: P-HIT-REZ 2005 study: 
+Refractory and relapsed primitive neuroectodermal brain tumours (medulloblastomas, supratentorial PNETs)
+
+E-HIT-REZ 2005 study (Phase II Study "Oral therapy with temozolomide"): Refractory and relapsed ependymomas (WHO° II and III)
+
+Phase II Study “Intraventricular therapy with etoposide”: Refractory and relapsed primitive neuroectodermal brain tumours (medulloblastomas, supratentorial PNETs) and ependymomas (WHO° II and III) with neoplastic meningitis
+
+E.1.1.1 Medical condition in easily understood language: Relapses of malignant brain tumours in children and adolescents
+E.1.1.2 Therapeutic area: Diseases [C] - Nervous System Diseases [C10]
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 15.0
+E.1.2 Level: HLGT
+E.1.2 Classification code: 10029211
+E.1.2 Term: Nervous system neoplasms malignant and unspecified NEC
+E.1.2 System Organ Class: 10029104 - Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+E.1.3 Condition being studied is a rare disease: Yes
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: P-HIT-REZ 2005 study:
+Following the 2nd amendment of this study the recruitment of patients in both chemotherapy-arms (iv: carboplatin/etoposide; oral: temozolomide) and documentation-arm will be ongoing without randomisation.
+Due to these changes the primary end point of the study, the progression-free survival after randomisation, can not be evaluated.
+Explorative analysis of PFS will be performed as secondary endpoints.
+
+E-HIT-REZ 2005 study (Phase II Study "Oral chemotherapy with temozolomide"): 
+Evaluation of response rate (response rate: CR+PR+SD/N) to the 60-days oral chemotherapy with temozolomide (CR complete remission, PR partial remission, SD stable disease, N number of enrolled patients).
+
+Phase II study “Intraventricular therapy with etoposide”:
+Evaluation of response rate (response rate: CR+PR+SD/N) to the 5-week intraventricular therapy with etoposide (CR complete remission, PR partial remission, SD stable disease, N number of enrolled patients).
+
+E.2.2 Secondary objectives of the trial: P-HIT-REZ 2005 study: Explorative analysis: Chemotherapy-arms: progressionfree survival (PFS) from start of therapy (PFSTS), OS from start of therapy (OSTS), PFS from response after the 4th chemotherapy course (PFSRESP), OS from response after the 4th chemotherapy course (OSRESP), toxicity rate (CTC), historical comparison with the HIT-REZ 97-Study (PFSRESP, OSRESP), multivariable Cox-regression of prognostic parameters for OS/PFS; Documentation-arm: number, response, toxicity rate of other therapies.
+
+E-HIT-REZ 2005 study: Chemotherapy-arm: PFS from start of chemotherapy (PFSTSCHT), OS from start of chemotherapy (OSTSCHT), PFS from response (PFSRESP), OS from response (OSRESP), toxicity rate (CTC), historical comparison with the HIT-REZ 97-Study (PFSRESP, OSRESP); Documentation-arm: number, response, toxicity rate of other therapies.
+
+Phase II study “Intraventricular therapy with etoposide”: Safety (administered doses/courses), toxicity rate (CTC)
+
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: All arms in P-HIT-REZ 2005 and E-HIT-REZ 2005 studies: 
+histologically proven medulloblastoma, supratentorial PNET or pineoblastoma (P-HIT-REZ 2005 study) or ependymoma (WHO°II or III) (E-HIT-REZ 2005 study); 
+refractory or relapsed disease; 
+age ≥ 3 months up to ≤ 30 years; 
+MRT of the brain and spinal canal and lumbal and/or ventricular CSF evaluation for tumour cells within the last 2 weeks before study entry; 
+radiologically measurable disease in the MRT and/or detection of tumour cells in the CSF; 
+no other systemic or local antineoplastic therapy within the last 2 weeks before study entry or during study treatment;
+women of childbearing potential needs a negative pregnancy test before and adequate contraception during the study participation; no nursing women
+reachability of the patient during the study treatment; 
+written informed consent by the treating hospital and by the patient, the parents or care holders
+
+High dose chemotherapy in P-HIT-REZ 2005 study:
+1st relapse of a supra- or infratentorial PNET or multiple relapse without chemotherapy in pretreament;
+complete remission after 4 courses of conventional chemotherapy or after partial response to chemotherapy and complete tumour resection; 
+adequate autologous stem cell collection
+
+Phase II study “Intraventricular therapy with etoposide”:
+histologically proven medulloblastoma, supratentorial PNET or pineoblastoma or ependymoma with proven subarachnoidal metastatic disease and/or neoplastic meningitis;
+age ≥3 months up to ≤30 years,
+MRT of the brain and spinal canal, DTPA-CSF-flow-scintigraphy and lumbal and/or ventricular CSF evaluation for tumour cells within the last 2 weeks before study entry;
+radiologically measurable disease in the MRT and/or detection of tumour cells in the CSF;
+no threatening neurological symptoms due to a parenchymatous tumour manifestation;
+Ommaya-/Rickham reservoir or permanent lockable VP-/VA-shunt with a reservoir,
+no hydrocephalus occlusus or malresorptivus,
+undisturbed CSF flow and CSF resorption, no increased brain pressure (CSF pressure <150 mm CSF column);
+no CSF compartimentalisation and no block in the spinal canal up to the 7th cervical vertebral body or higher;
+no other systemic or local antineoplastic therapy within the last 2 weeks before study entry or during study treatment; 
+women of childbearing potential needs a negative pregnancy test before and adequate contraception during the study participation; no nursing women
+reachability during the study participation,
+written informed consent by treating hospital and by patient, parents or care holders
+
+E.4 Principal exclusion criteria: All arms in P-HIT-REZ 2005 and E-HIT-REZ 2005 studies:
+Participation in this trial previously;
+Other preexistent severe disease which could impair the realisation of study treatment;
+Absence of or incomplete written informed consent.
+
+High dose chemotherapy in P-HIT-REZ 2005 study:
+Refractory disease to primary treatment of a newly diagnosed brain tumour;
+High dose chemotherapy with autologous stem cell transplantation during the primary treatment or other previous stem cell or organ transplantation.
+
+Phase II study “Intraventricular therapy with etoposide”
+Exclusively tumour manifestation in the cerebral or cerebellar parenchyma
+Other tumour histology than PNETs or ependymoma
+Necessity of a permanent VP- or VA-shunt
+Other preexistent severe disease which could impair the realisation of study treatment
+Absence of or incomplete written informed consent
+
+E.5 End points
+E.5.1 Primary end point(s): P-HIT-REZ 2005 study:
+No primary endpoint, see secondary endpoints
+
+E-HIT-REZ 2005 study ("Oral chemotherapy with temozolomide"):
+Response rate (CR+PR+SD/N) after 60 days of treatment (CR complete remission, PR partial remission, SD stable disease, N number of enrolled patients)
+
+Phase II study “Intraventricular therapy with etoposide”:
+Response rate (CR+PR+SD/N) after 5 week of treatment (CR complete remission, PR partial remission, SD stable disease, N number of enrolled patients)
+
+E.5.1.1 Timepoint(s) of evaluation of this end point: P-HIT-REZ 2005 study: 2016/01/31
+
+E-HIT-REZ 2005 study:  2016/01/31
+
+Phase II study “Intraventricular therapy with etoposide”:  2013/03/31
+E.5.2 Secondary end point(s): P-HIT-REZ 2005 study: 
+Explorative analysis: Chemotherapy-arms: progressionfree survival (PFS) from start of therapy (PFSTS), OS from start of therapy (OSTS), PFS from response after the 4th chemotherapy course (PFSRESP), OS from response after the 4th chemotherapy course (OSRESP), toxicity rate (CTC), historical comparison with the HIT-REZ 97-Study (PFSRESP, OSRESP), multivariable Cox-regression of prognostic parameters for OS/PFS; Documentation-arm: number, response, toxicity rate of other therapies.
+
+E-HIT-REZ 2005 study: Chemotherapy-arm: PFS from start of chemotherapy (PFSTSCHT), OS from start of chemotherapy (OSTSCHT), PFS from response (PFSRESP), OS from response (OSRESP), toxicity rate (CTC), historical comparison with the HIT-REZ 97-Study (PFSRESP, OSRESP); Documentation-arm: number, response, toxicity rate of other therapies.
+
+Phase II study “Intraventricular therapy with etoposide”: 
+Safety (administered doses/courses), toxicity rate (CTC)
+
+E.5.2.1 Timepoint(s) of evaluation of this end point: P-HIT-REZ 2005 study: 2016/01/31
+
+E-HIT-REZ 2005 study:  2016/01/31
+
+Phase II study “Intraventricular therapy with etoposide”:  2014/01/31
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): Yes
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): Yes
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: No
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: No
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.2.4 Number of treatment arms in the trial: 2
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 54
+E.8.5 The trial involves multiple Member States: No
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: No
+E.8.7 Trial has a data monitoring committee: Yes
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: P-HIT-REZ 2005 study: 
+Recruitment+ treatment: 7 years + 2 years (2015/01/31), follow up and biometric analysis: 10 years (2016/01/31)
+
+E-HIT-REZ 2005 study: 
+Recruitment + treatment: 4.5 years + 2 month (2013/01/31), follow up and biometric analysis: 10 years (2016/31/01)
+
+Phase II study (etoposide intrventricularly): Recruitment + treatment: 7 years + 2 month (2013/03/31), follow up and biometric analysis: 8 years (2014/01/31)
+
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 5
+E.8.9.1 In the Member State concerned months: 0
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 5
+E.8.9.2 In all countries concerned by the trial months: 0
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: Yes
+F.1.1 Number of subjects for this age range: 140
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): Yes
+F.1.1.4.1 Number of subjects for this age range: 10
+F.1.1.5 Children (2-11years): Yes
+F.1.1.5.1 Number of subjects for this age range: 40
+F.1.1.6 Adolescents (12-17 years): Yes
+F.1.1.6.1 Number of subjects for this age range: 90
+F.1.2 Adults (18-64 years): Yes
+F.1.2.1 Number of subjects for this age range: 20
+F.1.3 Elderly (>=65 years): No
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: Yes
+F.3.3.6.1 Details of subjects incapable of giving consent: vulnerable population due to age (children) and possibly mentally or physically  handicapped patients due the underlying malignant disease or previous treatment
+informed consent has to be given by the parents or the guardians
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 160
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 160
+F.4.2.2 In the whole clinical trial: 160
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): Phase II study: "Intraventricular etoposide": clincal, CSF cytology and MRT evaluation in week 6 after start of therapy; further therapy in P-/E-HIT-REZ 2005
+
+P/E-HIT-REZ 2005 study: clincal, CSF cytology and MRT evaluation at least every 4 months during the first 3 years after start of therapy, thereafter every 6 to 12 months; in situation of disease progession individual therapy outside this protocol
+
+G. Investigator Networks to be involved in the Trial
+G.4 Investigator Network to be involved in the Trial: 1
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2005-08-12
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2005-12-13
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2016-01-31
+

@@ -1,0 +1,335 @@
+Summary
+EudraCT Number: 2005-000472-40
+Sponsor's Protocol Code Number: CN 138-169
+National Competent Authority: Austria - BASG 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2005-09-07
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2005-000472-40/AT/
+
+A. Protocol Information
+A.1 Member State Concerned: Austria - BASG
+A.2 EudraCT number: 2005-000472-40
+A.3 Full title of the trial: A Comparative, Randomized, Open -Label, Multicenter Study on the Efficacy and Safety of Switch Treatment with Aripiprazole in Schizophrenic Out-patients who are
+Experiencing Insufficient Efficacy with Risperidone and/or Safety and Tolerability Issues,While on Risperidone. Version 1.0 .
+A.4.1 Sponsor's protocol code number: CN 138-169
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Bristol-Myers Squibb International Corporation
+B.1.3.4	Country: Belgium
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: Abilify 
+D.2.1.1.2 Name of the Marketing Authorisation holder: Otsuka Pharmaceutical Europe Ltd.
+D.2.1.2 Country which granted the Marketing Authorisation: Austria
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Abilify
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Aripiprazole
+D.3.9.2 Current sponsor code: OPC-14597
+D.3.9.3 Other descriptive name: BMS-337039
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: Abilify
+D.2.1.1.2 Name of the Marketing Authorisation holder: Otsuka Pharmacetical Europe Ltd.
+D.2.1.2 Country which granted the Marketing Authorisation: Austria
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Abilify
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Aripiprazole
+D.3.9.2 Current sponsor code: OPC-14597
+D.3.9.3 Other descriptive name: BMS-337039
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 10 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: Abilify
+D.2.1.1.2 Name of the Marketing Authorisation holder: Otsuka Pharmaceutical Europe Ltd.
+D.2.1.2 Country which granted the Marketing Authorisation: Austria
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Abilify
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Aripiprazole
+D.3.9.2 Current sponsor code: OPC-14597
+D.3.9.3 Other descriptive name: BMS-337039
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 15 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Schizophrenia
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To evaluate the safety and tolerability of two switching strategies from risperidone to aripiprazole over a period of 12 weeks in out-patients who are treated in a general psychiatric practice setting and who are currently experiencing
+efficacy and/or safety/tolerability issues while on risperidone.
+The proportion of patients who discontinued because of AE’s will be compared between the 2 switching strategies.
+E.2.2 Secondary objectives of the trial: To investigate whether out of two switching strategies one is best in term of:
+
+• Patient's and caregiver's preference of medicine (POM)
+• Subjective well-being under neuroleptics (SWN)
+• Extra-pyramidal signs and symptoms Simpson-Angus Scale (SAS).
+To examine the impact of switching from risperidone to aripiprazole in terms of
+effectiveness, efficacy, effect on cognitive functioning and on Outcomes Research
+measures and to further evaluate safety and tolerability of aripiprazole using:
+• Clinical Global Impression - Improvement (CGI-I)
+• Investigator’s Assessment Questionnaire (IAQ)
+• Positive and Negative Syndrome Scale (PANSS)
+• GEOPTE Social Cognition scale
+• Impact of Weight on Quality of Life (IWQoL )
+• Sexual functioning using the Arizona Sexual Experience Scale (ASEX)
+• Other safety and tolerability measures including prolactin levels and weight
+E.2.3 Trial contains a sub-study: Information not present in EudraCT
+E.3 Principal inclusion criteria: 1) Patients with a diagnosis of schizophrenia as defined by DSM-IV-TR criteria
+(Appendix 2 of the protocol)
+2) Out-patients having symptoms which in the clinical judgment of the treating
+psychiatrist require treatment with antipsychotic (AP) medication.
+3)Patients who have been taking Risperidone for minimum 6 weeks who are not
+optimally controlled and/or experiencing safety/tolerability issues with Risperidone.
+4) Men and women, aged 18 - 65 years.
+5) Women of childbearing potential (WOCBP) must be using an adequate method of
+contraception to avoid pregnancy throughout the study and for up to 4 weeks after the study in such a manner that the risk of pregnancy is minimized.
+6) WOCBP must have a negative serum or urine pregnancy test (minimum sensitivity
+25 IU/L or equivalent units of HCG) within 72 hours prior to the start of study
+medication. 
+
+E.4 Principal exclusion criteria: 1) WOCBP who are unwilling or unable to use an acceptable method to avoid
+pregnancy for the entire study period and for up to 4 weeks after the study.
+2) WOCBP using a prohibited contraceptive method. No specific contraceptive
+methods are prohibited in this study. Women practicing abstinence should use a
+reliable method of contraception (except birth control pills, See Section 5.1of the protocol) if they choose to become sexually active during the study.
+3) Women who are pregnant or breastfeeding
+4) Women with a positive pregnancy test on enrollment or prior to study drug
+administration.
+5) Patients who are at risk for committing suicide: either having active suicidal ideation considered clinically significant or recently attempted suicide;
+6) Patients with a diagnosis of schizoaffective disorder, bipolar disorder, depression with psychotic symptoms, or organic brain syndromes;
+7) Patients who have met DSM-IV-TR criteria for any significant Psychoactive
+Substance Use Disorder within the 3 months prior to Screening;
+8) Patients considered treatment-resistant to antipsychotic medication (patients need to have shown a previous response to a antipsychotic medication other than clozapine) and patients with a significant history of intolerance to multiple antipsychotic treatments;
+9) Patients with a history of neuroleptic malignant syndrome;
+10) Patients with epilepsy, a history of seizures (except for a single childhood febrile
+seizure), a history of stroke or who have a history or evidence of other medical
+conditions that would expose them to an undue risk of a significant adverse event or
+interfere with assessments of safety or efficacy during the course of the trial;
+11) Patients who would be likely to require prohibited concomitant therapy during the trial (see Section 6.4 of the protocol);
+12) Patients who have previously been treated with aripiprazole in an aripiprazole clinical study or who have participated in any clinical trial with an investigational agent within the past month.
+13) Patients with detectable levels of cocaine, heroin or opioids in the drug screen.
+Patients with a positive drug screen for stimulants or other drugs of abuse are to be
+discussed with BMS and approval granted prior to treatment;
+14) The following laboratory test results, vital sign and ECG findings are exclusionary:
+QTc > 450 msec
+Platelets < 75,000/mm3
+Hemoglobin < 9g/dL
+Neutrophils < 1000 cells/mcgL (or equivalent)
+AST (SGOT) or ALT (SGPT) > 3x upper limit of normal
+Creatinine > 2 mg/dL
+Diastolic blood pressure > 105 mmHg
+15) Patients who are known to be allergic or hypersensitive to aripiprazole or other dihydrocarbostyrils.
+16) Prisoners or patients who are compulsorily detained (involuntarily incarcerated) fortreatment of either a psychiatric or physical (e.g., infectious disease) illness must not be enrolled into this study.
+
+E.5 End points
+E.5.1 Primary end point(s): Proportion of patients who discontinue due to AE’s.
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: Information not present in EudraCT
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): Yes
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: Information not present in EudraCT
+E.8.1.4 Double blind: Information not present in EudraCT
+E.8.1.5 Parallel group: Information not present in EudraCT
+E.8.1.6 Cross over: Information not present in EudraCT
+E.8.1.7 Other: Information not present in EudraCT
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.5 The trial involves multiple Member States: Yes
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: Information not present in EudraCT
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: Last patient, last visit.
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 1
+E.8.9.1 In the Member State concerned months: 2
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial years: 1
+E.8.9.2 In all countries concerned by the trial months: 2
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: Information not present in EudraCT
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): Information not present in EudraCT
+F.1.1.3 Newborns (0-27 days): Information not present in EudraCT
+F.1.1.4 Infants and toddlers (28 days-23 months): Information not present in EudraCT
+F.1.1.5 Children (2-11years): Information not present in EudraCT
+F.1.1.6 Adolescents (12-17 years): Information not present in EudraCT
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): No
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Information not present in EudraCT
+F.3.3.1 Women of childbearing potential not using contraception  
+(For clinical trials recorded in the database before the 10th March 2011 this question read: "Women of childbearing potential" and
+did not include the words "not using contraception". An answer of yes could have included women of child bearing potential whether
+or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
+database on 2005-09-07) : Yes
+F.3.3.2 Women of child-bearing potential using contraception: Information not present in EudraCT
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 18
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 399
+F.4.2.2 In the whole clinical trial: 430
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2005-10-12
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2005-10-12
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2007-04-06
+

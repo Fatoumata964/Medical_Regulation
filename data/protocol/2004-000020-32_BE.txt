@@ -1,0 +1,292 @@
+Summary
+EudraCT Number: 2004-000020-32
+Sponsor's Protocol Code Number: CV131-176
+National Competent Authority: Belgium - FPS Health-DGM 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2005-07-27
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2004-000020-32/BE/
+
+A. Protocol Information
+A.1 Member State Concerned: Belgium - FPS Health-DGM
+A.2 EudraCT number: 2004-000020-32
+A.3 Full title of the trial: The Efficacy and Safety of Irbesartan/HCTZ Combination Therapy as First Line
+Treatment for Severe Hypertension
+A.4.1 Sponsor's protocol code number: CV131-176
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Bristol Myers Squibb International Corporation
+B.1.3.4	Country: Belgium
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: Karvea
+D.2.1.1.2 Name of the Marketing Authorisation holder: Bristol Myers Squibb Pharma EEIG, 141-149 Staines Road, Hounslow, TW3 3JA, UK
+D.2.1.2 Country which granted the Marketing Authorisation: Belgium
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Karvea
+D.3.2 Product code: BMS-186295-A150-105
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Irbesartan
+D.3.9.1 CAS number: 138402-11-6
+D.3.9.2 Current sponsor code: BMS-186295
+D.3.9.3 Other descriptive name: SR-47436
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 150 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: Karvezide
+D.2.1.1.2 Name of the Marketing Authorisation holder: Bristol Myers Squibb Pharma EEIG, 141-149 Staines Road, Hounslow, TW3 3JA, UK
+D.2.1.2 Country which granted the Marketing Authorisation: Belgium
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Karvezide
+D.3.2 Product code: BMS-186295-A999-156
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Irbesartan
+D.3.9.1 CAS number: 138402-11-06
+D.3.9.2 Current sponsor code: BMS-186295
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 150 
+D.3.8 INN - Proposed INN: Hydrochlorothiazide
+D.3.9.2 Current sponsor code: SQ-10180
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 12.5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+D.8 Placebo: 1
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Tablet
+D.8.4 Route of administration of the placebo: Oral use
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Severe Hypertension
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: The primary objective of this study is to compare the proportion of subjects whose seated diastolic blood pressure (SeDBP) is controlled (SeDBP < 90mmHg) at Week 5 when initiating irbesartan 150mg/HCTZ 12.5mg combination therapy as first-line treatment (titrated to irbesartan 300mg/HCTZ 25mg), as compared to initiating irbesartan 150mg monotherapy and titrating to irbesartan 300mg.
+
+
+
+E.2.2 Secondary objectives of the trial: To characterize the safety/tolerability in the two treatment groups over the sevenweek study period, examining in particular the frequency of treatment
+discontinuations due to adverse events, the frequencies of hypotension, dizziness and syncope, the frequency of headaches, and the frequencies of hypokalemia and
+hyperkalemia.
+E.2.3 Trial contains a sub-study: Information not present in EudraCT
+E.3 Principal inclusion criteria: * Subjects must have uncontrolled hypertension defined as:
+• currently untreated with an SeDBP ≥ 110mmHg
+OR
+• currently receiving antihypertensive monotherapy with an SeDBP ≥ 100mmHg.
+Monotherapy is defined as treatment with one antihypertensive medication for at least four weeks; fixed combination therapy does not represent monotherapy.
+* Subjects must be willing to discontinue their antihypertensive medication, if
+applicable.
+
+To qualify for randomization to double-blind therapy:
+− all evaluations including laboratory testing from the Enrollment Visit must be
+completed and the results must satisfy all selection criteria,
+− blood pressure measurement of an averaged SeDBP ≥ 110mmHg must be
+demonstrated at two consecutive visits (A01 and A99) off of medication and immediately prior to randomization (see Section 7.3.4 for BP standardization).
+
+* Men and women, ages 18 and older will be included.
+* WOCBP must have a negative serum or urine pregnancy test (minimum sensitivity
+25 IU/L or equivalent units of HCG) within 72 hours prior to the start of study
+medication.
+E.4 Principal exclusion criteria: * SeSBP ≥ 220mmHg or SeDBP ≥ 130mmHg and/or evidence of malignant or
+accelerated hypertension or clinical evidence that the subject requires immediate
+lowering of his/her blood pressure within hours, including, but not limited to coronary
+ischemia or neurological signs and symptoms.
+* Known or suspected secondary hypertension.
+* Hypertensive encephalopathy, stroke, or transient ischemic attack within the past 12 months
+* Myocardial infarction, percutaneous transluminal coronary revascularization,
+coronary artery bypass graft, or unstable angina pectoris within the past six months
+* New York Heart Association functional class III-IV congestive heart failure, or LV
+dysfunction requiring ACE inhibitor
+* Hemodynamically significant cardiac valvular disease
+* Heart block greater than first degree atrioventricular block, preexcitation syndrome,
+sick sinus syndrome, chronic atrial fibrillation, or chronic atrial flutter, or other
+significant arrhythmias that may interfere with the blood pressure measurements
+* Significant chronic renal impairment, or renovascular disease
+* Significant liver disease
+* Systemic lupus erythematosus
+* Obesity that would limit accurate blood pressure measurement
+* Positive pregnancy test
+* Serum creatinine > 1.5 mg/dL
+* AST, ALT, or total bilirubin > 3 times the upper limit of normal
+* Plasma glucose > 240 mg/dL (if high, may be repeated once)
+* Hemoglobin A1c > 10%
+* Serum potassium < 3.3 or > 5.5 mmol/l
+* White blood cell count < 2,600/µl
+* Platelet count < 100,000/µl
+* Hb < 10g/dL
+E.5 End points
+E.5.1 Primary end point(s): The primary efficacy outcome measurements is the proportion of subjects with seated diastolic blood pressure less than 90 mmHg at the end of Week 5.
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: Information not present in EudraCT
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: No
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: Yes
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.5 The trial involves multiple Member States: Yes
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+E.8.7 Trial has a data monitoring committee: Information not present in EudraCT
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: Total study duration is 8 weeks (including Placebo Lead-in). Scheduled visits are (A01, A99, B01, B02, B03, B99). Unscheduled visits may be performed at the Investigator's discretion.
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 
+E.8.9.1 In the Member State concerned months: 8
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial months: 8
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Information not present in EudraCT
+F.3.3.1 Women of childbearing potential not using contraception  
+(For clinical trials recorded in the database before the 10th March 2011 this question read: "Women of childbearing potential" and
+did not include the words "not using contraception". An answer of yes could have included women of child bearing potential whether
+or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
+database on 2005-07-27) : Yes
+F.3.3.2 Women of child-bearing potential using contraception: Information not present in EudraCT
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 36
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 254
+F.4.2.2 In the whole clinical trial: 826
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2005-02-16
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2004-12-21
+
+P. End of Trial
+P. End of Trial Status: Completed
+

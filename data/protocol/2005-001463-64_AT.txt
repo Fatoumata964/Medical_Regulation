@@ -1,0 +1,291 @@
+Summary
+EudraCT Number: 2005-001463-64
+Sponsor's Protocol Code Number: CA183-001
+National Competent Authority: Austria - BASG 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2005-09-06
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2005-001463-64/AT/
+
+A. Protocol Information
+A.1 Member State Concerned: Austria - BASG
+A.2 EudraCT number: 2005-001463-64
+A.3 Full title of the trial: A Phase II Study of Intravenous (IV) Vinflunine in Patients with Locally Advanced or Metastatic Transitional Cell Carcinoma (TCC) of the Urothelium
+
+Revised Protocol #01, version 2.0 incorporating Protocol Amendment #04, and
+
+Pharmacogenetics Blood Sample Amendment #01, dated 18-Oct-04
+Primary Tumor Tissue Sample Amendment #02, dated 18-Oct-04
+Pharmacokinetics Blood Sample Amendment #03, dated 18-Oct-04
+A.4.1 Sponsor's protocol code number: CA183-001
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Bristol-Myers Squibb International Corporation
+B.1.3.4	Country: Belgium
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Javlor
+D.3.2 Product code: BMS-710485-02 / L0070
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Vinflunine Ditartrate
+D.3.9.1 CAS number: 194468-36-5
+D.3.9.2 Current sponsor code: BMS-710485-02 / L0070
+D.3.9.3 Other descriptive name: Vial 2 mL
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 25.0 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Javlor 
+D.3.2 Product code: BMS-710485-02 / L0070
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Vinflunine Ditartrate
+D.3.9.1 CAS number: 194468-36-5
+D.3.9.2 Current sponsor code: BMS-710485-02 / L0070
+D.3.9.3 Other descriptive name: Vial 10 mL
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 25.0 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Advanced Cancer, IV, Nos
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To estimate the objective response rate (as defined by the WHO criteria modified by the SWOG) in patients with TCC receiving vinflunine, who have had documented
+progression within 12 months after the last dose of a platinum-containing regimen and are not candidates for cystectomy.
+E.2.2 Secondary objectives of the trial: 1) To estimate duration of response.
+2) To estimate time to response.
+3) To estimate disease control rate (Complete Response + Partial Response + Stable Disease).
+4) To estimate progression free survival.
+5) To estimate overall survival.
+6) To evaluate the safety profile of vinflunine.
+E.2.3 Trial contains a sub-study: Information not present in EudraCT
+E.3 Principal inclusion criteria: 1) Provided signed written informed consent.
+2) Histologic diagnosis of predominantly locally advanced or metastastic transitional
+cell carcinoma (TCC) of the urothelium (urinary bladder, kidney, renal pelvis, or
+ureter) (NOTE: rare foci of other histologies are acceptable).
+3) At the time of study entry, patient must no longer be a candidate for local/regional
+control of disease (surgery and/or radiotherapy, see Protocol Appendix 1 for reference).
+4) Patients must have received at least two cycles of prior cisplatin at a dose of least
+60 mg/m2 or prior carboplatin at a dose of at least AUC 4 (or equivalent) in any
+setting. (NOTE: subsequent cycles of cisplatin or carboplatin, if delivered, need not
+be 60 mg/m2 or AUC 4, respectively).
+5) Measurable disease documented by imaging with at least one bidimensional lesion
+(See Protocol Section 3.3.2)
+6) Documented relapse or progressive disease within 12 months after the last dose of a platinum containing regimen in any setting at the time of study entry.
+7) Karnofsky Performance Status of 100, 90, or 80 (See Protocol Appendix 2)
+8) Recovery from toxicity due to prior therapy (i.e. toxicity has resolved to baseline or is deemed irreversible). At least 4 weeks must have elapsed since last dose of chemotherapy (6 weeks for nitrosoureas, mitomycin-C, and liposomal doxorubicin),
+immunotherapy, or radiotherapy and the beginning of protocol therapy.
+9) Men and women ≥ age 18
+WOCBP must have a negative serum or urine pregnancy test (minimum sensitivity
+25 IU/L or equivalent units of HCG) within 72 hours prior to the start of study
+medication.
+
+E.4 Principal exclusion criteria: 1) WOCBP who are unwilling or unable to use an acceptable method to avoid
+pregnancy for the entire study period and for up to 12 weeks after the study.
+2) WOCBP using a prohibited contraceptive method.
+3) Diagnosis of predominantly non-transitional cell carcinoma of the urothelium
+(adenocarcinoma, squamous cell carcinoma, small cell, or other).
+4) Diagnosis of other malignancies except adequately treated basal cell carcinoma of the skin, incidental prostate cancer (T1a, Gleason score 6, PSA < 0.5 ng/ml) or in-situ cervical carcinoma or any other tumor with a disease-free interval ≥ 5 years.
+5) Prior discontinuation of platinum for reasons of toxicity only.
+6) Receipt of more than one prior chemotherapy regimen in any setting.
+7) Known brain metastases or leptomeningeal involvement. CT scans are not required to rule this out unless there is clinical suspicion of central nervous system (CNS) disease.
+8) CTC (v.2.0) ≥ Grade 2 peripheral neuropathy.
+9) Prior radiation to ≥ 30% of the bone marrow. (See Protocol Appendix 3)
+10) A serious uncontrolled medical disorder, recent abdominal surgery or active infection which would impair the ability of the patient to receive protocol therapy
+11) Concurrent heart failure (New York Heart Association Class III - IV) or unstable
+angina, myocardial infarction within the prior 6 months, or poorly controlled hypertension
+12) Psychological, familial, or sociological conditions that do not permit medical
+follow-up and/or compliance with the study protocol.
+13) Inadequate hematologic function defined by an absolute neutrophil count (ANC)
+< 1,500 cells/mm3 or a platelet count < 100,000 cells/mm3.
+14) Inadequate hepatic function defined by a total bilirubin level > 1.5 times the upper limit of normal (ULN) or transaminases (ALT, AST) level > 2.5 times the ULN
+(> 5 times the ULN only in case of liver metastasis).
+15) Inadequate renal function defined by a serum creatinine clearance < 40 ml/min
+(Cockcroft-Gault formula, see Protocol Appendix 4).
+16) Prior allergic reaction to any vinca alkaloid.
+17) Patients who require treatment with ketoconazole, itraconazole, ritonavir, amprenavir and indinavir.
+18) Any concurrent chronic systemic immune therapy (including steroids), chemotherapy, radiation therapy, hormonal therapy (except for physiologic replacement), or any other investigational agent.
+19) Prisoners or patients who are compulsorily detained (involuntarily incarcerated) for treatment of either a psychiatric or physical (e.g., infectious disease) illness must not be enrolled into this study.
+E.5 End points
+E.5.1 Primary end point(s): Efficacy:
+The primary efficacy analysis will be based on response rate, as determined by the Independent Response Review Committee (IRRC), where tumor response rate is defined as the total number of complete and partial responders divided by the total number of treated patients.
+Safety:
+The analysis of safety will be based on the frequency of adverse events and their severity for patients who received at least one cycle of vinflunine. Worst toxicity grades per patient will be tabulated for adverse events and laboratory measurements.
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: No
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: Information not present in EudraCT
+E.6.11 Pharmacogenomic: Yes
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: Yes
+E.6.13.1 Other scope of the trial description: Pharmacogenetics
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): Yes
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: No
+E.8.1.1 Randomised: No
+E.8.1.2 Open: Information not present in EudraCT
+E.8.1.3 Single blind: Information not present in EudraCT
+E.8.1.4 Double blind: Information not present in EudraCT
+E.8.1.5 Parallel group: Information not present in EudraCT
+E.8.1.6 Cross over: Information not present in EudraCT
+E.8.1.7 Other: Information not present in EudraCT
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.5 The trial involves multiple Member States: Yes
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+E.8.7 Trial has a data monitoring committee: Information not present in EudraCT
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: Once a patient has been taken off study, survival data will be collected every two months until death.
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 1
+E.8.9.1 In the Member State concerned months: 10
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial years: 1
+E.8.9.2 In all countries concerned by the trial months: 10
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Information not present in EudraCT
+F.3.3.1 Women of childbearing potential not using contraception  
+(For clinical trials recorded in the database before the 10th March 2011 this question read: "Women of childbearing potential" and
+did not include the words "not using contraception". An answer of yes could have included women of child bearing potential whether
+or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
+database on 2005-09-06) : Yes
+F.3.3.2 Women of child-bearing potential using contraception: Information not present in EudraCT
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 5
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 66
+F.4.2.2 In the whole clinical trial: 150
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2005-07-14
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2005-07-14
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2007-11-05
+

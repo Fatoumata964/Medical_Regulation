@@ -1,0 +1,200 @@
+Summary
+EudraCT Number: 2005-002323-14
+Sponsor's Protocol Code Number: 32/2005
+National Competent Authority: Iceland - IMCA 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2005-08-24
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2005-002323-14/IS/
+
+A. Protocol Information
+A.1 Member State Concerned: Iceland - IMCA
+A.2 EudraCT number: 2005-002323-14
+A.3 Full title of the trial: Samanburður á þremur meðferðum við áreynsluþvagleka.
+A.3.2 Name or abbreviated title of the trial where available: Meðferðir við áreynsluþvagleka
+A.4.1 Sponsor's protocol code number: 32/2005
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Landspítali Háskólasjúkrahús
+B.1.3.4	Country: Iceland
+B.3.1 and B.3.2	Status of the sponsor: Non-Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: Yentreve
+D.2.1.1.2 Name of the Marketing Authorisation holder: Eli Lilly á Íslandi
+D.2.1.2 Country which granted the Marketing Authorisation: Iceland
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Yentreve
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: duloxitine
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 40 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: Information not present in EudraCT
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Áreynsluþvagleki er þvagleki sem orsakast af líkamlegri áreynslu, hósta eða hnerra.
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: Markmið rannsóknarinnar er að bera saman árangur þrenns konar meðferðar við áreynsluþvagleka þ.e. a)grindarbotnsþjálfunar með raförvun, b) grindarbotnsæfinga c) lyfjameðferðar  (yentreve) og grindarbotnsþjálfunar.
+ Stefnt er að því að fá 60 konur og verður þeim skipt í 3 jafnstóra hópa með tilviljunaraðferð. Hópur 1 fær grindarbotnsþjálfun með raförvun.  Hópur 2 fær grindarabotnsæfingar eingöngu.  Hópur 3 fær bæði lyf (Yentreve)og grindarbotnsæfingar.  
+Með rannsókn þessari er vonast til að fá vísbendingar um gagnsemi ofangreindra meðferðarforma hvors fyrir sig og bera saman hver af þessum þremur meðferðarformum gefi bestan árangur við áreynsluþvagleka.  
+
+
+E.2.2 Secondary objectives of the trial: 
+E.2.3 Trial contains a sub-study: Information not present in EudraCT
+E.3 Principal inclusion criteria: Þátttakendur verða konur 65 ára og yngri með áreynsluþvagleka sem leitað til lækna og sjúkraþjálfara á LSH. 
+E.4 Principal exclusion criteria: Konur sem eru barnshafandi, með barn á brjósti sem hafa farið í skurðaðgerð vegna þvagleka eða eru með krabbamein í blöðru verða útilokaðar frá þátttöku. Einnig þær sem hafa taugaskaða í grindarbotni.  Einnig þær sem falla undir frábendingar lyfsins Yentreve í Sérlyfjaskrá.
+
+Frábendingar skv. Sérlyfjaskrá:
+Ofnæmi fyrir virka efninu eða einhverju hjálparefnanna.
+Skert lifrarstarfsemi.
+Meðganga og brjóstagjöf.
+
+YENTREVE á ekki að nota samhliða ósérhæfðum, óafturkræfum mónóamín oxidasa hemlum - MAO hemlar. 
+Ekki ætti að nota YENTREVE samhliða CYP1A2 hemlum, eins og fluvoxamini, ciprofloxacini eða enoxacini, því það veldur hækkaðri plasmaþéttni duloxetins.
+
+E.5 End points
+E.5.1 Primary end point(s): Árangur meðferðarinnar verður metinn með vöðvarafriti (EMG), með lífsgæðakvarða og sjálfsmati skjúklings á VAS- skala.
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: Yes
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: No
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: Information not present in EudraCT
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): Yes
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: No
+E.8.2.3 Other: Yes
+E.8.2.3.1 Comparator description: Grindarbotnsæfingar og raförvun.
+E.8.3 The trial involves single site in the Member State concerned: Yes
+E.8.4 The trial involves multiple sites in the Member State concerned: No
+E.8.5 The trial involves multiple Member States: No
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: Information not present in EudraCT
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: Líkur eru á að þátttakendur verði innkallaðir til árangursmælinga seinna.
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 2
+E.8.9.1 In the Member State concerned months: 
+E.8.9.1 In the Member State concerned days: 
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): No
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: No
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Information not present in EudraCT
+F.3.3.1 Women of childbearing potential not using contraception  
+(For clinical trials recorded in the database before the 10th March 2011 this question read: "Women of childbearing potential" and
+did not include the words "not using contraception". An answer of yes could have included women of child bearing potential whether
+or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
+database on 2005-08-24) : Yes
+F.3.3.2 Women of child-bearing potential using contraception: Information not present in EudraCT
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 60
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 0
+F.4.2.2 In the whole clinical trial: 60
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): Þátttakendum verður boðin sú meðferð sem hefur besta útkomu úr rannsókninni.
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2005-09-01
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2005-07-07
+
+P. End of Trial
+P. End of Trial Status: Completed
+

@@ -1,0 +1,261 @@
+Summary
+EudraCT Number: 2005-000720-16
+Sponsor's Protocol Code Number: 3082B2-310-WW
+National Competent Authority: Finland - Fimea 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2005-07-18
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2005-000720-16/FI/
+
+A. Protocol Information
+A.1 Member State Concerned: Finland - Fimea
+A.2 EudraCT number: 2005-000720-16
+A.3 Full title of the trial: A Randomised, Two-way, Blinded, Crossover-Design Study to Establish the Bioequivalence of B-Domain Deleted Recombinant Factor VIII (BDDrFVIII, ReFacto AF) with a Full-Length Recombinant Factor VIII Preparation (FLrFVIII, Advate), Followed by an Open-Label Trial of the Safety and Efficacy of ReFacto AF in Previously Treated Patients with Hemophilia A
+A.4.1 Sponsor's protocol code number: 3082B2-310-WW
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Wyeth Research Division of Wyeth Pharmaceuticals, Inc. Clinical Research & Development
+B.1.3.4	Country: United States
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: ReFacto AF
+D.3.2 Product code: ReFacto AF
+D.3.4 Pharmaceutical form: Powder and solvent for solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: moroctocog alfa
+D.3.9.1 CAS number: 284036/24/4
+D.3.10 Strength
+D.3.10.1 Concentration unit: IU international unit(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 1000 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Information not present in EudraCT
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: Information not present in EudraCT
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): Information not present in EudraCT
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: Information not present in EudraCT
+D.3.11.11 Herbal medicinal product: Information not present in EudraCT
+D.3.11.12 Homeopathic medicinal product: Information not present in EudraCT
+D.3.11.13 Another type of medicinal product: Information not present in EudraCT
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: ReFacto AF
+D.3.2 Product code: ReFacto AF
+D.3.4 Pharmaceutical form: Powder and solvent for solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: moroctocog alfa
+D.3.9.1 CAS number: 284036/24/4
+D.3.10 Strength
+D.3.10.1 Concentration unit: IU international unit(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 500 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Information not present in EudraCT
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: Information not present in EudraCT
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): Information not present in EudraCT
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: Information not present in EudraCT
+D.3.11.11 Herbal medicinal product: Information not present in EudraCT
+D.3.11.12 Homeopathic medicinal product: Information not present in EudraCT
+D.3.11.13 Another type of medicinal product: Information not present in EudraCT
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: Advate
+D.2.1.1.2 Name of the Marketing Authorisation holder: Baxter AG
+D.2.1.2 Country which granted the Marketing Authorisation: Finland
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Advate
+D.3.4 Pharmaceutical form: Powder and solvent for solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: octocog alfa
+D.3.10 Strength
+D.3.10.1 Concentration unit: IU international unit(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 1000 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Information not present in EudraCT
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: Information not present in EudraCT
+D.3.11.3.2 Gene therapy medical product: Information not present in EudraCT
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: Information not present in EudraCT
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): Information not present in EudraCT
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: Information not present in EudraCT
+D.3.11.11 Herbal medicinal product: Information not present in EudraCT
+D.3.11.12 Homeopathic medicinal product: Information not present in EudraCT
+D.3.11.13 Another type of medicinal product: Information not present in EudraCT
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: For all patients participating in the trial:Male subjects with severe or moderately severe hemophilia A (FVIII:C ≤ 2%) previously treated with ≥ 150 exposure days to any Factor VIII product.For patients participating in the Pharmacokinetic period of the trial:Male subjects as described immediately above except they must have a Factor VIII:C of  ≤ 1%  
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: Yes
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: Safety: To determine the incidence rate of Factor VIII inhibitors in the study patient population
+Efficacy: To establish the bioequivalence of ReFacto AF with a full-length recombinant Factor VIII (Advate) using the one stage factor VIII activity assay.
+E.2.2 Secondary objectives of the trial: To characterize the efficacy of ReFacto AF in preventing and treating bleeding episodes during prophylaxis treatment;To characterize the pharmacokinetics of ReFacto AF in comparison to Advate and over time;To characterize the efficacy response of both prophylactic and on- demand infusions of ReFacto AF;To characterize the adverse events;To characterize the rate of “Less than Expected Therapeutic Effect” responses of  ReFacto AF when used either prophylactically or for treatment of a bleeding episode (“on-demand”) or in the instance of low recovery;To characterize the consumption of ReFacto AF (international units/kg) over time;To characterize the incidence of allergic reactionsTo characterize patient compliance with prescribed regimen(s)  
+E.2.3 Trial contains a sub-study: Information not present in EudraCT
+E.3 Principal inclusion criteria: For all patients participating in the trial:- Male subjects with severe or moderately severe hemophilia A (FVIII:C ≤ 2%) previously treated with ≥ 150 exposure days to any Factor VIII product. - Age ≥ 12 years- ALT (SGOT) and AST (SGPT) ≤5.0 x ULN, and bilirubin ≤2mg/dL (33 µmol/L)- Serum albumin ≥ LLN- Serum creatinine ≤1.25 x ULN- Platelet count ≥ 100,000 /µL- Absolute CD4 count >400 µL- PT ≤1.25 x ULN or INR ≤ 1.5- Patients receiving therapy for HIV or Hepatitis infection, must be on a stable regimen at the time of study entry- The patient is able to comply with the mandatory 72-hour washout period preceding each FVIII:C and FVIII inhibitor assessment during Visit 1, 4, 5, 7 and 10- The patient must sign and date informed consent and/or assent form, approved by the IRB.The Global Medical Monitor should be consulted about prospective subjects with complex clinical or laboratory histories relevant to inclusion criteriaFor patients participating in the pharmacokinetic period of the trial:- Male subjects as described immediately above except they must have a Factor VIII:C of ≤ 1% confrimed by the central laboratory screening test- The patient’s site has the facilities, in the opinion of the Sponsor, adequate to conduct the Pharmacokinetic analysis- The patient should be able to comply with the mandatory 72 hour washout period preceding each PK period of the study during Visit 2, 3 and 10.
+E.4 Principal exclusion criteria: A history of FVIII inhibitor (clinical or laboratory based assessment, as defined in the protocol definitions), such as recurrent low titer values. Any measured Bethesda inhibitor titer greater than or equal to 0.6 BU/mL, regardless of the laboratory normal range, or any measured Bethesda inhibitor titer greater than the upper limit of normal for the laboratory performing the assay- Presence of a bleeding disorder in addition to hemophilia A- Treatment with any investigational drug or device within the past 30 days - Elective surgery planned to occur within an 8 to 9 month period following study entry (i.e., during the course of the study)- Regular (e.g. daily, QOD) use of antifibrinolytic agents or medications known to influence platelet function such as aspirin or certain NSAIDs- Concomitant therapy with immunosuppressive drugs (e.g., IVIG, routine systemic corticosteroids) ·- Known hypersensitivity to hamster protein·	Unwilling or unable to follow the terms of the protocol- The Global Medical Monitor should be consulted about prospective subjects with complex clinical or laboratory histories relevant to exclusion criteria
+E.5 End points
+E.5.1 Primary end point(s): Determination of the number of Factor VIII inhibitors in the patient populationDetermination of  the safety and efficacy of ReFacto AF in the prevention and treatment of bleeding
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: Information not present in EudraCT
+E.6.2 Prophylaxis: Information not present in EudraCT
+E.6.3 Therapy: Information not present in EudraCT
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Information not present in EudraCT
+E.6.7 Pharmacodynamic: Information not present in EudraCT
+E.6.8 Bioequivalence: Yes
+E.6.9 Dose response: Information not present in EudraCT
+E.6.10 Pharmacogenetic: Information not present in EudraCT
+E.6.11 Pharmacogenomic: Information not present in EudraCT
+E.6.12 Pharmacoeconomic: Information not present in EudraCT
+E.6.13 Others: Information not present in EudraCT
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): Information not present in EudraCT
+E.7.1.1 First administration to humans: Information not present in EudraCT
+E.7.1.2 Bioequivalence study: Information not present in EudraCT
+E.7.1.3 Other: Information not present in EudraCT
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): Information not present in EudraCT
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): Information not present in EudraCT
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: Information not present in EudraCT
+E.8.1.4 Double blind: Yes
+E.8.1.5 Parallel group: Information not present in EudraCT
+E.8.1.6 Cross over: Yes
+E.8.1.7 Other: Information not present in EudraCT
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: Information not present in EudraCT
+E.8.2.3 Other: Information not present in EudraCT
+E.8.3 The trial involves single site in the Member State concerned: Information not present in EudraCT
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.5 The trial involves multiple Member States: Yes
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+E.8.7 Trial has a data monitoring committee: Information not present in EudraCT
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 
+E.8.9.1 In the Member State concerned months: 24
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial months: 24
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: Yes
+F.1.1.1 In Utero: Information not present in EudraCT
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): Information not present in EudraCT
+F.1.1.3 Newborns (0-27 days): Information not present in EudraCT
+F.1.1.4 Infants and toddlers (28 days-23 months): Information not present in EudraCT
+F.1.1.5 Children (2-11years): Information not present in EudraCT
+F.1.1.6 Adolescents (12-17 years): Yes
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Information not present in EudraCT
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Information not present in EudraCT
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Information not present in EudraCT
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 10
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 40
+F.4.2.2 In the whole clinical trial: 100
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2005-09-13
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2005-09-13
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2006-11-17
+

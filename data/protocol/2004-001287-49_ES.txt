@@ -1,0 +1,343 @@
+Summary
+EudraCT Number: 2004-001287-49
+Sponsor's Protocol Code Number: HMR1964A/3504
+National Competent Authority: Spain - AEMPS 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2005-05-27
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2004-001287-49/ES/
+
+A. Protocol Information
+A.1 Member State Concerned: Spain - AEMPS
+A.2 EudraCT number: 2004-001287-49
+A.3 Full title of the trial: 52-week, open, randomized, multinational, multicenter clinical trial comparing insulin glulisine in combination with insulin glargine in an intensified insulin regimen to a two-injection conventional insulin regimen in type 2 diabetes mellitus patients with poor glycemic control pretreated with a two-injection conventional insulin therapy.
+A.3.2 Name or abbreviated title of the trial where available: GINGER-Study
+A.4.1 Sponsor's protocol code number: HMR1964A/3504
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Aventis Pharma Deutschland GmbH
+B.1.3.4	Country: Germany
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: Apidra
+D.2.1.1.2 Name of the Marketing Authorisation holder: Aventis Pharma Deutschland GmbH
+D.2.1.2 Country which granted the Marketing Authorisation: Spain
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Apidra
+D.3.2 Product code: HMR1964
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: insulina glulisina
+D.3.10 Strength
+D.3.10.1 Concentration unit: IU/ml international unit(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 300 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: Lantus
+D.2.1.1.2 Name of the Marketing Authorisation holder: Aventis Pharma Deutschland GmbH
+D.2.1.2 Country which granted the Marketing Authorisation: Spain
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Lantus
+D.3.2 Product code: HOE901
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: insulina glargina
+D.3.10 Strength
+D.3.10.1 Concentration unit: IU/ml international unit(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 300 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: Actraphane 30 Penfill
+D.2.1.1.2 Name of the Marketing Authorisation holder: Novo Nordisk A/S
+D.2.1.2 Country which granted the Marketing Authorisation: Spain
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Actraphane 30 Penfill
+D.3.4 Pharmaceutical form: Suspension for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: insulina humana
+D.3.10 Strength
+D.3.10.1 Concentration unit: IU/ml international unit(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 300 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 4
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: NovoMix 30 Penfill
+D.2.1.1.2 Name of the Marketing Authorisation holder: Novo Nordisk A/S
+D.2.1.2 Country which granted the Marketing Authorisation: Spain
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: NovoMix 30 Penfill
+D.3.4 Pharmaceutical form: Suspension for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: insulina aspart
+D.3.10 Strength
+D.3.10.1 Concentration unit: IU/ml international unit(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 300 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Diabetes mellitus type2
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Classification code: 10012613
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: The primary study objective is to demonstrate superior efficacy of an intensified insulin regimen with insuline glulisine and insulin glargine to a two-injection conventional insulin regimen in terms of change in glycated hemoglobin Alc (HbA1c), from baseline to endpoint.
+E.2.2 Secondary objectives of the trial: Secondary study objectives are to compare the intensified insulin regimen with insulin glulisine and insulin glargine to a two-injection conventional insulin regimen in terms of  blood glucose (BG) values (fasting, pre-/postprandial (ppBG), nocturnal, mean daily), daily BG profiles, BG and HbA1c response rates (predefined), hypoglycemic events, adverse events, change of late diabetes complications, weight, body-mass-index, course of total daily insulin dose and adjustment, blood lipid profile, microalbuminuria, standard lab and quality of life/treatment satisfaction.
+E.2.3 Trial contains a sub-study: Information not present in EudraCT
+E.3 Principal inclusion criteria: 1.Type 2 diabetes mellitus, as defined by the American Diabetes Association for at least five years, treated with insulin for at least one year (no history of ketoacidosis).
+
+2.Men or women aged 18 to 70 years old, inclusive.
+
+3.Pre-screening HbA1c between 8.0% and 11.0%, inclusive and not more than 0.5 % HbA1c-improvement at pre-randomization (week -2).
+
+4.For at least 3 months prior to week –8 visit, subjects must have been on a stable insulin regimen with two daily s.c. injections of premixed insulin: NPH plus regular insulin or NPH plus rapid acting insulin (insulin lispro or insulin aspart) in a mixture of 70/30 or 75/25. “Stable” means no change in regimen  and no more than 30 % change in dose. Optionally, the subject can have been treated in addition with metformin according to its current official product information leaflet, treatment with other oral blood glucose lowering drugs is not allowed.
+
+5.Documentation of a full ophthalmologic exam (incl. fundoscopy), by an ophthalmologist, during the 6 months prior to randomization. For exclusion criteria refer to exclusion criterion 7.
+
+6.Women are either not of childbearing potential (surgically sterile, or postmenopausal for more than 2 years). Women of childbearing potential must not be pregnant and agree to use a reliable contraceptive measure for the duration of the study.  Reliable contraceptive measures include the following:  systemic contraceptive (oral, implant, injections), diaphragm with intravaginal spermicide, cervical cap, intrauterine device or condom with spermicide. 
+E.4 Principal exclusion criteria: 1.Two or more severe hypoglycemic episodes within the past 3 months, or any hospitalization or emergency room visit due to poor diabetic control within the past 3 months prior to randomization.  
+
+2.History of hypoglycemia unawareness.
+
+3.Impaired hepatic function, as shown by, but not limited to, ALAT  (SGPT) or ASAT (SGOT) above 2x the upper limit of normal as measured at visit 1.
+
+4.Impaired renal function, as shown by, but not limited to, serum creatinine > 177 mmol/l (> 2 mg/dl) as measured at visit 1 (if no lower values due to individual metformin intake are required) or current renal dialysis.
+
+5.Body mass index (BMI) > 32 kg/m2.
+
+6.Any other clinically significant abnormalities on screening laboratory evaluation (unless discussed with the monitor and approved by the study management).
+
+7.Active proliferative diabetic retinopathy, as defined by the application of focal or panretinal photocoagulation or vitrectomy, in the 6 months prior to visit 1, or any other unstable (rapidly progressing) retinopathy that may require surgical treatment (including laser photocoagulation) during the study.
+
+8.History of hypersensitivity to insulin or insulin analogues or any of the excipients in  the HMR 1964 formulation.
+
+9.Donation of blood or transfusion during the 2 months prior to the screening visit.
+
+10.Pregnant or lactating women, or women planning to become pregnant during the study.
+
+11.Treatment with any investigational drug in the last month before visit 1 (screening).
+E.5 End points
+E.5.1 Primary end point(s): Change in HbA1c from baseline to endpoint.
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: Information not present in EudraCT
+E.6.2 Prophylaxis: Information not present in EudraCT
+E.6.3 Therapy: Information not present in EudraCT
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Information not present in EudraCT
+E.6.7 Pharmacodynamic: Information not present in EudraCT
+E.6.8 Bioequivalence: Information not present in EudraCT
+E.6.9 Dose response: Information not present in EudraCT
+E.6.10 Pharmacogenetic: Information not present in EudraCT
+E.6.11 Pharmacogenomic: Information not present in EudraCT
+E.6.12 Pharmacoeconomic: Information not present in EudraCT
+E.6.13 Others: Information not present in EudraCT
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): Information not present in EudraCT
+E.7.1.1 First administration to humans: Information not present in EudraCT
+E.7.1.2 Bioequivalence study: Information not present in EudraCT
+E.7.1.3 Other: Information not present in EudraCT
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): Information not present in EudraCT
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): Information not present in EudraCT
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: No
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.5 The trial involves multiple Member States: Yes
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+E.8.7 Trial has a data monitoring committee: Information not present in EudraCT
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: Not applicable.
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 2
+E.8.9.1 In the Member State concerned months: 0
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial years: 2
+E.8.9.2 In all countries concerned by the trial months: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: Information not present in EudraCT
+F.1.1.1 In Utero: Information not present in EudraCT
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): Information not present in EudraCT
+F.1.1.3 Newborns (0-27 days): Information not present in EudraCT
+F.1.1.4 Infants and toddlers (28 days-23 months): Information not present in EudraCT
+F.1.1.5 Children (2-11years): Information not present in EudraCT
+F.1.1.6 Adolescents (12-17 years): Information not present in EudraCT
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Information not present in EudraCT
+F.3.3.1 Women of childbearing potential not using contraception  
+(For clinical trials recorded in the database before the 10th March 2011 this question read: "Women of childbearing potential" and
+did not include the words "not using contraception". An answer of yes could have included women of child bearing potential whether
+or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
+database on 2005-05-27) : Yes
+F.3.3.2 Women of child-bearing potential using contraception: Information not present in EudraCT
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 36
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 354
+F.4.2.2 In the whole clinical trial: 372
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2005-01-12
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2004-11-04
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2007-10-25
+

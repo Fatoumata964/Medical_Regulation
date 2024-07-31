@@ -1,0 +1,290 @@
+Summary
+EudraCT Number: 2004-000727-15
+Sponsor's Protocol Code Number: 9238IL/0048
+National Competent Authority: Hungary - National Institute of Pharmacy 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2004-09-10
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2004-000727-15/HU/
+
+A. Protocol Information
+A.1 Member State Concerned: Hungary - National Institute of Pharmacy
+A.2 EudraCT number: 2004-000727-15
+A.3 Full title of the trial: A Randomized, Double Blind, Multicenter Study to Compare the Efficacy and Tolerability of Fulvestrant (FASLODEX™) vs. Exemestane (AROMASIN™) in Postmenopausal Women with Hormone Receptor Positive Advanced Breast Cancer with Disease Progression after Prior Non-Steroidal Aromatase Inhibitor (AI) Therapy
+A.4.1 Sponsor's protocol code number: 9238IL/0048
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: AstraZeneca AB
+B.1.3.4	Country: Sweden
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: Faslodex 250 mg/5 ml solution for injection
+D.2.1.1.2 Name of the Marketing Authorisation holder: AstraZeneca UK Limited
+D.2.1.2 Country which granted the Marketing Authorisation: Hungary
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Faslodex 250 mg/5 ml solution for injection
+D.3.2 Product code: EU/1/03/269/001
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intramuscular use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: fulvestrant
+D.3.9.1 CAS number: 129453-61-8
+D.3.9.2 Current sponsor code: ZD9238
+D.3.9.3 Other descriptive name: ICI 182780
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 50 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: Aromasin
+D.2.1.1.2 Name of the Marketing Authorisation holder: Pharmacia & Upjohn
+D.2.1.2 Country which granted the Marketing Authorisation: Hungary
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Aromasin
+D.3.4 Pharmaceutical form: Capsule*
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: exemestane
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 25 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+D.8 Placebo: 1
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Solution for injection
+D.8.4 Route of administration of the placebo: Intramuscular use
+D.8 Placebo: 2
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Capsule*
+D.8.4 Route of administration of the placebo: Oral use
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Hormone receptor positive breast cancer with disease progression after prior non-steroidal aromatase inhibitor (AI) therapy
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To assess the efficacy of AstraZeneca ZD9238 (fulvestrant, FASLODEX™) vs exemestane (AROMASIN™, Pharmacia & Upjohn) in hormone receptor-positive postmenopausal women with breast cancer progression after prior non-steroidal aromatase inhibitor (AI) therapy, by evaluation of time to disease progression (TTP).
+E.2.2 Secondary objectives of the trial: To compare objective response (OR) rates (complete response [CR] + partial response [PR]), duration of response (DoR), clinical benefit rate (CB), overall survival (OS), tolerability, quality of life (QoL), and health care resource use between the patients described above on fulvestrant and those on exemestane.
+E.2.3 Trial contains a sub-study: Information not present in EudraCT
+E.3 Principal inclusion criteria: 1. Histological/cytological confirmation of breast cancer.
+
+2. Objective evidence of recurrence or progression of disease, which is not considered amenable to curative treatment.
+
+3. Postmenopausal woman, defined as a woman fulfilling any 1 of the following criteria:
+- Age ≥ 60 years
+- Age ≥ 45 years with amenorrhea for ≥12 months with an intact uterus
+- Follicle-stimulating hormone (FSH) levels in post menopausal range (utilizing ranges from the testing laboratory facility).  If previous treatment with luteinizing hormone-releasing hormone (LH-RH) analogue, then the last depot of LH-RH analog must have been administered greater than 4 months prior to randomization and menses must not have restarted.
+- Having undergone a bilateral oophorectomy
+
+4. Progression while receiving a non-steroidal AI for locally advanced or metastatic breast cancer or recurrence while receiving a non-steroidal AI as adjuvant therapy or within 6 months of treatment discontinuation. 
+Note: Patients who received only one chemotherapy regimen for advanced disease prior to receiving a non-steroidal AI are allowed.
+
+5. Evidence of hormone sensitivity either ER+ and/or PgR+.
+
+6. Patients fulfilling one of the following criteria are eligible to participate in this study:
+- Patients with measurable disease as per RECIST criteria. This is defined as at least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded) as ≥ 20 mm with conventional technique or as ≥ 10 mm with spiral CT scan or MRI.
+- Patients with bone lesions, lytic or mixed (lytic + sclerotic), in the absence of measurable disease as defined by RECIST criteria. 
+
+7. Performance status of 0, 1, or 2. 
+
+8. Written informed consent to participate in the study. 
+
+E.4 Principal exclusion criteria: 1. Previous treatment with fulvestrant or exemestane.
+
+2. Extensive radiotherapy within previous 4 weeks (greater than or equal to 30% of marrow-bearing bone, eg, whole pelvis or half spine).  Strontium-90 (or other radiopharmaceutical) within previous 3 months. 
+
+3. Current or previously active systemic malignancy within 3 years prior to randomization (other than breast cancer, or adequately treated in-situ carcinoma of the cervix, uteri, or basal or squamous cell carcinoma of the skin).
+
+4. Any intercurrent systemic anti-cancer therapy after prior non-steroidal AI therapy.
+
+5. Currently receiving (and are unwilling to discontinue) hormone replacement therapy.
+
+6. Laboratory results sustained at:
+- Platelets < 100 x 10e9 /L
+- International normalized ratio (INR) > 1.6
+- Total bilirubin > 1.5 x ULRR
+- ALT or AST >2.5 x ULRR if no demonstrable liver metastases or
+>5 x ULRR in presence of liver metastases
+No more than 3 retests within screening period
+
+7. Risk (in the investigator’s opinion) of transmitting human immunodeficiency virus, hepatitis B or C, through blood or other bodily fluids. 
+
+8. History of:
+- bleeding diathesis (ie, disseminated intravascular coagulation [DIC], clotting factor deficiency) or
+- long-term anticoagulant therapy (other than antiplatelet therapy).
+
+9. Non-approved/experimental drug treatment within previous 4 weeks before randomization.
+
+10. Any severe concomitant condition which makes it undesirable for the patient to participate in the study or which would jeopardize compliance with the protocol eg, severe renal or hepatic impairment or currently unstable or uncompensated respiratory or cardiac conditions. 
+
+11. History of hypersensitivity to active or inactive excipients of fulvestrant and/or exemestane (ie castor oil or Mannitol).
+
+12. Presence of life-threatening metastatic visceral disease, defined as extensive hepatic involvement, or any degree of brain or leptomeningeal involvement (past or present), or symptomatic pulmonary lymphangitic spread. Subjects with discrete pulmonary parenchymal metastases are eligible, provided their respiratory function is not compromised as a result of disease.
+E.5 End points
+E.5.1 Primary end point(s): The primary endpoint of TTP is defined as the time from randomization to the time of the earliest evidence of disease progression or death from any cause.  Patients who have not progressed or died at the time of the data cut-off date or who have been lost to follow-up will be right-censored at the date of their last disease assessment.  Patients will be considered lost to follow-up if they have missed visits and there is no follow-up available for more than 6 months. 
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: No
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: Information not present in EudraCT
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: No
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: Yes
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: Yes
+E.8.2.3 Other: No
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.5 The trial involves multiple Member States: Yes
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+E.8.7 Trial has a data monitoring committee: Information not present in EudraCT
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: All patients will be followed up until there is objective progression of disease, irrespective of changes in systemic therapy for breast cancer.  The alternative therapies and start dates will be recorded.  All patients will be followed until death or until the final survival analysis end point has been met, whichever occurs first.  QoL questionnaires and health care resource use must be completed at each scheduled and unscheduled clinic visit until progression, and at treatment discontinuation.
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 2
+E.8.9.1 In the Member State concerned months: 10
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial years: 4
+E.8.9.2 In all countries concerned by the trial months: 3
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): No
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: No
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Information not present in EudraCT
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Information not present in EudraCT
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: Yes
+F.3.3.7.1 Details of other specific vulnerable populations: women ≥ 45 years with amenorrhoea ≥ 12 months with an intact uterus 
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 20
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 430
+F.4.2.2 In the whole clinical trial: 660
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): Patients will recieve standard treatment after they leave the study
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2004-12-03
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2004-10-06
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2014-09-04
+

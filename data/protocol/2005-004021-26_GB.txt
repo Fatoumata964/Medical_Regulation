@@ -1,0 +1,256 @@
+Summary
+EudraCT Number: 2005-004021-26
+Sponsor's Protocol Code Number: RRK 2768
+National Competent Authority: UK - MHRA 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2005-09-05
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2005-004021-26/GB/
+
+A. Protocol Information
+A.1 Member State Concerned: UK - MHRA
+A.2 EudraCT number: 2005-004021-26
+A.3 Full title of the trial: Longitudinal relationship between lipodystrophy and adipocyte mitochondria DNA in HIV Patients: comparison between Efavirenz (Sustiva) plus AZT/3TC (Combivir) and a less mitochrondial DNA-toxic regimen - Tenefovir/Emtricitabine (Truvada) plus Efavirenz. 
+A.3.2 Name or abbreviated title of the trial where available: Mitochondrial DNA Study
+A.4.1 Sponsor's protocol code number: RRK 2768
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: University Hospital Birmingham
+B.1.3.4	Country: United Kingdom
+B.3.1 and B.3.2	Status of the sponsor: Non-Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: SUSTIVA
+D.2.1.1.2 Name of the Marketing Authorisation holder: Bristol-Myers Squibb
+D.2.1.2 Country which granted the Marketing Authorisation: United Kingdom
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Efavirenz
+D.3.4 Pharmaceutical form: Capsule*
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: Yes
+D.3.11.13.1 Other medicinal product type: Antiretroviral medication - Non nucleoside reverse transcriptase inhibitor (NNRTI)
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: COMBIVIR
+D.2.1.1.2 Name of the Marketing Authorisation holder: GlaxoSmithKline
+D.2.1.2 Country which granted the Marketing Authorisation: United Kingdom
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: AZT/3TC
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: Yes
+D.3.11.13.1 Other medicinal product type: Antiretroviral medication - Nucleoside reverse transcriptase inhibitor 9NRTI)
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Information not present in EudraCT
+D.2.1.1.1 Trade name: TRUVADA
+D.2.1.1.2 Name of the Marketing Authorisation holder: GILEAD
+D.2.1.2 Country which granted the Marketing Authorisation: United Kingdom
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: emtricitabine/tenofovir 
+D.3.4 Pharmaceutical form: Film-coated tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: Information not present in EudraCT
+D.3.11.8 Extractive medicinal product: Information not present in EudraCT
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: Yes
+D.3.11.13.1 Other medicinal product type: Antiretroviral Medication - Nucleotide reverse transcriptase inhibitor (NtRI)
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: HIV
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: Peripheral fat loss and disturbances in fat and glucose metabolism often follows antiretroviral therapy of HIV. Fat loss caused by damage to cell mitochondria, may play a central role in metabolic abnormalaties consequently to HIV antiviral therapy. In this study we will randomise patients equally to receive one of two nationally and internationally recognised and recommended antiretroviral regimens (1. Combivir + Sustiva or 2. Truvada + Sustiva). 
+Comparison will be made between the two regimens regarding: plasma lipids, adipocyte hormones (adiponectin and leptin), insulin resistance, plasma cytokines, adipocyte mitochondrial content and activity, adipocyte genes regulating lipid and glucose metabolism, post-heparin lipoprotein lipase and hepatic lipase activity, and body fat distribution. Comparisons will be made before treatment and after 6 and 18-24 months
+E.2.2 Secondary objectives of the trial: Inter patient comparison between baseline values and values at 6 and at 18-24 months
+E.2.3 Trial contains a sub-study: Information not present in EudraCT
+E.3 Principal inclusion criteria: HIV positive patients > 18 years
+Antiretroviral naive
+Patients who are going to start anti-viral treatment (as determined by the current BHIVA guidelines and their clinician) will be invited to participate
+E.4 Principal exclusion criteria: Fasting glucose >6.1 mmol/L (or a non-diabetic glucose tolerance test if fasting glucose 6.1-6.9 mmol/L), weekly alcohol intake > 28 unit  (male) or 21 units (female) 73, taking lipid lowering drugs, glucocorticoids, or any drugs which affect lipid metabolism  (patients should be off lipid lowering drugs for at least 6 weeks), hypothyroidism, creatinine >150 mmol/L and ALT, AST >five times upper limit of normal, anaemia, >10% loss in body weight in the preceding six months, an AIDS defining disease within the last 3 months
+E.5 End points
+E.5.1 Primary end point(s): Plasma lipids, insulin resistance, serum adiponectin and leptin levels, serum cytokines, post-heparin lipoprotein lipase and hepatic lipase activity
+Also measured will be adipocyte mitochondrial DNA content, COX complex activity, uncoupling proteins 1, 2 and 3, a number of adipocyte genes controlling glucose and fat metabolism.
+Body fat changes as maesured by DEXA scan and single slice abdominal CT.
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: Information not present in EudraCT
+E.6.2 Prophylaxis: Information not present in EudraCT
+E.6.3 Therapy: Information not present in EudraCT
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Information not present in EudraCT
+E.6.6 Pharmacokinetic: Information not present in EudraCT
+E.6.7 Pharmacodynamic: Information not present in EudraCT
+E.6.8 Bioequivalence: Information not present in EudraCT
+E.6.9 Dose response: Information not present in EudraCT
+E.6.10 Pharmacogenetic: Information not present in EudraCT
+E.6.11 Pharmacogenomic: Information not present in EudraCT
+E.6.12 Pharmacoeconomic: Information not present in EudraCT
+E.6.13 Others: Information not present in EudraCT
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): Information not present in EudraCT
+E.7.1.1 First administration to humans: Information not present in EudraCT
+E.7.1.2 Bioequivalence study: Information not present in EudraCT
+E.7.1.3 Other: Information not present in EudraCT
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): Information not present in EudraCT
+E.7.3 Therapeutic confirmatory (Phase III): Information not present in EudraCT
+E.7.4 Therapeutic use (Phase IV): Yes
+E.8 Design of the trial
+E.8.1 Controlled: Information not present in EudraCT
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Information not present in EudraCT
+E.8.1.3 Single blind: Information not present in EudraCT
+E.8.1.4 Double blind: Information not present in EudraCT
+E.8.1.5 Parallel group: Information not present in EudraCT
+E.8.1.6 Cross over: Information not present in EudraCT
+E.8.1.7 Other: Information not present in EudraCT
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: Information not present in EudraCT
+E.8.2.3 Other: Information not present in EudraCT
+E.8.3 The trial involves single site in the Member State concerned: Yes
+E.8.4 The trial involves multiple sites in the Member State concerned: Information not present in EudraCT
+E.8.5 The trial involves multiple Member States: Information not present in EudraCT
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Information not present in EudraCT
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: Information not present in EudraCT
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: When all patients in the study have been on treatment for 24 months.
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 3
+E.8.9.1 In the Member State concerned months: 
+E.8.9.1 In the Member State concerned days: 
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: Information not present in EudraCT
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): Information not present in EudraCT
+F.1.1.3 Newborns (0-27 days): Information not present in EudraCT
+F.1.1.4 Infants and toddlers (28 days-23 months): Information not present in EudraCT
+F.1.1.5 Children (2-11years): Information not present in EudraCT
+F.1.1.6 Adolescents (12-17 years): Information not present in EudraCT
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Information not present in EudraCT
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: Information not present in EudraCT
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Information not present in EudraCT
+F.3.3.1 Women of childbearing potential not using contraception  
+(For clinical trials recorded in the database before the 10th March 2011 this question read: "Women of childbearing potential" and
+did not include the words "not using contraception". An answer of yes could have included women of child bearing potential whether
+or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
+database on 2005-09-05) : Yes
+F.3.3.2 Women of child-bearing potential using contraception: Information not present in EudraCT
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.6.1 Details of subjects incapable of giving consent: Patients will be on medically approved contraception. 
+F.3.3.7 Others: Information not present in EudraCT
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 60
+F.4.2 For a multinational trial
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): Patients will continue their care as normal in the HIV - OPD clinics.
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2005-10-06
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2005-06-06
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2011-05-31
+
