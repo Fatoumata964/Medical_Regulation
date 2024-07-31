@@ -32,10 +32,10 @@ except Exception as e:
 
 # Définition d'une classe TextInput héritant de BaseModel avec des champs par défaut pour le texte, les pays, le numéro EudraCT et la maladie
 class TextInput(BaseModel):
-    text: str = "irbesartan, hydrochlorothiazide"
-    countries: str = "Belgium - FPS Health-DGM"
-    eudract: str = "2004-000020-32"
-    disease: str = None
+    text: str = "irbesartan, hydrochlorothiazide" #Substance active
+    countries: str = "Belgium - FPS Health-DGM" #A.1 Member State Concerned:
+    eudract: str = "2004-000020-32" #A.2 EudraCT number:
+    disease: str = None #Disease
 
 # Fonction pour obtenir les réponses de LLM (Large Language Model) basées sur un dataframe de clusters, un prompt, un numéro EudraCT, un médicament et des pays
 def get_llm(df_clus, prompt, eudract, drug, countries):
