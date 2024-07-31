@@ -51,11 +51,11 @@ def score_hallucination(drug, countries, eudract, disease, text2):
 
 
 if __name__ == "__main__":
-    filepath = "./data/2005-004866-17_AT.txt"
+    filepath = "./data/2005-004866-17_AT.txt" #Nom du médicament Foscan, Substance active temoporfin
     
     # Lecture du contenu du fichier
     with open(filepath, "r", encoding="utf-8") as file:
         text = file.read() 
-    print("cosineSimilarity: ", cosineSimilarity("Foscan", "Austria - BASG", "2005-004866-17", "advanced head and neck squamous cell carcinoma", text))
-    print("score_hallucination: ", score_hallucination("Foscan", "Austria - BASG", "2005-004866-17", "advanced head and neck squamous cell carcinoma", text))
+    print("cosineSimilarity: ", cosineSimilarity("temoporfin", "Austria - BASG", "2005-004866-17", "advanced head and neck squamous cell carcinoma", text))
+    print("score_hallucination: ", score_hallucination("temoporfin", "Austria - BASG", "2005-004866-17", "advanced head and neck squamous cell carcinoma", text))
     
