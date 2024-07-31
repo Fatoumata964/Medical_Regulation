@@ -1,0 +1,394 @@
+Summary
+EudraCT Number: 2009-015162-57
+Sponsor's Protocol Code Number: P06153
+National Competent Authority: Czechia - SUKL 
+Clinical Trial Type: EEA CTA
+Trial Status: Prematurely Ended
+Date on which this record was first entered in the EudraCT database: 2011-04-15
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2009-015162-57/CZ/
+
+A. Protocol Information
+A.1 Member State Concerned: Czech Republic - SUKL
+A.2 EudraCT number: 2009-015162-57
+A.3 Full title of the trial: A Phase 3, 40-Week, Active-Controlled, Double-Blind, Double-Dummy Extension Study of Preladenant in Subjects With Moderate to Severe Parkinson’s Disease (Phase 3, Protocol No. P06153)
+A.3.1 Title of the trial for lay people, in easily understood, i.e. non-technical, language: An Active-Controlled Extension Study to P04938 and P07037 (P06153)
+A.4.1 Sponsor's protocol code number: P06153
+A.5.2 US NCT (ClinicalTrials.gov registry) number: NCT01215227
+A.7 Trial is part of a Paediatric Investigation Plan: No
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Schering-Plough Research Institute, a division of Schering Corporation
+B.1.3.4	Country: United States
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support: Schering-Plough Research Institute, a division of Schering Corporation
+B.4.2 Country: United States
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: Schering-Plough Research Institute, a division of Schering Corporation
+B.5.2 Functional name of contact point: Kenneth Wolski, MD
+B.5.3 Address
+B.5.3.1 Street Address: UG 4C-18, 351 Sumneytown Pike, PO Box 1000
+B.5.3.2 Town/ city: North Wales, PA
+B.5.3.3 Post code: 19454-2505
+B.5.3.4 Country: United States
+B.5.4 Telephone number: 001267305-3104
+B.5.5 Fax number: 001267305-6640
+B.5.6 E-mail: kenneth.wolski@merck.com
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: No
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Preladenant
+D.3.2 Product code: SCH 420814
+D.3.4 Pharmaceutical form: Coated tablet
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Preladenant
+D.3.9.1 CAS number: 377727-87-2
+D.3.9.2 Current sponsor code: SCH 420814
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: range
+D.3.10.3 Concentration number: 2 to 10
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Azilect
+D.2.1.1.2 Name of the Marketing Authorisation holder: Lundbeck (Schweiz) AG 
+D.2.1.2 Country which granted the Marketing Authorisation: Switzerland
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Azilect
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Rasagiline mesylate
+D.3.9.1 CAS number: 161735-79-1
+D.3.9.3 Other descriptive name: RASAGILINE MESILATE
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 1 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Azilect
+D.2.1.1.2 Name of the Marketing Authorisation holder: Teva Pharma GmbH
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Azilect
+D.3.4 Pharmaceutical form: Capsule, hard
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Rasagiline mesylate
+D.3.9.1 CAS number: 161735-79-1
+D.3.9.3 Other descriptive name: RASAGILINE MESILATE
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 1 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+D.8 Placebo: 1
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Coated tablet
+D.8.4 Route of administration of the placebo: Oral use
+D.8 Placebo: 2
+D.8.1 Is a Placebo used in this Trial? Yes
+D.8.3 Pharmaceutical form of the placebo: Tablet
+D.8.4 Route of administration of the placebo: Oral use
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Parkinson's disease
+E.1.1.1 Medical condition in easily understood language: Parkinson's Disease
+E.1.1.2 Therapeutic area: Diseases [C] - Nervous System Diseases [C10]
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 14.1
+E.1.2 Level: PT
+E.1.2 Classification code: 10061536
+E.1.2 Term: Parkinson's disease
+E.1.2 System Organ Class: 10029205 - Nervous system disorders
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To assess the long-term safety and tolerability of preladenant in subjects with moderate to severe PD.
+E.2.2 Secondary objectives of the trial: To characterize the long-term efficacy of preladenant in subjects with moderate to severe PD.
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: • Subjects must have completed P04938 or P07037.
+• Each subject (or subject’s legal representative) must be willing and able to provide written informed consent for P06153. For a subject who is unable to provide independent consent, a legal representative may provide written informed consent.
+• Subjects must be able to adhere to dose and visit schedules.
+• Subjects must be taking levodopa (L-dopa).
+• Subjects may be taking any of the following additional adjunct   PD medications: Amantadine, Anticholinergics, Dopa decarboxylase inhibitors, Dopamine agonists, Entacapone, L-dopa. Note: Subjects taking only L-dopa are permitted to enroll in this trial. 
+• Each subject must have results of clinical laboratory tests (hematology, blood chemistries, and urinalysis) within normal limits or clinically acceptable to the investigator as evidenced by the last available test results from the parent study (P04938 or P07037), and no results fall within the parameters for exclusion described below in the exclusion criterion for liver-related findings.
+• There has been no change in, or there has been no finding to warrant checking, serology status (for cytomegalovirus [CMV], Epstein-Barr virus [EBV], and Hepatitis B, C, and E).
+• Each subject must have results of a physical examination within normal limits, including blood pressure, within normal limits or clinically acceptable limits to the investigator, and not within the parameters for exclusion described below in the exclusion criterion for blood pressure.
+• All subjects that are sexually active or plan to be sexually active agree to use a highly effective method of birth control while the subject is in the study and for 2 weeks after the last dose of study drug. A male subject must not donate sperm within 2 weeks after the last dose of study drug. Complete details regarding contraceptive requirements are specified in protocol Section 7.7.1.7.
+E.4 Principal exclusion criteria: • A subject must not have discontinued from P04938 or P07037 for any reason
+• A subject must not have a severe or ongoing unstable medical condition (eg, any form of clinically significant cardiac disease, symptomatic orthostatic hypotension, seizures, or alcohol/drug dependence)
+• A subject must not have poorly controlled diabetes( eg, HbA1c >8.5) or significantly abnormal renal function (eg, creatinine >2.0 mg/dL) in the opinion of the investigator
+• As a continuation of the liver-related withdrawal criteria from the parent studies (P04938 and P07037), any subject with elevated values for alanine aminotransferase (ALT), aspartate aminotransferase (AST), or total bilirubin (T-BIL), as evidenced by the most recent chemistry panel results in the parent study, meeting any one of the following criteria:
+ALT or AST >8 x ULN
+ALT or AST >5 x ULN for more than 2 weeks
+ALT or AST >3 x ULN and T-BIL >2 x ULN or international normalized ratio [INR] >1.5 that is not due to anti-coagulation at the same visit
+ALT or AST >3 x ULN with the appearance of worsening fatigue, nausea, vomiting, right upper quadrant pain or tenderness, fever, rash, and/or eosinophilia (>5%)
+• As a continuation of the blood pressure (BP) withdrawal criteria from the parent studies (P04938 and P07037), any subject meeting the following criteria for the second of two consecutive visits separated by 7 days (ie, the subject met one of the BP criteria once already, 7 days before the P06153 Screening visit):
+Systolic BP ≥180 mm Hg or diastolic BP ≥105 mm Hg, or 
+An elevation from Baseline BP in the parent study (P04938 or P07037) of systolic BP ≥40 mm Hg or diastolic BP ≥20 mm Hg
+• A subject must not have a history within the past 5 years of a primary or recurrent malignant disease with the exception of adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, or in situ prostate cancer with a normal prostate-specific antigen (PSA) post resection
+• A subject must not have an average daily consumption of more than three 4-ounce glasses (118 mL) of wine or the equivalent
+• Prohibited Concomitant Medications: A subject should not take or start taking any treatment listed below. A subject must not have received any treatment listed in the table below more recently than the indicated period before Day 1 of P06153.  Tolcapone; Irreversible MAO inhibitors, eg, rasagiline, selegiline, Zydis selegiline; Reversible MAOB or MAOA inhibitor; Centrally acting dopamine antagonist (including metoclopramide, sulpiride, tiapride, etc.); alpha-methyldopa; Methylphenidate; Reserpine; Amphetamines; Flunarizine; Cinnarizine; Diphenhydramine used to treat parkinsonism; Theophylline; Meperidine, tramadol, methadone, propoxyphene, cocaine, or local anesthesia containing sympathomimetic vasoconstrictors; Dextromethorphan; Mirtazapine (a tetracyclic antidepressant), and cyclobenzaprine (a tricyclic muscle relaxant); Sympathomimetic amines including cold products, nasal and oral decongestants, and weight-reducing preparations that contain vasoconstrictors (eg, ephedrine, pseudoephedrine, phenylephrine, and phenylpropanolamine); St. John’s wort tricyclic antidepressants, serotonin-norepinephrine reuptake inhibitors, and selective serotonin reuptake inhibitors with the following exceptions: citalopram ≤20 mg/day, escitalopram ≤20 mg/day, paroxetine ≤30 mg/day, amitriptyline or nortriptyline ≤50 mg/day, trazodone or sertraline ≤100 mg/day; High tyramine-containing aged cheeses (eg, Stilton); Other potentially hepatotoxic drugs (including amiodarone, azathioprine, felbamate, imatinib, isoniazid, isotretinoin, leflunomide, methotrexate, nevirapine, pioglitazone, rosiglitazone, pyrazinamide, valproic acid, and voriconazole); Potent CYP3A4 inhibitors (eg, ritonavir, nelfinavir, indinavir); macrolide antibiotics (eg, erythromycin, clarithromycin, troleandomycin, telithromycin, [azithromycin is allowed]); and systemically administered antifungal agents (eg, ketoconazole, itraconazole); CYP3A4 inducers (eg, phenytoin, phenobarbital, barbiturates, systemic glucocorticoids); Atypical and typical neuroleptics (including depot formulations) except low dose quetiapine fumarate and clozapine
+• A subject must not have allergy/sensitivity to the investigational products or their excipients
+• A female subject must not be breast-feeding or considering breast-feeding
+• A female subject must not be pregnant or intending to become pregnant
+• A subject must not have any clinically significant condition or situation, other than the condition being studied that, in the opinion of the investigator, would interfere with the trial evaluations or optimal participation in the trial
+• A subject must not be a member of or a family member of the personnel of the investigational or sponsor staff directly involved with this trial
+E.5 End points
+E.5.1 Primary end point(s): The Safety Endpoints are related to the Primary Trial Objective. Efficacy Endpoints will include change from Baseline in each of the following: MoCA score; EQ-5D score; PDQ-39 score; BDI-II score; Apathy Scale score; 
+Diary data which include the following efficacy endpoints:
+Mean hours per day spent in the “off” state;
+Mean hours per day spent in the “on” state;
+Mean hours per day spent in the “on” state without troublesome dyskinesias;
+Mean hours per day spent in the “on” state with troublesome dyskinesias;
+Proportion of “on” time with no dyskinesias;
+Proportion of “on” time without troublesome dyskinesias;
+Proportion of “on” time with troublesome dyskinesias;
+Mean total sleep time.
+Total UPDRS score in the “on” state.
+UPDRS score for Parts 1, 2, and 3 combined.
+UPDRS score for Parts 2 and 3 combined.
+UPDRS subscale scores for Parts 1, 2, 3, and 4.
+Tremor domain of the UPDRS Part 3.
+E.5.1.1 Timepoint(s) of evaluation of this end point: Weeks 2, 4, 8, 16, 24, 32, and 40
+E.5.2 Secondary end point(s): Efficacy Endpoints will include change from Baseline in each of the following:
+• MoCA score
+• EQ-5D score
+• PDQ-39 score
+• BDI-II score
+• Apathy Scale score
+• Diary data which include the following efficacy endpoints:
+- Mean hours per day spent in the "off" state;
+- Mean hours per day spent in the "on" state;
+- Mean hours per day spent in the "on" state without troublesome dyskinesias;
+- Mean hours per day spent in the "on" state with troublesome dyskinesias;
+- Proportion of "on" time with no dyskinesias;
+- Proportion of "on" time without troublesome dyskinesias;
+- Proportion of "on" time with troublesome dyskinesias;
+- Mean total sleep time.
+• Total UPDRS score in the "on" state.
+- UPDRS score for Parts 1, 2, and 3 combined.
+- UPDRS score for Parts 2 and 3 combined.
+- UPDRS subscale scores for Parts 1, 2, 3, and 4.
+- Tremor domain of the UPDRS Part 3.
+E.5.2.1 Timepoint(s) of evaluation of this end point: Weeks 2, 4, 8, 16, 24, 32, and 40
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: No
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: Yes
+E.8.1.5 Parallel group: No
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.2.4 Number of treatment arms in the trial: 4
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 7
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 66
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: No
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+Argentina
+Austria
+Brazil
+Bulgaria
+Canada
+Chile
+Colombia
+Croatia
+Czech Republic
+Finland
+France
+Germany
+India
+Israel
+Italy
+Latvia
+Lithuania
+Mexico
+Netherlands
+Peru
+Poland
+Portugal
+Russian Federation
+Serbia
+South Africa
+Spain
+Sweden
+Turkey
+Ukraine
+United Kingdom
+United States
+E.8.7 Trial has a data monitoring committee: Yes
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: Last Subject Last Visit
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 2
+E.8.9.1 In the Member State concerned months: 6
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 2
+E.8.9.2 In all countries concerned by the trial months: 6
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.2.1 Number of subjects for this age range: 300
+F.1.3 Elderly (>=65 years): Yes
+F.1.3.1 Number of subjects for this age range: 450
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 64
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 480
+F.4.2.2 In the whole clinical trial: 750
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): No treatment with the IMP beyond the final scheduled visit will be allowed under the current protocol
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2011-06-17
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2011-03-21
+
+P. End of Trial
+P. End of Trial Status: Prematurely Ended
+P. Date of the global end of the trial: 2013-07-16
+

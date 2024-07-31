@@ -1,0 +1,280 @@
+Summary
+EudraCT Number: 2009-015629-35
+Sponsor's Protocol Code Number: R076477SCH3038
+National Competent Authority: Belgium - FPS Health-DGM 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2009-09-08
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2009-015629-35/BE/
+
+A. Protocol Information
+A.1 Member State Concerned: Belgium - FPS Health-DGM
+A.2 EudraCT number: 2009-015629-35
+A.3 Full title of the trial: Open-label, single arm, interventional study to explore the efficacy and safety of paliperidone ER in the management of patients with acute agitation and/or aggression
+A.3.2 Name or abbreviated title of the trial where available: IMPACT
+A.4.1 Sponsor's protocol code number: R076477SCH3038
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Janssen-Cilag NV/SA
+B.1.3.4	Country: Belgium
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Invega
+D.2.1.1.2 Name of the Marketing Authorisation holder: Janssen-Cilag N.V./S.A.
+D.2.1.2 Country which granted the Marketing Authorisation: Belgium
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: paliperidone ER 6 mg
+D.3.2 Product code: R076477
+D.3.4 Pharmaceutical form: Capsule*
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Invega
+D.2.1.1.2 Name of the Marketing Authorisation holder: Janssen-Cilag N.V./S.A.
+D.2.1.2 Country which granted the Marketing Authorisation: Belgium
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: paliperidone ER 9 mg
+D.3.2 Product code: R076477
+D.3.4 Pharmaceutical form: Capsule*
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Temesta Expidet
+D.2.1.1.2 Name of the Marketing Authorisation holder: Wyeth
+D.2.1.2 Country which granted the Marketing Authorisation: Belgium
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: lorazepam 2,5 mg
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Subject presenting with acute agitation and/or agression in the context of psychosis, suspected schizophrenia
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: This open-label, single arm, interventional study will collect data on efficacy and safety during first days of treatment with paliperidone ER in patients with acute agitation and/or aggression in the context of psychosis in the psychiatric emergency setting. Primary objective will be the number of patients having an improvement of 40 % or more on PANSS-EC (= response) at day 6 or early termination compared to baseline. 
+E.2.2 Secondary objectives of the trial: To explore efficacy, tolerability and safety of the use of paliperidone ER in patients presenting with symptoms of agitation and/or aggression in the context of psychosis.
+This is done by:
+•assessing the change from baseline on the PANSS-EC; 
+•assessing the change from baseline on the OAS (Overt Aggression Scale); 
+•assessing the change from baseline on disease severity (Global Assessment of functioning [GAF]); 
+•differentiate between extreme agitation and extreme sedation (Behavioural Activity Rating Scale , a 7-point categorical evaluation scale
+•assessing tolerability and safety by reporting adverse events (AEs) and vital signs. 
+•assessing the use of lorazepam.
+The most likely psychiatric diagnosis, based on DSM-IV criteria, will be collected at end of trial.
+
+
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: •	Subject presenting with acute agitation and/or agression in the context of psychosis, suspected schizophrenia;
+•	A score of 20 or above at the PANSS-EC;
+•	Male or female, aged ≥ 18;
+•	Subject is outpatient in need of hospitalization, according to physician’s discretion;
+•	Female patients of childbearing potential must have a negative urine pregnancy test at baseline and further adequate anticonceptive protection; 
+•	Signed Informed Consent
+
+E.4 Principal exclusion criteria: •	Received benzodiazepines 4 hours prior to enrolment;
+•	Received antipsychotic medication 72 hours prior to enrolment;
+•	Agitation, aggression or violent behavior that necessitates the use of intramuscular or intravenous medication;
+•	Patient’s preference for intramuscular or intravenous treatment;
+•	Patient judged to be at high risk for suicidal behavior;
+•	Pregnant or breast feeding female;
+•	Subject received clozapine or a long-acting injectable antipsychotic during the last 3 months;
+•	Serious unstable medical condition, including known clinically relevant laboratory abnormalities;
+•	History or current symptoms of tardive dyskinesia;
+•	History of neuroleptic malignant syndrome;
+•	Participation in an investigational drug trial in the 30 days prior to selection;
+•	Inability to swallow the study medication whole with the aid of water (subjects may not chew, divide, dissolve, or crush the study medication, as this may affect the release profile);
+•	Subjects with a narrowing or blockage of their gastro-intestinal tract;
+•	Subjects with current or known history (over the past 6 months) of substance dependence (except for nicotine and caffeine dependence) according to DSM-IV criteria;
+•	Known hypersensitivity to paliperidone ER or risperidone
+•	Employees of the investigator or study center, persons with direct involvement in the proposed study or other studies under the direction of that investigator or study center, or family members of the employees or the investigator.
+
+E.5 End points
+E.5.1 Primary end point(s): The primary efficacy criterion will be the response rate at endpoint (defined as a 40% improvement of PANSS-EC baseline versus endpoint) 
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): Yes
+E.8 Design of the trial
+E.8.1 Controlled: No
+E.8.1.1 Randomised: Information not present in EudraCT
+E.8.1.2 Open: Information not present in EudraCT
+E.8.1.3 Single blind: Information not present in EudraCT
+E.8.1.4 Double blind: Information not present in EudraCT
+E.8.1.5 Parallel group: Information not present in EudraCT
+E.8.1.6 Cross over: Information not present in EudraCT
+E.8.1.7 Other: Information not present in EudraCT
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Information not present in EudraCT
+E.8.2.2 Placebo: Information not present in EudraCT
+E.8.2.3 Other: Information not present in EudraCT
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 20
+E.8.5 The trial involves multiple Member States: No
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: After 5 days of treatment per subject, the trial ends
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 1
+E.8.9.1 In the Member State concerned months: 0
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial months: 0
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: No
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: No
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 75
+F.4.2 For a multinational trial
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): After the trial period the investigator can decide upon the treatment of the subject
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2009-09-28
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2009-11-05
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2011-12-19
+

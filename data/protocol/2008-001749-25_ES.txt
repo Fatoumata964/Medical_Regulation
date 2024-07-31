@@ -1,0 +1,256 @@
+Summary
+EudraCT Number: 2008-001749-25
+Sponsor's Protocol Code Number: MUH-TEL-2008-04
+National Competent Authority: Spain - AEMPS 
+Clinical Trial Type: EEA CTA
+Trial Status: Prematurely Ended
+Date on which this record was first entered in the EudraCT database: 2009-06-08
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2008-001749-25/ES/
+
+A. Protocol Information
+A.1 Member State Concerned: Spain - AEMPS
+A.2 EudraCT number: 2008-001749-25
+A.3 Full title of the trial: Estudio Abierto para evaluar la seguridad de Fosamprenavir/Ritonavir (FPV/rtv) Administrado durante 96 semanas a Pacientes Co-infectados con   HIV/HCV
+A.4.1 Sponsor's protocol code number: MUH-TEL-2008-04
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Matter Misericoridiae University Hospital. Dublín
+B.1.3.4	Country: Ireland
+B.3.1 and B.3.2	Status of the sponsor: Non-Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: TELZIR 700 mg comprimidos recubiertos con película
+D.2.1.1.2 Name of the Marketing Authorisation holder: GLAXO GROUP LTD.
+D.2.1.2 Country which granted the Marketing Authorisation: Spain
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: FOSAMPRENAVIR CALCICO
+D.3.9.3 Other descriptive name: FOSAMPRENAVIR CALCICO
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 700 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: Information not present in EudraCT
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: NORVIR 100 mg cápsulas blandas
+D.2.1.1.2 Name of the Marketing Authorisation holder: ABBOTT LABORATORIES LTD.
+D.2.1.2 Country which granted the Marketing Authorisation: Spain
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Capsule*
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: RITONAVIR
+D.3.9.3 Other descriptive name: RITONAVIR
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 100 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: Information not present in EudraCT
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Investigar si FPV/rtv se puede utilizar de una manera segura en pacientes co-infectados con VIH/VHC, y aquellos con alteraciones hepáticas, y evaluar si estos pacientes se podrían beneficiar de una dosificación ajustada adecuadamente.
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: Evaluar la seguridad/tolerabilidad hepática del tratamiento TARGA que incluya FPV/rtv,  a las 48 semanas, valorado por la incidencia de los incrementos de grado 3-4 de las transaminasas.
+E.2.2 Secondary objectives of the trial: Describir el efecto que FPV/rtv tenga en la progresión clínica de la enfermedad hepática durante  96 semanas.
+Evaluar el papel de marcadores no-invasivos (APRI, Forms index, SHASTA y Fibroscan en la evaluación y vigilancia de pacientes co-infectados  con HIV/HCV.
+Investigar el papel del  control terapéutico del medicamento (TDM) en la evaluación y manejo de estos pacientes.
+Valorar el papel del control terapéutico del medicamento (TDM) para la monitorización y/o ajuste de dosis en pacientes con fibrosis/cirrosis hepática tomando FPV/rtv.
+Describir la seguridad global de FPV/rtv en pacientes con alteración hepática leve o moderada.
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: 1.Debe haber cumplido  &#8805;18 años de edad.
+2.Puede haber recibido o no, terapia antirretroviral.
+3.Quiere y puede entender y proporcionar consentimiento informado antes de su participación en el estudio.
+4.Debe tener prueba de la co-infección de VHC (PCR positiva)
+5.Debe tener documentación de infección según prueba de anticuerpos al VIH 
+6.Una mujer puede participar en el estudio, siempre y cuando: 
+No pueda concebir  (es decir, sea fisiológica ente incapaz de quedarse embarazada, incluye mujeres post menopáusicas); o,
+Si puede concebir, debe tener un test de embarazo negativo (niveles de &#946;-HCG en suero) en la visita de selección, y debe utilizar un método anticonceptivo de barrera  y/u hormonal (cualquiera de los métodos anticonceptivos que se adopten, deberán ser utilizados consistente y correctamente, es decir,  de acuerdo con las instrucciones del prospecto del producto y de su médico.  Esterilización (que se hayan esterilizado bien a la mujer misma o a su pareja masculina).
+
+Todos los sujetos del estudio deben ser asesorados sobre la práctica del sexo seguro.
+E.4 Principal exclusion criteria: 1.Sujetos que en la evaluación Basal se encuentren en la fase inicial de una infección aguda de la Categoría Clínica C, según la clasificación de la CDC  (definiciones CDC Apéndice 9.4.0). Estos sujetos se podrían  incluir si estuvieran recibiendo  tratamiento para estas infecciones y estuvieran mejorando clínicamente en la visita Basal.
+2.Sujetos que participen en protocolos con medicamentos en investigación, que pueda impactar en la supresión del ARN del VIH.
+3.Sujetos que, en la opinión del investigador, no puedan completar el periodo de dosificación del estudio y sus evaluaciones. 
+4.Pacientes con alteración hepática severa (puntuación CTP  >9)
+5.Pacientes con co-infección  VHB
+6.Sujetos que en la selección, muestren evidencia de resistencia genotípica a FPV (según definición del algoritmo actual de la ANRS AC-11) o evidencia documentada de resistencia genotípica o fenotípica a amprenavir/ritonavir (por encima del umbral de la susceptibilidad reducida) 
+7.Pacientes con problemas de adicción al alcohol o drogas, que en opinión  del investigador comprometan la participación en el estudio. 
+8.Pacientes que estén en tratamiento para la infección de VHC en las primeras 48 semanas del estudio
+9.Mujeres que estén embarazadas o en periodo de lactancia.
+10.Sujetos que tengan alguna condición médica grave (tal como pancreatitis, diabetes, insuficiencia cardiaca, cardiomiopatía o alguna otra disfunción cardiaca), que en la opinión del Investigador, comprometería la seguridad del sujeto.
+11.Sujetos con previa enfermedad mental, física, o abuso de sustancias no permitidas que, en la opinión del investigador, puedan interferir en la habilidad del sujeto  para cumplir con la dosificación del protocolo y sus evaluaciones.
+12.Sujetos con historia de enfermedad intestinal inflamatoria o cáncer intestinal, isquemia intestinal, malabsorbción, o alguna otra disfunción gastrointestinal, que en la opinión del Investigador pueda interferir con la absorción de la medicación o que haga que el sujeto no pueda tomar medicación oral.
+13.Sujetos con anomalías agudas de laboratorio en la evaluación de selección,  que en la opinión del Investigador, descartaría la participación del sujeto en el estudio de un medicamento en investigación. Si los sujetos presentan  una anomalía aguda de grado 4, la prueba podría repetirse una vez más en la ventana de 45 días de la selección. Si se confirmara la anomalía de grado 4, se excluiría al sujeto de la participación en el estudio.
+14.Sujetos con un aclaramiento de creatinina < 50 mL/min por el método de Cockcroft-Gault [Cockcroft, 1976]. Esta prueba podría repetirse  una vez más en la ventana de 45 días de la selección.                                                        15.Alanin aminotransferasa (ALT) >5 veces el límite superior de la normalidad (ULN). 
+16.Sujetos que hayan recibido en los 14 días previos a la selección, medicación clasificada como contraindicada con el uso de  FPV/rtv.
+17.Sujetos que hayan recibido radioterapia o quimioterapia citotóxica durante los 28 días antes de la selección del estudio, o se sabe de la necesidad de este tipo de tratamiento durante el periodo del estudio.
+18.Sujetos que hayan recibido tratamiento con una vacuna inmuno-terapéutica contra el VIH-1 o alguna otra medicación con actividad anti-VIH in vitro, durante los  28 días antes de la selección del estudio, o se sabe de la necesidad de este tipo de tratamiento durante el periodo del estudio.
+19.Sujetos que requieran tratamiento con medicaciones contraindicadas (descritas en el prospecto de FPV/rtv) en los 14 días previos al comienzo de la medicación en investigación, o se anticipa la necesidad de su uso durante el estudio.
+20.Sujetos con historia de alergia a cualquiera de los tratamientos del estudio o alguno de sus excipientes.
+E.5 End points
+E.5.1 Primary end point(s): Incidencia de incrementos grado 3-4 de la ALT o la AST durante 48 semanas.
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: Yes
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: Yes
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: Yes
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: Information not present in EudraCT
+E.7.1.2 Bioequivalence study: Information not present in EudraCT
+E.7.1.3 Other: Information not present in EudraCT
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: No
+E.8.1.1 Randomised: Information not present in EudraCT
+E.8.1.2 Open: Information not present in EudraCT
+E.8.1.3 Single blind: Information not present in EudraCT
+E.8.1.4 Double blind: Information not present in EudraCT
+E.8.1.5 Parallel group: Information not present in EudraCT
+E.8.1.6 Cross over: Information not present in EudraCT
+E.8.1.7 Other: Information not present in EudraCT
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Information not present in EudraCT
+E.8.2.2 Placebo: Information not present in EudraCT
+E.8.2.3 Other: Information not present in EudraCT
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 6
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 10
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: Yes
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 2
+E.8.9.1 In the Member State concerned months: 9
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 2
+E.8.9.2 In all countries concerned by the trial months: 9
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: Information not present in EudraCT
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): Information not present in EudraCT
+F.1.1.3 Newborns (0-27 days): Information not present in EudraCT
+F.1.1.4 Infants and toddlers (28 days-23 months): Information not present in EudraCT
+F.1.1.5 Children (2-11years): Information not present in EudraCT
+F.1.1.6 Adolescents (12-17 years): Information not present in EudraCT
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 90
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 160
+F.4.2.2 In the whole clinical trial: 160
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2009-08-07
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2009-07-13
+
+P. End of Trial
+P. End of Trial Status: Prematurely Ended
+

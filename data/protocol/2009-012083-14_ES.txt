@@ -1,0 +1,268 @@
+Summary
+EudraCT Number: 2009-012083-14
+Sponsor's Protocol Code Number: EPC2008-02
+National Competent Authority: Spain - AEMPS 
+Clinical Trial Type: EEA CTA
+Trial Status: Prematurely Ended
+Date on which this record was first entered in the EudraCT database: 2009-09-25
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2009-012083-14/ES/
+
+A. Protocol Information
+A.1 Member State Concerned: Spain - AEMPS
+A.2 EudraCT number: 2009-012083-14
+A.3 Full title of the trial: Estudio multicéntrico abierto sobre los efectos del tratamiento de mantenimiento de la remisión con Ceplene® (dihidrocloruro de histamina), en combinación con dosis bajas de Interleucina-2 (IL-2, Proleukin®;), para evaluar la respuesta inmunitaria y la enfermedad residual mínima (ERM) en adultos con leucemia mieloide aguda (LMA) en primera remisión completa (RC1) 
+
+An Open-Label, Multicenter Study of the Effects of Remission Maintenance Therapy with Ceplene® (Histamine Dihydrochloride), Given in Conjunction with Low-Dose Interleukin-2 (IL-2, Proleukin®), on Immune Response and Minimal Residual Disease (MRD) in Adult Patients with Acute Myeloid Leukemia (AML) in First Complete Remission (CR1)
+A.4.1 Sponsor's protocol code number: EPC2008-02
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: EpiCept Corporation
+B.1.3.4	Country: United States
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Ceplene
+D.2.1.1.2 Name of the Marketing Authorisation holder: EpiCept GmbH
+D.2.1.2 Country which granted the Marketing Authorisation: Germany
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: Yes
+D.2.5.1 Orphan drug designation number: EU/3/05/272
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: dihidrocloruro de histamina (Histamine dihydrochloride)
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 0.5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Proleukin
+D.2.1.1.2 Name of the Marketing Authorisation holder: Novartis Pharmaceutical UK
+D.2.1.2 Country which granted the Marketing Authorisation: United Kingdom
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Powder for solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Subcutaneous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: des-alanyl-1,serine-125 human interleukin-2
+D.3.9.3 Other descriptive name: IL-2
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg/ml microgram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 200 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: Yes
+D.3.11.13.1 Other medicinal product type: IL-2 recombinante
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Immune Response and Minimal Residual Disease (MRD) in Adult Patients with Acute Myeloid Leukemia in First Complete Remission (CR1)
+
+Respuesta inmunitaria y la enfermedad residual mínima (ERM) en adultos con leucemia mieloide aguda (LMA) en primera remisión completa (RC1)
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 9.1
+E.1.2 Level: LLT
+E.1.2 Classification code: 10000887
+E.1.2 Term: Acute myeloid leukemia in remission
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: 1.	Evaluar los efectos farmacodinámicos cualitativos y cuantitativos de Ceplene en combinación con dosis bajas de IL-2 (Ceplene e IL-2) mediante el seguimiento de los fenotipos de los linfocitos citolíticos naturales y linfocitos T y su funcionalidad, tras el 1er y 3er ciclo de tratamiento, en adultos con leucemia mieloide aguda (LMA) en primera remisión completa (RC1).
+2.	Evaluar los efectos sobre la enfermedad residual mínima (ERM) en pacientes con LMA que reciban Ceplene e IL-2.
+E.2.2 Secondary objectives of the trial: 1.	Supervivencia libre de leucemia (SLL) tras un período de seguimiento de hasta dos años.
+2.	SLL a los 2 años por subgrupo de LMA, definido en función de los marcadores citogenéticos específicos para LMA en el momento del diagnóstico.
+3.	Seguridad del tratamiento con Ceplene e IL-2.
+4.	Relación potencial de los efectos de Ceplene e IL-2 sobre los fenotipos de los linfocitos NK y linfocitos T y su funcionalidad en términos de enfermedad mínima residual.
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: 	Pacientes con LMA en RC1 que hayan sido caracterizados adecuadamente mediante análisis citogenético (usando técnicas de citogenética molecular, p. ej.: RQ-PCR) en el momento del diagnóstico. Los pacientes que no se hayan sometido a esta evaluación en el momento del diagnóstico, pero que dispongan de una muestra de médula ósea viable para efectuar dicho análisis, podrán ser elegibles para este estudio. 
+	Caracterización inmunofenotípica de leucemia en el momento del diagnóstico, mediante técnicas de CFM. 
+	Mielograma confirmatorio de RC (definida como proporción de blastos <5% en médula ósea normocelular). 
+	Pacientes con &#8805;18 años de edad.
+	Pacientes que hayan recibido cualquier modalidad de inducción o consolidación, de acuerdo con las prácticas clínicas habituales del centro, incluido el transplante autólogo de células madre (ATCM).
+	Dentro de las 6 semanas posteriores a la última dosis de quimioterapia de consolidación o acondicionamiento para LMA, o al ATCM.
+	Recuento de plaquetas después de la quimioterapia &#8805;75 x 109/L, y Tiempo Parcial de Tromboplastina (TPT) dentro de los límites normales.
+	Leucocitos &#8805;1,5 x 109/L y pruebas de la función hepática (con inclusión de SGPT [ALT] o SGOT [AST] y bilirrubina) que no deben exceder el doble del límite superior de la normalidad.
+	Creatinina sérica &#8804; 1,5 veces respecto al límite normal más alto.
+	Capaz de realizar sus actividades diarias sin una disminución significativa (Estado Funcional según la OMS 0 - 1 o la clasificación Karnofsky &#8805;70, véase el Apéndice 1).
+	Esperanza de vida >3 meses y capaz de realizar las evaluaciones ambulatorias de rutina para eficacia, seguridad y/o cumplimiento.
+	Las mujeres en edad fértil deben estar usando un método anticonceptivo de barrera o por vía oral, durante todo el tratamiento, o documentar la esterilidad quirúrgica o el estado posmenopáusico durante al menos 1 año.
+	Si es una mujer no debe estar en período de lactancia ni embarazada y debe tener una prueba de embarazo negativa dentro de las dos semanas previas al inicio del tratamiento del estudio.
+	Se debe informar al paciente de que se trata de un estudio de investigación y se debe obtener el consentimiento informado por escrito.
+E.4 Principal exclusion criteria: 	Pacientes que hayan recibido o potenciales receptores de trasplante alogénico de células madre.
+	Pacientes con subtipo M3 de LMA.
+	Cardiopatía grado III o IV, hipotensión o hipertensión severa, inestabilidad vasomotora, arritmias cardíacas graves o no controladas (incluidas las arritmias ventriculares) en cualquier momento, infarto agudo de miocardio en los últimos 12 meses, angina de pecho activa no controlada o arterioesclerosis sintomática.
+	Otros procesos malignos activos a excepción de carcinoma de cuello uterino in situ, carcinoma escamoso localizado o carcinoma de células basales de la piel.
+	Problemas médicos graves o procesos no malignos coexistentes o recientes que, en opinión del Investigador, puedan impedir que el paciente sea apto para participar en este estudio.
+	Antecedentes de convulsiones, trastornos neurológicos, accidente cerebrovascular en los últimos 12 meses o discapacidad psiquiátrica que, en opinión del Investigador, pueda ser clínicamente importante o influir negativamente sobre el cumplimiento con el protocolo. 
+	Incapacidad para someterse repetidamente a tratamientos, evaluaciones clínicas u otros procedimientos diagnósticos establecidos en el protocolo.
+	Antecedentes de enfermedad autoinmunitaria (incluidos, sin limitación, el lupus sistémico, la enfermedad inflamatoria intestinal y la soriasis).
+	Pacientes con úlcera péptica activa o enfermedad ulcerativa esofágica o que hayan tenido úlcera péptica o enfermedad esofágica con antecedentes de sangrado.
+	Pacientes que requieran tratamiento activo para la hipotensión.
+	Cualquier problema médico, sociológico o psicológico que pudiera impedir el debido cumplimiento con el protocolo.
+	Pacientes en tratamiento sistémico con clonidina, esteroides y antagonistas de los receptores H2.
+	Pacientes con antecedentes de hipersensibilidad a la histamina o productos derivados de la histamina, alergias graves alimentarias o a medios de contraste en los últimos cinco años.
+E.5 End points
+E.5.1 Primary end point(s): Los efectos cualitativos y cuantitativos de Ceplene e IL-2 sobre las respuestas inmunitarias de los linfocitos NK y linfocitos T se evaluarán basándose en lo siguiente:
+1.	Cambios en los fenotipos de los linfocitos NK y linfocitos T (CD56, CD3, CD4, CD8) en sangre periférica desde el Día 1 (basal) al Día 21  del Ciclo 1 y desde el Día 1 (3er Ciclo pretratamiento) al Día 21 del Ciclo 3.
+2.	Cambios en los marcadores de la respuesta inmunitaria (CD3-zeta, NKp46 [y otros NCR], CD25, CD69 e IFN-&#947;) en sangre periférica desde el Día 1 (basal) al Día 21 del Ciclo 1 y desde el Día 1 (3er Ciclo pretratamiento) al Día 21 del Ciclo 3.
+3.	La ERM se evaluará por citometría de flujo (CFM) en pacientes que reciban Ceplene e IL-2. El inmunofenotipado se llevará a cabo en muestras de médula ósea recientes después del tratamiento de consolidación (en el momento de la inclusión, y servirá como determinación basal de la ERM) en un margen de 10 días después de la finalización del 3er y 5º Ciclos, es decir alrededor de 3 y 6 meses después del inicio del tratamiento, respectivamente, para evaluar el número de células leucémicas residuales (CLR) en médula ósea en cada momento de evaluación.
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: No
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: Yes
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: Information not present in EudraCT
+E.7.1.2 Bioequivalence study: Information not present in EudraCT
+E.7.1.3 Other: Information not present in EudraCT
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: No
+E.8.1.1 Randomised: Information not present in EudraCT
+E.8.1.2 Open: Information not present in EudraCT
+E.8.1.3 Single blind: Information not present in EudraCT
+E.8.1.4 Double blind: Information not present in EudraCT
+E.8.1.5 Parallel group: Information not present in EudraCT
+E.8.1.6 Cross over: Information not present in EudraCT
+E.8.1.7 Other: Information not present in EudraCT
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Information not present in EudraCT
+E.8.2.2 Placebo: Information not present in EudraCT
+E.8.2.3 Other: Information not present in EudraCT
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 3
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 20
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 4
+E.8.9.1 In the Member State concerned months: 0
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 4
+E.8.9.2 In all countries concerned by the trial months: 0
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: Information not present in EudraCT
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): Information not present in EudraCT
+F.1.1.3 Newborns (0-27 days): Information not present in EudraCT
+F.1.1.4 Infants and toddlers (28 days-23 months): Information not present in EudraCT
+F.1.1.5 Children (2-11years): Information not present in EudraCT
+F.1.1.6 Adolescents (12-17 years): Information not present in EudraCT
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 14
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 118
+F.4.2.2 In the whole clinical trial: 150
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): Una vez finalizada la participación en el ensayo, el investigador prescribirá el mejor tratamiento disponible para el paciente
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2009-11-18
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2009-11-06
+
+P. End of Trial
+P. End of Trial Status: Prematurely Ended
+

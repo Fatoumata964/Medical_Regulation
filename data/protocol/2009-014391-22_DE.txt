@@ -1,0 +1,408 @@
+Summary
+EudraCT Number: 2009-014391-22
+Sponsor's Protocol Code Number: CCBC134A2404
+National Competent Authority: Germany - BfArM 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2009-12-04
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2009-014391-22/DE/
+
+A. Protocol Information
+A.1 Member State Concerned: Germany - BfArM
+A.2 EudraCT number: 2009-014391-22
+A.3 Full title of the trial: An open label, multi-center, randomized, comparative Phase IIIb study to compare efficacy and safety of intravenous (i.v.) daptomycin with that of Semi-synthetic Penicillins (SSPs) or vancomycin in the treatment of elderly patients (aged ≥ 65 years) with complicated Skin and Soft Tissue Infections (cSSTIs)
+A.4.1 Sponsor's protocol code number: CCBC134A2404
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Novartis Pharma AG
+B.1.3.4	Country: Switzerland
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Cubicin
+D.2.1.1.2 Name of the Marketing Authorisation holder: Novartis Europharm Limited
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Powder for solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: DAPTOMYCIN
+D.3.9.1 CAS number: 103060-53-3
+D.3.9.2 Current sponsor code: CBC134
+D.3.9.3 Other descriptive name: Cubicin
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 350 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: Yes
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Cubicin
+D.2.1.1.2 Name of the Marketing Authorisation holder: Novartis Europharm Limited
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Powder for solution for injection
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: DAPTOMYCIN
+D.3.9.1 CAS number: 103060-53-3
+D.3.9.2 Current sponsor code: CBC134
+D.3.9.3 Other descriptive name: Cubicin
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 500 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: Yes
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Vancomycin
+D.3.4 Pharmaceutical form: Powder for solution for infusion
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: VANCOMYCIN
+D.3.9.1 CAS number: 1404906
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: Yes
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 4
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Oxacillin
+D.3.4 Pharmaceutical form: Injection*
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: OXACILLIN
+D.3.9.1 CAS number: 66795
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: Yes
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 5
+D.1.2 and D.1.3 IMP Role: Comparator
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Flucloxacillin
+D.3.4 Pharmaceutical form: Injection*
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: FLUCLOXACILLIN
+D.3.9.1 CAS number: 5250-39-5
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: Yes
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: complicated skin and soft tissue infections.
+MedDRA Classification
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: To evaluate and descriptively compare clinical success at the Test-Of-Cure visit (TOC) in elderly patients (aged ≥ 65 years) with cSSTIs, treated with either 4 or 6 mg/kg once daily i.v. daptomycin and with comparator.
+E.2.2 Secondary objectives of the trial: To descriptively evaluate the microbiological outcome of daptomycin in comparison to that of comparator in the treatment of cSSTIs as measured by the proportion of patients achieving bacteriological eradication of Gram-positive baseline pathogens at the TOC visit.
+To evaluate the duration of treatment (i.v., i.v. + oral).
+To evaluate and descriptively compare adverse event frequencies and laboratory abnormalities in elderly patients treated with 4 and 6 mg/kg once daily of i.v. daptomycin and with comparator (Safety evaluation).
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: Patients eligible for inclusion in this study have to fulfill all of the following criteria:
+1. Written informed consent to participate in the study. In the event that the patient is unable to give consent, the patient's legally authorized representative may do so by means approved by the investigator’s EC.
+2. Patients with age of 65 years or older.
+3. Infection of sufficient severity to require in-patient hospitalization, with parenteral
+antimicrobial therapy for at least 96 hours.
+4. Patients who have a diagnosis of Gram-positive complicated skin and soft tissue infections (cSSTIs) with or without bacteremia, e.g.:
+• wound infections due to:
+o traumatic injury (e.g., crush, puncture, laceration, gunshot, etc.),
+o surgical incision,
+o foreign body (e.g., septic phlebitis associated with intravenous catheter sites).
+Infected foreign bodies (e.g., implanted pacemakers) are to be removed within 24
+hours following study enrolment.
+• major abscesses which are defined as meeting all the following criteria:
+o involve the subcutaneous or deeper tissues
+o require surgical incision and drainage,
+o require antibiotic therapy in addition to drainage.
+• severe carbunculosis,
+• infected ulcers (except patients with multiple infected ulcers, see exclusion criteria)
+associated with: diabetes, vascular insufficiency, pressure (i.e., decubitus ulcers),
+• presence of a complicating factor, including:
+o a pre-existing skin lesion or underlying condition that adversely affected the
+delivery of drug to the affected area, the immunologic response, or tissue healing,
+o requirement for significant surgical intervention,
+o suspected or confirmed involvement of deep soft tissues, fascia, or muscle,
+o chronic systemic steroids (> 20 mg prednisone daily or equivalent),
+o diabetes mellitus requiring treatment with oral hypoglycemic agents or insulin.
+5. Presence of at least 3 of the following signs and symptoms of skin infection:
+• temperature > 38.0°C rectal or > 37.5°C oral/tympanic,
+• elevated WBC >12x 103/μL or with > 10 % bands (immature neutrophils),
+• drainage and/ or discharge from the infection site,
+• erythema (extending at least 1 cm beyond wound edge),
+• fluctuance,
+• heat and/ or localized warmth,
+• pain and/ or tenderness to palpation,
+• edema and/ or induration.
+E.4 Principal exclusion criteria: Patients fulfilling any of the following criteria are not eligible for inclusion in this study:
+Non-complicated SSTI:
+1. Conditions requiring surgery that in and of itself would cure the infection or remove the infected site (e.g., amputation).
+2. Minor or superficial skin infections (e.g., furuncles, simple abscesses, acne, impetigo).
+3. Cellulitis, including erysipelas, not associated with complicating factors. However,
+patients with cellulitis associated with more serious infection (e.g., surgical wound,
+diabetic ulcer, deep tissue) can be enrolled (proportion of these patients will be limited to 30%).
+Infections for which outcome is difficult to assess:
+4. Perirectal abscess.
+5. Hidradenitis suppurativa.
+6. Gangrene.
+7. Infected human or animal bites.
+8. Multiple infected ulcers at distant sites.
+9. Infected burns (only 3rd degree burn wound or wound area of more than 10 cm diameter).
+10. Conditions requiring emergency surgery including necrotizing fasciitis.
+Medical conditions:
+11. History of significant allergy or intolerance to vancomycin or daptomycin.
+Hypersensitivity to the selected SSPs is not an exclusion criterion.
+12. Concomitant clinically suspected or confirmed other site of infection or disorder at study entry that may interfere with the evaluation in this protocol such as primary muscle disorders, pneumonia, endocarditis, osteomyelitis, septic arthritis, meningitis, spinal epidural abscess, intraabdominal infection (peritonitis, etc.) and intravascular devicerelated bacteremia.
+13. Infections associated with a permanent prosthetic device that will not be removed within 24 hours after enrolment.
+14. Shock or hypotension (supine systolic blood pressure < 80 mm Hg) refractory to fluid or short course pressor challenge (> 4 hours).
+15. Neutrophil count < 1000/μL.
+16. Known or suspected HIV infection with a CD4+ T-cell count < 500/μL (HIV testing is not required).
+17. Severe hepatic disease (Child-Pugh Class C) or ALT and/or AST > 5 times ULN and/ or total bilirubin > 2 times ULN at screening.
+18. Calculated creatinine clearance by the Cockcroft-Gault equation using actual body weight < 30 mL/min or any type of dialysis.
+19. Life expectancy less than six months.
+20. Treatment with any investigational agent or device within 30 days of study drug
+administration.
+21. Patients unwilling or unable to adhere to study-designated procedures and restrictions.
+22. Patients admitted to the hospital for drug abuse or other conditions associated with rhabdomyolysis.
+Exclusion criteria related to microbiology
+23. Patients with an infection due to an organism known to be resistant to daptomycin or vancomycin at study entry.
+24. cSSTIs suspected or documented as being due exclusively to Gram-negative or anaerobic organisms based on the epidemiology or on direct examination of a Gram- stained specimen.
+Exclusion criteria related to medications
+25. Need at study entry, for a non-study systemic antibacterial (for concomitant infection) to which the target pathogen is susceptible.
+26. Previous systemic antibacterial therapy for the treatment of Gram-positive cSSTIs for more than 24 hours within 48 hours prior to the day of first infusion of study drug unless:
+• the infecting Gram-positive pathogen is intermediate or resistant in vitro to the
+previous antibacterial therapy; or
+• the previous antibacterial therapy was administered for 3 or more calendar days with either worsening or no improvement in the clinical signs and symptoms of cSSTI, and was not vancomycin or SSP.
+27. Systemic antibacterial(s) known to be active in vitro against Gram-positive cocci were administered for more than 24 hours within the 48 hours prior to the first infusion of study drug as treatment for another site of infection or as surgical prophylaxis, unless the cSSTI developed during this treatment.
+No additional exclusions may be applied by the investigator, in order to ensure that the study population will be representative of all eligible patients.
+E.5 End points
+E.5.1 Primary end point(s): (see main objective section)
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: Information not present in EudraCT
+E.7.1.2 Bioequivalence study: Information not present in EudraCT
+E.7.1.3 Other: Information not present in EudraCT
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): Yes
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: Information not present in EudraCT
+E.8.2.3 Other: Information not present in EudraCT
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 8
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 22
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: Yes
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.6.3 If E.8.6.1 or E.8.6.2 are Yes, specify the regions in which trial sites are planned:
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 
+E.8.9.1 In the Member State concerned months: 18
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial months: 18
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: Information not present in EudraCT
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): Information not present in EudraCT
+F.1.1.3 Newborns (0-27 days): Information not present in EudraCT
+F.1.1.4 Infants and toddlers (28 days-23 months): Information not present in EudraCT
+F.1.1.5 Children (2-11years): Information not present in EudraCT
+F.1.1.6 Adolescents (12-17 years): Information not present in EudraCT
+F.1.2 Adults (18-64 years): No
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: No
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: Yes
+F.3.3.6.1 Details of subjects incapable of giving consent: In the event that the patient is unable to give consent, the patient's legally authorized representative may do so by means approved by the investigator’s EC.
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 34
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 81
+F.4.2.2 In the whole clinical trial: 146
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2010-01-27
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2011-03-24
+

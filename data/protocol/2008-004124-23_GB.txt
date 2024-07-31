@@ -1,0 +1,278 @@
+Summary
+EudraCT Number: 2008-004124-23
+Sponsor's Protocol Code Number: A0221058
+National Competent Authority: UK - MHRA 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2009-01-20
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2008-004124-23/GB/
+
+A. Protocol Information
+A.1 Member State Concerned: UK - MHRA
+A.2 EudraCT number: 2008-004124-23
+A.3 Full title of the trial: A 12 week, multicentre, open label study to evaluate the efficacy, tolerability and safety of a Fesoterodine flexible dose regimen in patients with overactive bladder
+A.4.1 Sponsor's protocol code number: A0221058
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: Pfizer Limited
+B.1.3.4	Country: United Kingdom
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Toviaz
+D.2.1.1.2 Name of the Marketing Authorisation holder: Pfizer Limited
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Fesoterodine
+D.3.4 Pharmaceutical form: Prolonged-release tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Fesoterodine
+D.3.9.1 CAS number: 286930-03-8
+D.3.9.3 Other descriptive name: Fesoterodine funarate
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 4 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Toviaz
+D.2.1.1.2 Name of the Marketing Authorisation holder: Pfizer Limited
+D.2.1.2 Country which granted the Marketing Authorisation: European Union
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Fesoterodine
+D.3.4 Pharmaceutical form: Prolonged-release tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Fesoterdine
+D.3.9.1 CAS number: 286930-03-8
+D.3.9.3 Other descriptive name: Fesoterodine funarate
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 8 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Treatment of the symptoms (increased urinary frequency and/or urgency and/or urgency incontinence) that may occur in patients with overactive bladder syndrome.
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 9.1
+E.1.2 Level: LLT
+E.1.2 Classification code: 10059617
+E.1.2 Term: Overactive bladder
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: The primary objective is to demonstrate the efficacy, in terms of reduction of icturations, of 12 weeks flexible dose fesoterodine in subjects with OAB compared to baseline.
+E.2.2 Secondary objectives of the trial: To assess the use of flexible dosing of fesoterodine on other bladder diary variables after 4 and 12 weeks compared to baseline.
+
+To assess the effect of flexible dose fesoterodine on treatment satisfaction and health-related quality of life measures at 12 weeks compared to baseline.
+
+To assess the safety and tolerability of flexible dose fesoterodine in subjects with OAB.
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: Subjects must meet all of the following inclusion criteria to be eligible for enrolment into the trial:
+1. Male or female outpatients ≥18 years old.
+2. Overactive bladder symptoms (subject-reported) for ≥3 months prior to Screening/Visit 1.
+3. Mean urinary frequency of ≥8 micturitions per 24 hours as verified by the screening bladder diary prior to Baseline/Visit 2.
+4. Mean number of Urgency episodes ≥3 per 24 hours as verified by the screening bladder diary prior to Baseline/Visit 2 (Urgency episodes are defined as those with Urinary Sensation Scale rating ≥3).
+5. Rate their bladder as causing “(Some) Moderate Problems”, “Severe Problems” or “Many Severe Problems” on the Patient Perception of Bladder Condition (PPBC) Questionnaire at Visit 2.
+6. Able and willing to complete the micturition bladder diaries and all trial related
+questionnaires, comply with scheduled clinic visits and clinical trial procedures.
+7. Capability of understanding and having signed the informed consent form after full
+discussion of the treatment and its risk and benefits.
+E.4 Principal exclusion criteria: 1.Any condition that would contraindicate the usage of fesoterodine including, but not limited to: hypersensitivity to the active substance (fesoterodine fumarate) or any of the excipients, or to peanut or soya; urinary retention; gastric retention; uncontrolled narrow angle glaucoma; myasthenia gravis; moderate or severe hepatic impairment (Child Pugh C); severe renal impairment; severe ulcerative colitis, and toxic megacolon.
+2.Neurologic conditions, such as stroke, multiple sclerosis, spinal cord injury, or Parkinson’s disease.
+3.Stage 3 or greater pelvic organ prolapse, defined as tissue protruding to or beyond the introitus in lithotomy position at rest (without increase in intra abdominal pressure).
+4.History of lower urinary tract surgery (eg, incontinence surgery or surgery to reduce prostate size; or transurethral resection of the prostate (TURP) or bladder (TURBT) with the exception of any minor surgery (eg, cystoscopic procedures)) within the past 6 months.
+5.A known history of interstitial cystitis or a significant pain component associated with OAB symptoms, uninvestigated haematuria, urogenital cancer, interstitial or external radiation to the pelvis or external genitalia, or bladder outlet obstruction due to vesical neck contracture, clinical suspicion of prostate carcinoma, mullerian duct cysts, urethral obstruction due to stricture/valves/sclerosis or urethral tumour, radiation cystitis, genito-urinary tuberculosis, bladder calculi, or detrusor-sphincter dyssynergia.
+6.Active bladder stones.  Subjects with a previous history of bladder stones may be included.
+7.Previous history of acute urinary retention requiring catheterization, clinically relevant bladder outlet obstruction or severe voiding difficulties in the judgment of the investigator, prior to Visit 2.
+8.Use of an indwelling catheter or an intermittent self-catheterisation programme.
+9.Symptoms of incontinence being predominately stress urinary incontinence as determined by the investigator.
+10.Urinary tract infection (UTI) as shown by the results of the urinalysis at Screening or recurrent urinary tract infection (RUTIs) defined as treatment for UTI 3 times in the last year.
+11.Use of any electrostimulation, bladder training, or pelvic floor exercises (with certified incontinence practitioners) within 4 weeks prior to Visit 1.
+12.Treatment with antimuscarinic OAB medication within 3 weeks prior to Visit 2, including any preparation containing:
+•Darifenacin, oxybutynin, propiverine, tolterodine, fesoterodine, solifenacin and trospium.
+13.Initiation of treatment during the 16 week trial period with:
+•Any drug treatment for overactive bladder.
+•Any drugs with significant anticholinergic, antispasmodic, parasympathetic, or cholinergic agonistic effects.
+14.Intermittent or unstable use of diuretics or alpha blockers, or tricyclic antidepressants, oestrogen therapy and any 5AR inhibitors or initiation of such treatment(s) within 2 weeks prior to Visit 2.
+15.Treatment with moderate or potent CYP3A4 inhibitors, such as grapefruit juice, macrolide antibiotics (erythromycin, clarithromycin), immunosuppressants (cyclosporine), azole antifungal agents (ie, ketoconazole, itraconazole), protease inhibitors within 3 weeks prior to Visit 2
+16.Administration of medications capable of inducing hepatic enzyme metabolism or transport (eg, barbiturates, rifampicin, carbamazepine, phenytoin, primidone, or St. John’s Wort).
+17.Participated in any clinical trial or received any investigational drug within 4 weeks prior to Visit 2.
+18.Abuse of alcohol and/or any other drug in the opinion of the investigator.
+19.Female subjects who are pregnant, nursing, or who are intending to become pregnant during the trial or within 3 months after the completion of the trial.
+20.Female subjects of childbearing potential who are heterosexually active but not using an adequate form of contraception.  Reliable contraceptive methods (need at least 2) defined as hormonal methods of contraception (including oral, patches, injected, implants, IUDs (intrauterine device)) at least 14 days prior to the first dose of trial medication; placement of a copper-containing intrauterine device (IUD) condom with spermicidal foam/gel/film/cream/suppository, tubal ligation male partner who has had a vasectomy for a least 4 months or abstinence.
+21.Any medical (including known history of major haematological, renal, cardiovascular, or hepatic abnormalities) or psychological condition or social circumstances that would impair their ability to participate reliably in the trial, or those who may increase the risk to themselves or others by participating.
+22.Has any current malignancy except:
+•Those >5 years ago without recurrence.
+•Excised basal cell skin carcinoma or squamous cell cancer.
+23.Subjects who, in the opinion of the investigator, are not likely to complete the trial for any reason.
+
+E.5 End points
+E.5.1 Primary end point(s): Change in mean number of micturitions per 24 hours at Week 12 relative to baseline.
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: Yes
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: Yes
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): Yes
+E.8 Design of the trial
+E.8.1 Controlled: No
+E.8.1.1 Randomised: Information not present in EudraCT
+E.8.1.2 Open: Information not present in EudraCT
+E.8.1.3 Single blind: Information not present in EudraCT
+E.8.1.4 Double blind: Information not present in EudraCT
+E.8.1.5 Parallel group: Information not present in EudraCT
+E.8.1.6 Cross over: Information not present in EudraCT
+E.8.1.7 Other: Information not present in EudraCT
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Information not present in EudraCT
+E.8.2.2 Placebo: Information not present in EudraCT
+E.8.2.3 Other: Information not present in EudraCT
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.5 The trial involves multiple Member States: No
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 0
+E.8.9.1 In the Member State concerned months: 4
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 0
+E.8.9.2 In all countries concerned by the trial months: 0
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: Information not present in EudraCT
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): Information not present in EudraCT
+F.1.1.3 Newborns (0-27 days): Information not present in EudraCT
+F.1.1.4 Infants and toddlers (28 days-23 months): Information not present in EudraCT
+F.1.1.5 Children (2-11years): Information not present in EudraCT
+F.1.1.6 Adolescents (12-17 years): Information not present in EudraCT
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception  
+(For clinical trials recorded in the database before the 10th March 2011 this question read: "Women of childbearing potential" and
+did not include the words "not using contraception". An answer of yes could have included women of child bearing potential whether
+or not they would be using contraception. The answer should therefore be understood in that context. This trial was recorded in the
+database on 2009-01-20) : Yes
+F.3.3.2 Women of child-bearing potential using contraception: Yes
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 326
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 326
+F.4.2.2 In the whole clinical trial: 326
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2008-12-08
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2009-01-29
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2010-01-14
+

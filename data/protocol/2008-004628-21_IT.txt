@@ -1,0 +1,270 @@
+Summary
+EudraCT Number: 2008-004628-21
+Sponsor's Protocol Code Number: SAMDOCET
+National Competent Authority: Italy - Italian Medicines Agency 
+Clinical Trial Type: EEA CTA
+Trial Status: Ongoing
+Date on which this record was first entered in the EudraCT database: 2008-10-16
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2008-004628-21/IT/
+
+A. Protocol Information
+A.1 Member State Concerned: Italy - Italian Medicines Agency
+A.2 EudraCT number: 2008-004628-21
+A.3 Full title of the trial: A multicenter phase III randomized study of 153Sm-EDTMP and Docetaxel + Prednisone versus Docetaxel + Prednisone in Taxane-naive patients with metastatic hormone-refractory prostate cancer.
+A.3.2 Name or abbreviated title of the trial where available: SAMDOCET
+A.4.1 Sponsor's protocol code number: SAMDOCET
+A.5.1 ISRCTN (International Standard Randomised Controlled Trial) number: ND
+A.7 Trial is part of a Paediatric Investigation Plan: Information not present in EudraCT
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: AZIENDA OSPEDALIERA PISANA
+B.1.3.4	Country: Italy
+B.3.1 and B.3.2	Status of the sponsor: Non-Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: QUADRAMET
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Solution for infusion
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Samarium (153Sm) lexidronam
+D.3.10 Strength
+D.3.10.1 Concentration unit: MBq/kg megabecquerel(s)/kilogram
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 37 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: Yes
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: DELTACORTENE
+D.2.1.1.2 Name of the Marketing Authorisation holder: BRUNO FARMACEUTICI SpA
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Buccal use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Prednisone
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg milligram(s)
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 5 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: Yes
+D.3.11.13.1 Other medicinal product type: principio attivo di natura chimica
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: TAXOTERE
+D.2.1.1.2 Name of the Marketing Authorisation holder: SANOFI-AVENTIS SpA
+D.2.1.2 Country which granted the Marketing Authorisation: Italy
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: Yes
+D.2.5.1 Orphan drug designation number: ORPHA131279
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Concentrate for solution for infusion
+D.3.4.1 Specific paediatric formulation: Information not present in EudraCT
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: Docetaxel
+D.3.10 Strength
+D.3.10.1 Concentration unit: mg/ml milligram(s)/millilitre
+D.3.10.2 Concentration type: equal
+D.3.10.3 Concentration number: 10 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): Information not present in EudraCT
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: Information not present in EudraCT
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): Information not present in EudraCT
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: Information not present in EudraCT
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: Information not present in EudraCT
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: Information not present in EudraCT
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: Yes
+D.3.11.13.1 Other medicinal product type: principio attivo di natura chimica
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Taxane-naive patients with metastatic hormone-refractory prostate cancer.
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 9.1
+E.1.2 Level: HLT
+E.1.2 Classification code: 10036908
+E.1.2 Term: Prostatic neoplasms malignant
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: The primary objective is to compare time-to-progression (TTP) of 153Sm-EDTMP and Docetaxel + Prednisone (Arm 1) to Docetaxel + Prednisone (Arm 2).
+E.2.2 Secondary objectives of the trial: The secondary objectives are comparison between the treatment arms of:  &#61607; Tumor response  &#61607; Overall survival  &#61607; Quality of life  &#61607; Pain assessment  &#61607; Safety
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: 1. Histologically confirmed diagnosis of prostate cancer.  2. Hormone-refractory disease as defined in by two consecutive rises (one week apart) in PSA with testosterone within castration levels (<50 ng/dL), and in accordance with the most recent recommendations by the Prostate Cancer Clinical Trials Working Group (PCWG2) 45.  3. Painful bone metastasis(es) evident on bone scan.  4. Life expectancy of at least 3 months.  5. ECOG performance status score &#8804; 2.  6. Written informed consent.
+E.4 Principal exclusion criteria: 1. Predominance of visceral metastases  2. Patients with risk of pathologic bone fracture who need immediate intervention.  3.  Previous chemotherapy within the last 5 years.  4.  Previous external beam therapy on more than 30% of bone marrow.  5. Any of the following abnormal baseline hematological values:   Hemoglobin < 9 g/dL   White Blood Cells < 3 &#61620; 109/L   Neutrophils < 1.5 &#61620; 109/L   Platelets  < 100 x 109/L  4. Any of the following abnormal baseline liver function tests:    Total serum bilirubin > 1.5 ULN (upper limit of normal)           SGPT/ALT and SGOT/AST > 1.5 x ULN  5. Abnormal renal function test   Serum creatinine > 1.5 x ULN  6. Very extensive bone metastatic involvement, such as super scan on scintigraphy.  7. Flutamide, Finasteride, Bicalutamide, megestrol acetate, cyproterone acetate or nitulamide within 6 weeks of randomization.   8. Cardiovascular: clinically relevant abnormalities, myocardial infarctions or other severe coronary artery disease within the prior six months, cardiac arrhythmia requiring medication or uncontrolled arterial hypertension.  9. Cardiac failure or non-compensated active heart disease (> class II of NYHA classification).  10. Other co-existing malignancies or malignancies diagnosed within the last 5 years with the exception of basal cell carcinoma in situ.  11. Any other investigational drug within 4 weeks of study entry.
+E.5 End points
+E.5.1 Primary end point(s): Time-to-progression is the time from the first study drug administration until documented disease progression.
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: No
+E.6.7 Pharmacodynamic: No
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: No
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: Yes
+E.6.13.1 Other scope of the trial description: qualita' della vita e frequenza di impiego di analgesici
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Yes
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 6
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 6
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: Information not present in EudraCT
+E.8.7 Trial has a data monitoring committee: Yes
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: La fine dello studio si verifica 18 mesi dopo la randomizzazione dell'ultimo paziente arruolato
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 3
+E.8.9.1 In the Member State concerned months: 6
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial years: 3
+E.8.9.2 In all countries concerned by the trial months: 6
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: No
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: No
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: No
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 154
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 308
+F.4.2.2 In the whole clinical trial: 308
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2008-12-02
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2008-09-25
+
+P. End of Trial
+P. End of Trial Status: Ongoing
+

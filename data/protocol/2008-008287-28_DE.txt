@@ -1,0 +1,259 @@
+Summary
+EudraCT Number: 2008-008287-28
+Sponsor's Protocol Code Number: ALI-FRA-0030-I
+National Competent Authority: Germany - BfArM 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2010-04-13
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2008-008287-28/DE/
+
+A. Protocol Information
+A.1 Member State Concerned: Germany - BfArM
+A.2 EudraCT number: 2008-008287-28
+A.3 Full title of the trial: Effect of direct renin-inhibition aliskiren on renal haemodynamic and metabolic parameters in patients with prediabetes
+A.3 Full title of the trial (de): Effekt des direkten Renin-Inhbitor Aliskiren auf die renale Hämodynamik und auf metabolische Parameter bei Patienten mit Prädiabetes
+A.3.2 Name or abbreviated title of the trial where available: AMARYLIS
+A.3.2 Name or abbreviated title of the trial where available (de): AMARYLIS
+A.4.1 Sponsor's protocol code number: ALI-FRA-0030-I
+A.7 Trial is part of a Paediatric Investigation Plan: No
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: University Hospital Erlangen
+B.1.3.4	Country: Germany
+B.3.1 and B.3.2	Status of the sponsor: Non-Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support: Novartis
+B.4.2 Country: Germany
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Rasilez 150 mg
+D.2.1.1.2 Name of the Marketing Authorisation holder: Novartis
+D.2.1.2 Country which granted the Marketing Authorisation: Germany
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Rasilez
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Rasilez 300 mg
+D.2.1.1.2 Name of the Marketing Authorisation holder: Novartis
+D.2.1.2 Country which granted the Marketing Authorisation: Germany
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.1 Product name: Rasilez
+D.3.4 Pharmaceutical form: Tablet
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Oral use
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: Yes
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): No
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Patients with prediabetes (either impaired glucose tolerance or imparied fasting glucose) and no obvious diabetes mellitus
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 14.1
+E.1.2 Level: LLT
+E.1.2 Classification code: 10065542
+E.1.2 Term: Prediabetes
+E.1.2 System Organ Class: 10027433 - Metabolism and nutrition disorders
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: The primary aim of this study is to examine the effect of Aliskiren (150mg/daily for 1 week, 300 mg/daily for 4 weeks) on renal hemodynamics in patients with prediabetes and eleveted blood pressure.
+E.2.2 Secondary objectives of the trial: The effect of a 5 week lasting therapy with Aliskiren on metabolic parameters (HbA1c, high sensitive CRP, Adiponectin), in patients with impaired glucose tolerance and arterial. 
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: Adults aged > 18 to < 70 years
+Prediabetes (HbA1c 5.7-6.4 %) impaired fasting glucose (blood glucose 100 - 126 mg/dl) or impaired glucose tolerance (IGT) (Blood glucose > 140 mg/dl and < 200 mg/dl 2 h after an oral glucose administration of 75g)
+E.3 Principal inclusion criteria (de): Erwachsene im Alter > 18 Jahre und < 70 Jahre
+Prädiabetes, definiert als HbA1c 5,7-6,4%, oder gestörter Nüchternglucose, oder gestörter Glukosetoleranz (1 Kriterium reicht), (siehe Diabetes Leitlinien DDG)
+Blutdruck > 130/85 mmHg (siehe ESH Guidelines)
+
+E.4 Principal exclusion criteria: Diabetes Mellitus Type 1/2
+Micro-, or Macroalbuminuria
+Renal insufficiency
+Secondary forms of arterial hypertension
+Ongoing therapy with ACE-Inhibitors, AT1 blocker, direct renin inhibitor
+Antihypertensive therapy with more than 2 agents
+Uncontrolled Blood pressure
+Known intolerance of direct renin inhibitor
+Medical history of cerebral stroke or myocardial infarction within the last 6 months, chronic heart failure NYHA III-IV
+Severe gastrointestinal disease
+Elevated liver parameters (SGOT, SGPT > more than doubled)
+Tablet or alcohol abuse
+Adipositas per magna (BMI > 35kg/m²)
+Malignant disease
+Insufficient Compliance
+E.4 Principal exclusion criteria (de): Manifester Diabetes Mellitus Typ 1 und 2
+Mikro, bzw. Makroalbuminuire
+Niereninsuffizienz (Filtration< 60ml)
+Sekundäre Form einer arteriellen Hypertonie
+Laufende Therapie mit einem ACE-Hemmer, AT 1-Blocker, direkten Reninantagonisten
+Blutdrucktherapie mit mehr als zwei Antihypertensiva
+Unkontrollierter Bluthochdruck 
+Bekannte Unverträglichkeit von direkten Reninantagonisten
+Apoplex, Myocardinfarkt in den letzten 6 Monaten
+Herzinsuffizienz NYHA III-IV
+Schwerwiegende Magen-Darmerkrankungen
+Leberwerterhöhung (SGOT, SGPT > 2-fach Norm)
+Medikamenten- oder Alkoholmissbrauch
+Adipositas per magna (BMI > 35kg/m2)
+Vorliegen einer malignen Erkrankung
+Unzureichende Compliance
+
+E.5 End points
+E.5.1 Primary end point(s): Renal haemodynamic parameters (glomerular filtration rate, renal plasma flow, filtration fraction) under direct renin blockade
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: Information not present in EudraCT
+E.6.2 Prophylaxis: Information not present in EudraCT
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Information not present in EudraCT
+E.6.7 Pharmacodynamic: Information not present in EudraCT
+E.6.8 Bioequivalence: Information not present in EudraCT
+E.6.9 Dose response: Information not present in EudraCT
+E.6.10 Pharmacogenetic: Information not present in EudraCT
+E.6.11 Pharmacogenomic: Information not present in EudraCT
+E.6.12 Pharmacoeconomic: Information not present in EudraCT
+E.6.13 Others: Information not present in EudraCT
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): No
+E.7.3 Therapeutic confirmatory (Phase III): Yes
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: Yes
+E.8.1.1 Randomised: No
+E.8.1.2 Open: No
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: No
+E.8.1.6 Cross over: No
+E.8.1.7 Other: Yes
+E.8.1.7.1 Other trial design description: case control study
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): No
+E.8.2.2 Placebo: No
+E.8.2.3 Other: No
+E.8.2.3.1 Comparator description: with and without treatment
+E.8.3 The trial involves single site in the Member State concerned: Yes
+E.8.4 The trial involves multiple sites in the Member State concerned: No
+E.8.4.1 Number of sites anticipated in Member State concerned: 1
+E.8.5 The trial involves multiple Member States: No
+E.8.5.1 Number of sites anticipated in the EEA: 1
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: No
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 1
+E.8.9.1 In the Member State concerned months: 
+E.8.9.1 In the Member State concerned days: 
+E.8.9.2 In all countries concerned by the trial years: 1
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: No
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): No
+F.1.1.6 Adolescents (12-17 years): No
+F.1.2 Adults (18-64 years): Yes
+F.1.3 Elderly (>=65 years): Yes
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: No
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: No
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: No
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 20
+F.4.2 For a multinational trial
+F.4.2.2 In the whole clinical trial: 20
+F.5 Plans for treatment or care after the subject has ended the participation in the trial (if it is different from the expected normal treatment of that condition): All study participants will be examined at the end of the study (U2). After the end of the study, the study were treated by their family practitioners or optionally in the nephrological outpatient clinic, Klinikum rechts der Isar, Technische Universität München. 
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2010-05-11
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2014-03-18
+

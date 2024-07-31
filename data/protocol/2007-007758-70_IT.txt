@@ -1,0 +1,406 @@
+Summary
+EudraCT Number: 2007-007758-70
+Sponsor's Protocol Code Number: NH19707
+National Competent Authority: Italy - Italian Medicines Agency 
+Clinical Trial Type: EEA CTA
+Trial Status: Completed
+Date on which this record was first entered in the EudraCT database: 2008-11-05
+Link: https://www.clinicaltrialsregister.eu/ctr-search/trial/2007-007758-70/IT/
+
+A. Protocol Information
+A.1 Member State Concerned: Italy - Italian Medicines Agency
+A.2 EudraCT number: 2007-007758-70
+A.3 Full title of the trial: An open-label multi-center, multiple dose study to determine the optimum starting dose of intravenous MIRCERA for maintenance treatment of anemia in pediatric patients with chronic kidney disease on hemodialysis
+A.3 Full title of the trial (it): Studio in aperto, multicentrico, a dose multipla per determinare la dose iniziale ottimale di MIRCERA somministrato per via endovenosa per il trattamento di mantenimento dell`anemia in pazienti pediatrici con malattia renale cronica in emodialisi
+A.4.1 Sponsor's protocol code number: NH19707
+A.7 Trial is part of a Paediatric Investigation Plan: No
+A.8 EMA Decision number of Paediatric Investigation Plan: 
+
+B. Sponsor Information
+Sponsor 1
+B.1.1 Name of Sponsor: ROCHE
+B.1.3.4	Country: Italy
+B.3.1 and B.3.2	Status of the sponsor: Commercial
+B.4 Source(s) of Monetary or Material Support for the clinical trial:
+B.4.1 Name of organisation providing support:
+B.4.2 Country:
+B.5 Contact point designated by the sponsor for further information on the trial
+B.5.1 Name of organisation: 
+B.5.2 Functional name of contact point: 
+
+D. IMP Identification
+D.IMP: 1
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Mircera
+D.2.1.1.2 Name of the Marketing Authorisation holder: Roche Registration Limited
+D.2.1.2 Country which granted the Marketing Authorisation: United Kingdom
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: methoxy polyethylene glycol-epoetin beta
+D.3.9.1 CAS number: 677324-53-7
+D.3.9.2 Current sponsor code: Ro 0503821
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.3 Concentration number: 30 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 2
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Mircera
+D.2.1.1.2 Name of the Marketing Authorisation holder: Roche Registration Limited
+D.2.1.2 Country which granted the Marketing Authorisation: United Kingdom
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: methoxy polyethylene glycol-epoetin beta
+D.3.9.1 CAS number: 677324-53-7
+D.3.9.2 Current sponsor code: Ro 0503821
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.3 Concentration number: 50 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 3
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Mircera
+D.2.1.1.2 Name of the Marketing Authorisation holder: Roche Registration Limited
+D.2.1.2 Country which granted the Marketing Authorisation: United Kingdom
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: methoxy polyethylene glycol-epoetin beta
+D.3.9.1 CAS number: 677324-53-7
+D.3.9.2 Current sponsor code: Ro 0503821
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.3 Concentration number: 75 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 4
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Mircera
+D.2.1.1.2 Name of the Marketing Authorisation holder: Roche Registration Limited
+D.2.1.2 Country which granted the Marketing Authorisation: United Kingdom
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: methoxy polyethylene glycol-epoetin beta
+D.3.9.1 CAS number: 677324-53-7
+D.3.9.2 Current sponsor code: Ro 0503821
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.3 Concentration number: 30 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 5
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Mircera
+D.2.1.1.2 Name of the Marketing Authorisation holder: Roche Registration Limited
+D.2.1.2 Country which granted the Marketing Authorisation: United Kingdom
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: methoxy polyethylene glycol-epoetin beta
+D.3.9.1 CAS number: 677324-53-7
+D.3.9.2 Current sponsor code: Ro 0503821
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.3 Concentration number: 200 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+D.IMP: 6
+D.1.2 and D.1.3 IMP Role: Test
+D.2 Status of the IMP to be used in the clinical trial
+D.2.1 IMP to be used in the trial has a marketing authorisation: Yes
+D.2.1.1.1 Trade name: Mircera
+D.2.1.1.2 Name of the Marketing Authorisation holder: Roche Registration Limited
+D.2.1.2 Country which granted the Marketing Authorisation: United Kingdom
+D.2.5 The IMP has been designated in this indication as an orphan drug in the Community: No
+D.2.5.1 Orphan drug designation number: 
+D.3 Description of the IMP
+D.3.4 Pharmaceutical form: Solution for injection
+D.3.4.1 Specific paediatric formulation: No
+D.3.7 Routes of administration for this IMP:
+Intravenous use
+D.3.8 to D.3.10 IMP Identification Details (Active Substances)
+D.3.8 INN - Proposed INN: methoxy polyethylene glycol-epoetin beta
+D.3.9.1 CAS number: 677324-53-7
+D.3.9.2 Current sponsor code: Ro 0503821
+D.3.10 Strength
+D.3.10.1 Concentration unit: µg microgram(s)
+D.3.10.3 Concentration number: 360 
+D.3.11 The IMP contains an
+D.3.11.1 Active substance of chemical origin: No
+D.3.11.2 Active substance of biological/ biotechnological origin (other than Advanced Therapy IMP (ATIMP): Yes
+D.3.11.3 Advanced Therapy IMP (ATIMP): No
+D.3.11.3.1 Somatic cell therapy medicinal product: No
+D.3.11.3.2 Gene therapy medical product: No
+D.3.11.3.3 Tissue Engineered Product: No
+D.3.11.3.4 Combination ATIMP (i.e. one involving a medical device): No
+D.3.11.3.5 Committee on Advanced therapies (CAT) has issued a classification for this product: No
+D.3.11.4 Combination product that includes a device, but does not involve an Advanced Therapy: No
+D.3.11.5 Radiopharmaceutical medicinal product: No
+D.3.11.6 Immunological medicinal product (such as vaccine, allergen, immune serum): No
+D.3.11.7 Plasma derived medicinal product: No
+D.3.11.8 Extractive medicinal product: No
+D.3.11.9 Recombinant medicinal product: No
+D.3.11.10 Medicinal product containing genetically modified organisms: No
+D.3.11.11 Herbal medicinal product: No
+D.3.11.12 Homeopathic medicinal product: No
+D.3.11.13 Another type of medicinal product: No
+
+D.8 Information on Placebo
+
+E. General Information on the Trial
+E.1 Medical condition or disease under investigation
+E.1.1 Medical condition(s) being investigated: Chronic renal anemia
+E.1.1 Medical condition(s) being investigated (it): Anemia renale cronica
+E.1.1.2 Therapeutic area: Diseases [C] - Blood and lymphatic diseases [C15]
+MedDRA Classification
+E.1.2 Medical condition or disease under investigation:
+E.1.2 Version: 14.1
+E.1.2 Level: LLT
+E.1.2 Classification code: 10058123
+E.1.2 Term: Renal anaemia
+E.1.2 System Organ Class: 100000004851
+E.1.3 Condition being studied is a rare disease: No
+E.2 Objective of the trial
+E.2.1 Main objective of the trial: - To determine the starting dose of MIRCERA in pediatric patients with CKD on hemodialysis when switching from  stable maintenance treatment with epoetin alfa, epoetin beta or darbepoetin alfa  - To demonstrate changes in Hb over time in response to different iv doses of MIRCERA
+E.2.1 Main objective of the trial (it): - Determinare la dose iniziale di MIRCERA in pazienti pediatrici con Malattia Renale Cronica in emodialisi precedentemente in terapia stabile di mantenimento con epoetina alfa, epoetina beta o darbepoetina alfa  - Dimostrare i cambiamenti dei valori di Emoglobina (Hb) nel tempo in risposta a dosi e.v. diverse di MIRCERA
+E.2.2 Secondary objectives of the trial: - To study the pharmacokinetics (PK) of MIRCERA in  pediatric patients  - To explore MIRCERA exposure response relationship  - To assess the safety and tolerability of multiple doses of  MIRCERA in pediatric patients  - To document long-term safety and efficacy of MIRCERA administration in pediatric patients with anemia associated with CKD
+E.2.2 Secondary objectives of the trial (it): - Studiare la farmacocinetica (PK) di MIRCERA in pazienti pediatrici- Esplorare la relazione esposizione-risposta a MIRCERA- Valutare la sicurezza e tollerabilita` di dosi multiple di MIRCERA in pazienti pediatrici- Documentare la sicurezza a lungo termine e l'efficacia della somministrazione di MIRCERA  in pazienti pediatrici con anemia associata a Malattia Renale Cronica
+E.2.3 Trial contains a sub-study: No
+E.3 Principal inclusion criteria: 1. Written informed consent  2. Pediatric patients 5 -17 years old with clinically stable chronic renal anemia  3. Hemodialysis treatment for at least 8 weeks  4. Body weight &#8805; 10 kg  5. Adequate hemodialysis: URR of > 65% or Kt/V >1.2 for  patients on thrice weekly HD. Patients with fewer or with  more HD sessions per week should have a weekly Kt/V &#8805; 3.6  6. Baseline pre-dialysis Hb concentration 10.0 - 12.0 g/dL  determined from the mean of weekly Hb values measured  between weeks -2 to -1  7. Intravenous maintenance epoetin alfa, epoetin beta, or  darbepoetin alfa with same dosing interval for at least 8  weeks before screening  8. Stable maintenance epoetin alfa, epoetin beta, or darbepoetin  alfa treatment with no weekly dose change &#8805; 25% (increase  or decrease) during the 2-weeks of screening. Patients who  had been previously treated by the sc route could only  participate if they have been receiving their ESA by the iv  route for at least 8 weeks before screening.  9. Adequate iron status defined as serum ferritin &#8805; 100 ng/mL or  TSAT &#8805; 20% (or percentage of hypochromic red cells <  10%); mean of two values measured during screening
+E.3 Principal inclusion criteria (it): 1. Consenso informato scritto  2. Pazienti pediatrici di 5 -17 anni con anemia renale cronica clinicamente stabile  3. In emodialisi da almeno 8 settimane  4. Peso corporeo &#8805; 10 kg  5. Emodialisi adeguata: URR  &gt; 65% o Kt/V &gt;1.2 per pazienti in Emodiaslisi (HD) tre volte alla settimana. Pazienti sottoposti ad un maggiore o minore numero di sessioni HD alla settimana devono avere un Kt/V &#8805; 3.6 settimanale  6. Concentrazione pre-dialisi di Hb alla visita basale tra 10.0 - 12.0 g/dL determinata dalla media dei valori settimanali di Hb nelle settimane -2 e -1  7. Trattamento di mantenimento per via endovenosa con epoetina alfa, epoetina beta o darbepoetina alfa con gli stessi intervalli di dosaggio per almeno 8 settimane prima della selezione.   8. Trattamento stabile di mantenimento con epoetina alfa, epoetina beta o darbepoetina alfa senza variazione della dose settimanale &#8805; 25% (incremento o decremento) durante le 2 settimane di selezione. I pazienti che erano stati precedentemente trattati per via sottocute possono partecipare solo se stanno ricevendo ESA (agenti stimolanti l'eritropoiesi) per via e.v. da almeno 8 settimane prima della selezione.  9. Adeguato bilancio del ferro definito come ferritina serica &gt; 100 ng/mL o TSAT &gt; 20% (o percentuale di emazie  ipocromiche &lt; 10%); media di 2 valori misurati alla selezione
+E.4 Principal exclusion criteria: 1. Overt gastrointestinal bleeding within 8 weeks before screening or during the screening period  2. RBC transfusions within 8 weeks before screening or during the screening period  3. Hemoglobinopathies (e.g., omozygous sickle-cell disease, thalassemia of all types)  4. Hemolysis  5. Active malignant disease  6. Chronic, uncontrolled or symptomatic inflammatory disease  (e.g. systemic lupus erythematosus)  7. Uncontrolled hypertension as assessed by the investigator  8. Epileptic seizures within 3 months prior to screening and during the screening period  9. Administration of any investigational drug within 4 weeks  prior to screening and planned during the study  10. Severe hyperparathyroidism (Intact PTH &#8805; 1000 pg/ml or  whole PTH &#8805; 500 pg/ml) or biopsy-proven bone marrow fibrosis  11. Known hypersensitivity to recombinant human erythropoietin, polyethylene glycol, or to any constituent of the study drug formulation  12. Pure red cell aplasia (PRCA) or history of PRCA  13. High likelihood of early withdrawal or interruption of the  study (e.g. planned living donor kidney transplant within 16  weeks after randomization)  14. Planned elective surgery during the entire study period (except hemodialysis access surgery)
+E.4 Principal exclusion criteria (it): 1. Sanguinamento gastrointestinale evidente entro 8 settimane prima della  selezione o durante il periodo di selezione   2. Trasfusione di eritrociti nelle 8 settimane precedenti la selezione o durante il periodo di selezione  3. Emoglobinopatie (es. Anemia falciforme omozigote, ogni tipo di talassemia)  4. Emolisi  5. Tumori maligni attivi   6. Malattia infiammatoria cronica, non controllata o sintomatica (es. lupus eritematoso sistemico)  7. Ipertensione non controllata secondo la valutazione dello sperimentatore.  8. Crisi epilettiche nei  3 mesi precedenti la selezione e durante il periodo di selezione  9. Somministrazione di qualsiasi farmaco sperimentale entro 4 settimane prima della selezione e pianificata durante lo studio  10. Iperparatiroidismo severo (PTH intatto &#8805; 1000 pg/ml o PTH totale &#8805; 500 pg/ml) o fibrosi del midollo osseo provata da biopsia   11. Ipersensibilita` nota all'eritropoietina umana ricombinante, polietilen-glicole, o a qualsiasi componente della formulazione del farmaco di studio   12. Aplasia pura dei globuli rossi (PRCA) o storia di PRCA  13. Alta possibilita` di ritiro prematuro o interruzione dello studio (es. trapianto di rene da donatore vivo pianificato entro 16 settimane dalla randomizzazione)  14. Chirurgia elettiva durante l'intero periodo di studio (eccetto chirurgia per accesso dell'emodialisi)
+E.5 End points
+E.5.1 Primary end point(s): - Change in hemoglobin concentration between the baseline  and evaluation periods (weeks 17-20)
+E.5.1 Primary end point(s) (it): - Cambiamento della concentrazione di Emoglobina (Hb) tra la visita basale e i periodi di valutazione (settimane 17-20)
+E.6 and E.7 Scope of the trial
+E.6 Scope of the Trial
+E.6.1 Diagnosis: No
+E.6.2 Prophylaxis: No
+E.6.3 Therapy: Yes
+E.6.4 Safety: Yes
+E.6.5 Efficacy: Yes
+E.6.6 Pharmacokinetic: Yes
+E.6.7 Pharmacodynamic: Yes
+E.6.8 Bioequivalence: No
+E.6.9 Dose response: Yes
+E.6.10 Pharmacogenetic: No
+E.6.11 Pharmacogenomic: No
+E.6.12 Pharmacoeconomic: No
+E.6.13 Others: No
+E.7 Trial type and phase 
+E.7.1 Human pharmacology (Phase I): No
+E.7.1.1 First administration to humans: No
+E.7.1.2 Bioequivalence study: No
+E.7.1.3 Other: No
+E.7.1.3.1 Other trial type description: 
+E.7.2 Therapeutic exploratory (Phase II): Yes
+E.7.3 Therapeutic confirmatory (Phase III): No
+E.7.4 Therapeutic use (Phase IV): No
+E.8 Design of the trial
+E.8.1 Controlled: No
+E.8.1.1 Randomised: Yes
+E.8.1.2 Open: Yes
+E.8.1.3 Single blind: No
+E.8.1.4 Double blind: No
+E.8.1.5 Parallel group: Yes
+E.8.1.6 Cross over: No
+E.8.1.7 Other: No
+E.8.2 Comparator of controlled trial
+E.8.2.1 Other medicinal product(s): Information not present in EudraCT
+E.8.2.2 Placebo: Information not present in EudraCT
+E.8.2.3 Other: Information not present in EudraCT
+E.8.2.3.1 Comparator description:  - same IMP used at different dosage
+E.8.2.3.1 Comparator description (it):  - Stesso farmaco ad altro dosaggio
+E.8.2.4 Number of treatment arms in the trial: 3
+E.8.3 The trial involves single site in the Member State concerned: No
+E.8.4 The trial involves multiple sites in the Member State concerned: Yes
+E.8.4.1 Number of sites anticipated in Member State concerned: 4
+E.8.5 The trial involves multiple Member States: Yes
+E.8.5.1 Number of sites anticipated in the EEA: 10
+E.8.6 Trial involving sites outside the EEA
+E.8.6.1 Trial being conducted both within and outside the EEA: No
+E.8.6.2 Trial being conducted completely outside of the EEA: No
+E.8.7 Trial has a data monitoring committee: No
+E.8.8 Definition of the end of the trial and justification where it is not the last visit of the last subject undergoing the trial: 
+E.8.9 Initial estimate of the duration of the trial
+E.8.9.1 In the Member State concerned years: 0
+E.8.9.1 In the Member State concerned months: 24
+E.8.9.1 In the Member State concerned days: 0
+E.8.9.2 In all countries concerned by the trial years: 5
+E.8.9.2 In all countries concerned by the trial months: 0
+E.8.9.2 In all countries concerned by the trial days: 0
+
+F. Population of Trial Subjects
+F.1 Age Range
+F.1.1 Trial has subjects under 18: Yes
+F.1.1 Number of subjects for this age range: 0
+F.1.1.1 In Utero: No
+F.1.1.2 Preterm newborn infants (up to gestational age < 37 weeks): No
+F.1.1.3 Newborns (0-27 days): No
+F.1.1.4 Infants and toddlers (28 days-23 months): No
+F.1.1.5 Children (2-11years): Yes
+F.1.1.6 Adolescents (12-17 years): Yes
+F.1.2 Adults (18-64 years): No
+F.1.3 Elderly (>=65 years): No
+F.2 Gender
+F.2.1 Female: Yes
+F.2.2 Male: Yes
+F.3 Group of trial subjects
+F.3.1 Healthy volunteers: No
+F.3.2 Patients: Yes
+F.3.3 Specific vulnerable populations: Yes
+F.3.3.1 Women of childbearing potential not using contraception : No
+F.3.3.2 Women of child-bearing potential using contraception: No
+F.3.3.3 Pregnant women: No
+F.3.3.4 Nursing women: No
+F.3.3.5 Emergency situation: No
+F.3.3.6 Subjects incapable of giving consent personally: Yes
+F.3.3.6.1 Details of subjects incapable of giving consent: 
+F.3.3.6.1 Details of subjects incapable of giving consent (it): Paediatric population
+F.3.3.7 Others: No
+F.4 Planned number of subjects to be included
+F.4.1 In the member state: 6
+F.4.2 For a multinational trial
+F.4.2.1 In the EEA: 38
+F.4.2.2 In the whole clinical trial: 41
+
+G. Investigator Networks to be involved in the Trial
+
+
+N. Review by the Competent Authority or Ethics Committee in the country concerned
+N. Competent Authority Decision: Authorised
+N. Date of Competent Authority Decision: 2008-11-11
+N. Ethics Committee Opinion of the trial application: Favourable
+N. Ethics Committee Opinion: Reason(s) for unfavourable opinion:
+N. Date of Ethics Committee Opinion: 2008-07-01
+
+P. End of Trial
+P. End of Trial Status: Completed
+P. Date of the global end of the trial: 2016-03-29
+
